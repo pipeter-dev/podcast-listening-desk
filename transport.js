@@ -42,3 +42,15 @@ if(mediaControls){
 try{if(navigator.audioSession)navigator.audioSession.type='playback'}catch{}
 for(const event of ['play','pause','loadedmetadata','emptied','durationchange','ratechange','seeked','ended'])audio.addEventListener(event,transportState);
 transportState();
+$('playToggle').onclick=()=>{
+  if(!audio.paused){audio.pause();return}
+  audio.play().catch(()=>{$('notice').textContent='音频尚未就绪，请稍后再点播放。'});
+};
+function updatePlayButton(){
+  const playing=!audio.paused&&!audio.ended;
+  $('playToggle').textContent=playing?'Ⅱ 暂停':'▶ 播放';
+  $('playToggle').setAttribute('aria-label',playing?'暂停':'播放');
+  $('playToggle').disabled=!audio.getAttribute('src');
+}
+for(const event of ['play','pause','ended','emptied','loadstart','loadedmetadata','error'])audio.addEventListener(event,updatePlayButton);
+updatePlayButton();

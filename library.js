@@ -46,7 +46,7 @@ async function openEpisode(id){
     if(!first.ok)throw Error('audio');
     // The final CDN URL pins the ad rendition returned by this request.
     const pinned=first.url;audio.src=pinned;started=true;
-    const source=parse(raw);
+    const source=parse(raw);prepareStudy(source,e);
     let capacity=new Uint8Array(2097152),used=0,response=first,ask=1048576;
     while(true){
       const block=new Uint8Array(await response.arrayBuffer());

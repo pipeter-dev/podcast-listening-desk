@@ -7,12 +7,10 @@ function pref(key, fallback) {
 function save(key,value) { try {localStorage.setItem('reader.'+key,value)} catch {} }
 for (const speed of [0.5,0.75,0.9,1,1.1,1.25,1.5,1.75,2]) $('speed').add(new Option(speed+'×',speed));
 $('speed').value = pref('speed','1');
-$('mode').value = pref('mode','word');
 $('follow').checked = pref('follow','true') === 'true';
 function rate(){audio.defaultPlaybackRate = audio.playbackRate = Number($('speed').value)||1}
 rate();
 $('speed').onchange = () => { rate();save('speed',$('speed').value) };
-$('mode').onchange = () => save('mode',$('mode').value);
 $('follow').onchange=()=>{
   save('follow',$('follow').checked);
   manualUntil=0;followActive();
@@ -37,13 +35,19 @@ function parse(raw) {
   if(!result.length) throw Error('没有找到可显示的字幕。');
   return result.sort((a,b)=>a.start-b.start);
 }
+let selectedCharacter=0;
 let selectedFirst = 0, selectedLast = 0;
 function select(text,sentence,first=0,last=first){
+  selectedCharacter=0;
   selectedFirst=first; selectedLast=last;
   chosen=text;context=sentence;
   $('excerpt').textContent=text||'点击正文，或拖选一段文字。';
   $('copy').disabled=$('ask').disabled=!text;
   $('fallback').hidden=true;$('notice').textContent='';
+  for(const b of document.querySelectorAll('[data-scope]'))b.disabled=!text||(b.dataset.scope==='word'&&!/^[\p{L}\p{N}]+(?:['’-][\p{L}\p{N}]+)*$/u.test(text));
+  $('markCue').disabled=!text;$('alignCue').disabled=!text||cues[first]?.start===undefined;
+  const group=cues[first]?.study;
+  $('scopeInfo').textContent=text&&group?'第 '+(group.paragraph+1)+' 段 · '+group.sceneTitle:'';
 }
 async function copy(text){
   try{
@@ -75,6 +79,7 @@ $('resetOffset').onclick=()=>setCueOffset(0);
 function seek(cue){audio.currentTime=Math.max(0,cue.start+cueOffset);audio.play().catch(()=>{$('notice').textContent='请使用播放器的播放键。'})}
 function display(data, append=false){
   const start=append?cues.length:0;
+  if(data.length&&!data[0].study)prepareStudy(data);
   cues=data;
   if(!append){active=-1;select('','');rows.replaceChildren()}
   $('follow').disabled=cues[0]?.start===undefined;
@@ -93,17 +98,10 @@ function display(data, append=false){
     }
     sentence.onclick=e=>{
       if(getSelection().toString().trim()) return;
-      const mode=$('mode').value, word=e.target.closest('.word');
-      if(mode==='word' && !word && e.detail!==0)return;
-      if(mode==='align'){
-        if(cue.start===undefined||audio.readyState<1){$('notice').textContent='请先载入音频和带时间戳的字幕。';return}
-        setCueOffset(audio.currentTime-cue.start);$('mode').value='seek';return;
-      }
-      const text=mode==='word' && word?word.textContent:cue.text;
-      select(text,cue.text,index);
-      if(mode==='word'||mode==='line') copySelection();
-      if(mode==='mark')row.classList.toggle('marked');
-      if(mode==='seek'){if(cue.start!==undefined)seek(cue);else $('notice').textContent='纯文稿没有时间戳。'}
+      const word=e.target.closest('.word');
+      select(word?.textContent||cue.text,cue.text,index);
+      if(word){const r=document.createRange();r.selectNodeContents(sentence);r.setEndBefore(word);selectedCharacter=r.toString().length}
+
     };
     sentence.onkeydown=e=>{if(e.key==='Enter')sentence.click()};
     row.append(sentence);rows.append(row);
@@ -114,7 +112,10 @@ document.addEventListener('selectionchange',()=>{
   if(!selection||!rows.contains(s.anchorNode)||!rows.contains(s.focusNode))return;
   const range=s.getRangeAt(0);
   const sentences=[...rows.querySelectorAll('.sentence')].filter(el=>range.intersectsNode(el));
-  if(sentences.length) select(selection,sentences.map(el=>el.textContent).join(' '),Number(sentences[0].parentElement.dataset.index),Number(sentences.at(-1).parentElement.dataset.index));
+  if(sentences.length){
+    select(selection,sentences.map(el=>el.textContent).join(' '),Number(sentences[0].parentElement.dataset.index),Number(sentences.at(-1).parentElement.dataset.index));
+    if(sentences[0].contains(range.startContainer)){const before=range.cloneRange();before.selectNodeContents(sentences[0]);before.setEnd(range.startContainer,range.startOffset);selectedCharacter=before.toString().length}
+  }
 });
 let manualUntil=0, pointerHeld=false, drag=null, suppressClick=false;
 function holdScroll(){manualUntil=performance.now()+3500}
