@@ -70,10 +70,13 @@ function setCueOffset(value){
 }
 $('resetOffset').onclick=()=>setCueOffset(0);
 function seek(cue){audio.currentTime=Math.max(0,cue.start+cueOffset);audio.play().catch(()=>{$('notice').textContent='请使用播放器的播放键。'})}
-function display(data){
-  cues=data;active=-1;select('','');rows.replaceChildren();
+function display(data, append=false){
+  const start=append?cues.length:0;
+  cues=data;
+  if(!append){active=-1;select('','');rows.replaceChildren()}
   $('follow').disabled=cues[0]?.start===undefined;
-  for(const [index,cue] of cues.entries()){
+  for(let index=start;index<cues.length;index++){
+    const cue=cues[index];
     const row=document.createElement('div'); row.className='row';row.dataset.index=index;
     if(cue.start!==undefined){
       const t=document.createElement('button'); t.className='time';
@@ -115,7 +118,7 @@ audio.ontimeupdate=()=>{
   if(next===active)return;
   rows.children[active]?.classList.remove('active');active=next;
   const row=rows.children[next];if(!row)return;row.classList.add('active');
-  if($('follow').checked&&!audio.paused&&!getSelection().toString()&&!$('importer').open){
+  if(!$('captionPanel').hidden&&$('follow').checked&&!audio.paused&&!getSelection().toString()&&!$('importer').open){
     const rect=row.getBoundingClientRect();if(rect.top<0||rect.bottom>innerHeight)row.scrollIntoView({block:'center'});
   }
 };
@@ -140,3 +143,14 @@ $('form').onsubmit=async e=>{
 const sample='WEBVTT\n\n00:00:00.000 --> 00:00:02.859\nCould you walk me through the test results?\n\n00:00:02.859 --> 00:00:06.998\nOf course. The camera worked well in daylight.\n\n00:00:06.998 --> 00:00:09.547\nWhat should we focus on next?\n\n00:00:09.547 --> 00:00:13.001\nLet us take a closer look at the low-light tests.';
 display(parse(sample));
 
+function toggleCaptions(show){
+  $('captionPanel').hidden=!show;
+  $('toggleCaptions').textContent=show?'收起字幕':'展开字幕';
+  $('toggleCaptions').setAttribute('aria-expanded',String(show));
+  if(show&&$('follow').checked)rows.querySelector('.active')?.scrollIntoView({block:'nearest'});
+}
+toggleCaptions(pref('showCaptions','true')==='true');
+$('toggleCaptions').onclick=()=>{
+  const show=$('captionPanel').hidden;
+  toggleCaptions(show);save('showCaptions',show);
+};
