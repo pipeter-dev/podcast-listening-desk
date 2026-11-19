@@ -34,7 +34,9 @@ function parse(raw) {
   if(!result.length) throw Error('没有找到可显示的字幕。');
   return result.sort((a,b)=>a.start-b.start);
 }
-function select(text,sentence){
+let selectedFirst = 0, selectedLast = 0;
+function select(text,sentence,first=0,last=first){
+  selectedFirst=first; selectedLast=last;
   chosen=text;context=sentence;
   $('excerpt').textContent=text||'点击正文，或拖选一段文字。';
   $('copy').disabled=$('ask').disabled=!text;
@@ -51,11 +53,11 @@ async function copy(text){
     $('notice').textContent='请手动复制框中所选文字。';return false;
   }
 }
-$('copy').onclick=()=>copy(chosen);
+$('copy').onclick=()=>copySelection();
 $('ask').onclick=async()=>{
   const tab=window.open('about:blank','_blank');
   if(tab) tab.opener=null;
-  const ok=await copy('我在听英语播客。请用中文解释所选词句在原文中的意思和用法，并给一个工作场景例句。\n\n所选词句：'+chosen+'\n原文：'+context);
+  const ok=await copySelection(true);
   if(tab && ok){tab.location.href='https://chatgpt.com/';$('notice').textContent='已复制提问，请在 ChatGPT 中粘贴。'}
   else {tab?.close();const link=document.createElement('a');link.href='https://chatgpt.com/';link.target='_blank';link.rel='noopener';link.textContent='打开 ChatGPT';$('notice').append(' ',link)}
 };
@@ -71,8 +73,8 @@ function seek(cue){audio.currentTime=Math.max(0,cue.start+cueOffset);audio.play(
 function display(data){
   cues=data;active=-1;select('','');rows.replaceChildren();
   $('follow').disabled=cues[0]?.start===undefined;
-  for(const cue of cues){
-    const row=document.createElement('div'); row.className='row';
+  for(const [index,cue] of cues.entries()){
+    const row=document.createElement('div'); row.className='row';row.dataset.index=index;
     if(cue.start!==undefined){
       const t=document.createElement('button'); t.className='time';
       t.textContent=Math.floor(cue.start/60)+':'+String(Math.floor(cue.start%60)).padStart(2,'0');
@@ -92,8 +94,8 @@ function display(data){
         setCueOffset(audio.currentTime-cue.start);$('mode').value='seek';return;
       }
       const text=mode==='word' && word?word.textContent:cue.text;
-      select(text,cue.text);
-      if(mode==='word'||mode==='line') copy(text);
+      select(text,cue.text,index);
+      if(mode==='word'||mode==='line') copySelection();
       if(mode==='mark')row.classList.toggle('marked');
       if(mode==='seek'){if(cue.start!==undefined)seek(cue);else $('notice').textContent='纯文稿没有时间戳。'}
     };
@@ -106,7 +108,7 @@ document.addEventListener('selectionchange',()=>{
   if(!selection||!rows.contains(s.anchorNode)||!rows.contains(s.focusNode))return;
   const range=s.getRangeAt(0);
   const sentences=[...rows.querySelectorAll('.sentence')].filter(el=>range.intersectsNode(el));
-  select(selection,sentences.map(el=>el.textContent).join(' '));
+  if(sentences.length) select(selection,sentences.map(el=>el.textContent).join(' '),Number(sentences[0].parentElement.dataset.index),Number(sentences.at(-1).parentElement.dataset.index));
 });
 audio.ontimeupdate=()=>{
   const next=cues.findIndex(c=>c.start<=audio.currentTime-cueOffset && audio.currentTime-cueOffset<c.end);
