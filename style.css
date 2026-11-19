@@ -3,3 +3,7 @@
 
 
 #library{margin:28px 0}#library summary{font-weight:650}#library label{display:block;margin:16px 0}#lookup{max-width:100%;font:inherit}#entries article{padding:15px 0;border-top:1px solid #ccd5cf}#entries pre{font:inherit;white-space:pre-wrap;overflow-wrap:anywhere}#entries p{color:#506457}
+#rows{max-height:clamp(12rem,52vh,36rem);overflow-y:auto;overflow-x:hidden;scrollbar-gutter:stable;touch-action:pan-y pinch-zoom;overflow-anchor:none}
+#rows:focus-visible{outline:2px solid #337053;outline-offset:2px}
+.row{cursor:grab}.row .time{touch-action:pan-y}
+@media(max-width:680px){#rows{max-height:45vh}}

@@ -13,7 +13,10 @@ function rate(){audio.defaultPlaybackRate = audio.playbackRate = Number($('speed
 rate();
 $('speed').onchange = () => { rate();save('speed',$('speed').value) };
 $('mode').onchange = () => save('mode',$('mode').value);
-$('follow').onchange = () => save('follow',$('follow').checked);
+$('follow').onchange=()=>{
+  save('follow',$('follow').checked);
+  manualUntil=0;followActive();
+};
 function parse(raw) {
   const input = raw.replace(/^\uFEFF/,'').replace(/\r\n?/g,'\n').trim();
   if (!input) throw Error('请提供文稿。');
@@ -113,14 +116,57 @@ document.addEventListener('selectionchange',()=>{
   const sentences=[...rows.querySelectorAll('.sentence')].filter(el=>range.intersectsNode(el));
   if(sentences.length) select(selection,sentences.map(el=>el.textContent).join(' '),Number(sentences[0].parentElement.dataset.index),Number(sentences.at(-1).parentElement.dataset.index));
 });
+let manualUntil=0, pointerHeld=false, drag=null, suppressClick=false;
+function holdScroll(){manualUntil=performance.now()+3500}
+function followActive(){
+  if(!$('follow').checked||$('captionPanel').hidden||pointerHeld||performance.now()<manualUntil)return;
+  const row=rows.children[active];
+  if(!row)return;
+  const box=rows.getBoundingClientRect(),rect=row.getBoundingClientRect();
+  const margin=Math.min(32,rows.clientHeight/8);
+  if(rect.top<box.top+margin||rect.bottom>box.bottom-margin){
+    rows.scrollTop+=rect.top-box.top-(rows.clientHeight-Math.min(rect.height,rows.clientHeight))/2;
+  }
+}
+rows.addEventListener('wheel',holdScroll,{passive:true});
+rows.addEventListener('keydown',e=>{
+  if(['ArrowDown','ArrowUp','PageDown','PageUp','Home','End',' '].includes(e.key))holdScroll();
+});
+rows.addEventListener('pointerdown',e=>{
+  if(!e.isPrimary||e.button!==0)return;
+  suppressClick=false;pointerHeld=true;
+  if(e.pointerType==='mouse'&&!e.target.closest('.sentence')&&
+     e.clientX<rows.getBoundingClientRect().left+rows.clientWidth)
+    drag={id:e.pointerId,y:e.clientY,top:rows.scrollTop,moved:false};
+});
+rows.addEventListener('pointermove',e=>{
+  if(!drag||e.pointerId!==drag.id)return;
+  const dy=e.clientY-drag.y;
+  if(!drag.moved&&Math.abs(dy)<5)return;
+  if(!drag.moved){rows.setPointerCapture(e.pointerId);drag.moved=true}
+  e.preventDefault();rows.scrollTop=drag.top-dy;holdScroll();
+});
+function finishDrag(e){
+  if(!pointerHeld||!e.isPrimary)return;
+  pointerHeld=false;
+  if(drag?.moved){suppressClick=true;holdScroll()}
+  drag=null;
+}
+window.addEventListener('pointerup',finishDrag,true);
+window.addEventListener('pointercancel',finishDrag,true);
+window.addEventListener('blur',()=>{pointerHeld=false;drag=null});
+rows.addEventListener('touchmove',holdScroll,{passive:true});
+rows.addEventListener('scroll',()=>{if(pointerHeld||performance.now()<manualUntil)holdScroll()},{passive:true});
+rows.addEventListener('click',e=>{
+  if(suppressClick){e.stopImmediatePropagation();e.preventDefault();suppressClick=false}
+},true);
 audio.ontimeupdate=()=>{
   const next=cues.findIndex(c=>c.start<=audio.currentTime-cueOffset && audio.currentTime-cueOffset<c.end);
-  if(next===active)return;
-  rows.children[active]?.classList.remove('active');active=next;
-  const row=rows.children[next];if(!row)return;row.classList.add('active');
-  if(!$('captionPanel').hidden&&$('follow').checked&&!audio.paused&&!getSelection().toString()&&!$('importer').open){
-    const rect=row.getBoundingClientRect();if(rect.top<0||rect.bottom>innerHeight)row.scrollIntoView({block:'center'});
+  if(next!==active){
+    rows.children[active]?.classList.remove('active');active=next;
+    rows.children[active]?.classList.add('active');
   }
+  followActive();
 };
 audio.onerror=()=>{$('notice').textContent='音频无法播放，请检查是否为可访问的音频直链，或导入本机文件。'};
 function httpURL(value){const u=new URL(value);if(!['https:','http:'].includes(u.protocol))throw Error('请输入 HTTP 或 HTTPS 直链。');return u.href}
@@ -147,7 +193,7 @@ function toggleCaptions(show){
   $('captionPanel').hidden=!show;
   $('toggleCaptions').textContent=show?'收起字幕':'展开字幕';
   $('toggleCaptions').setAttribute('aria-expanded',String(show));
-  if(show&&$('follow').checked)rows.querySelector('.active')?.scrollIntoView({block:'nearest'});
+  if(show){manualUntil=0;followActive()}
 }
 toggleCaptions(pref('showCaptions','true')==='true');
 $('toggleCaptions').onclick=()=>{
