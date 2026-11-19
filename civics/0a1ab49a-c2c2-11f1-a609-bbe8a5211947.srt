@@ -1,0 +1,2983 @@
+1
+00:00:00,000 --> 00:00:05,040
+Hello everyone, Nick here.
+
+2
+00:00:05,040 --> 00:00:10,880
+I am recording these words a mere few days before the polls open on November 3rd.
+
+3
+00:00:10,880 --> 00:00:15,120
+But by the time you hear these words, the midterms will be over and you're going to
+
+4
+00:00:15,120 --> 00:00:21,160
+be back to regular commercial selling products instead of promoting people running for office.
+
+5
+00:00:21,160 --> 00:00:27,000
+And I wonder if you, like me, felt that this election in particular, the 2026 midterms,
+
+6
+00:00:27,000 --> 00:00:35,080
+a lot and I mean a lot more ads. It could just be because we are spending more time
+
+7
+00:00:35,080 --> 00:00:40,720
+watching videos on our various devices. But at this point me and my kids can quote chapter
+
+8
+00:00:40,720 --> 00:00:48,440
+and verse about 10 different ads tied to one race in our state. If you felt the same way,
+
+9
+00:00:48,440 --> 00:00:54,760
+there is a reason for that. And that reason is kind of what this episode is about. Ads
+
+10
+00:00:54,760 --> 00:01:02,440
+cost money. And as of right now, CNN has reported that over 16 billion dollars has been raised
+
+11
+00:01:02,440 --> 00:01:08,440
+for these midterm campaigns nationally. This episode is about a landmark Supreme Court decision
+
+12
+00:01:08,440 --> 00:01:16,280
+from 2010, Citizens United versus the FEC. This decision altered how money and elections
+
+13
+00:01:16,280 --> 00:01:22,120
+intertwine. And just for fun, let me tell you about the last midterm election before 2010,
+
+14
+00:01:22,120 --> 00:01:26,520
+before this ruling, it was the 2006 midterms.
+
+15
+00:01:26,520 --> 00:01:28,520
+Do you know how much was raised by the two parties
+
+16
+00:01:28,520 --> 00:01:30,000
+in that election?
+
+17
+00:01:30,000 --> 00:01:32,720
+About $900 million.
+
+18
+00:01:32,720 --> 00:01:34,280
+Under a billion.
+
+19
+00:01:34,280 --> 00:01:37,640
+2026 midterms, again, 16 billion.
+
+20
+00:01:37,640 --> 00:01:42,280
+It is indeed the most expensive midterm in US history.
+
+21
+00:01:42,280 --> 00:01:44,360
+And you might be thinking, well,
+
+22
+00:01:44,360 --> 00:01:46,480
+you know, things are expensive everywhere,
+
+23
+00:01:46,480 --> 00:01:49,400
+billionaires all over the world influence politics.
+
+24
+00:01:49,400 --> 00:01:50,840
+And you're not wrong.
+
+25
+00:01:50,840 --> 00:01:56,840
+But by comparison in a significant parliamentary election in 2024 in the UK,
+
+26
+00:01:57,520 --> 00:02:02,640
+a grand total of $125 million was spent just two years ago.
+
+27
+00:02:03,280 --> 00:02:09,640
+Yes, our governing system is unique, but so too is our election process.
+
+28
+00:02:10,320 --> 00:02:13,120
+In the months to come, we're going to start to get a clear picture of where
+
+29
+00:02:13,120 --> 00:02:18,400
+exactly that $16 billion came from, which individuals thought it was such a
+
+30
+00:02:18,400 --> 00:02:25,040
+worthy investment, and finally what that money got them. But for today, we're going to start
+
+31
+00:02:25,040 --> 00:02:31,920
+with how we got here. So here is a complete breakdown of Citizens United vs. FEC. Stick around.
+
+32
+00:02:48,400 --> 00:02:52,800
+For many to choose from, you're sure to find the right gift for anyone on your list.
+
+33
+00:02:52,800 --> 00:03:02,000
+Now that your holiday shopping list is figured out, enjoy this bird singing Jingle Bells.
+
+34
+00:03:02,000 --> 00:03:04,320
+Give the gift of scratches from the California Lottery.
+
+35
+00:03:04,320 --> 00:03:06,600
+A little play can make your day.
+
+36
+00:03:06,600 --> 00:03:07,600
+Please play responsibly.
+
+37
+00:03:07,600 --> 00:03:12,400
+Must be 18 years or older to purchase, play, or claim.
+
+38
+00:03:12,400 --> 00:03:16,000
+There aren't a lot of functioning democracies around the world that work this way.
+
+39
+00:03:16,000 --> 00:03:24,040
+where you can basically have millionaires and billionaires bank-rolling, whoever they
+
+40
+00:03:24,040 --> 00:03:27,040
+want, however they want, in some cases undisclosed.
+
+41
+00:03:27,040 --> 00:03:33,440
+So we're here today once again to say enough is enough.
+
+42
+00:03:33,440 --> 00:03:36,560
+It's time for the people to take back their elections.
+
+43
+00:03:36,560 --> 00:03:40,080
+It's time to overturn Citizens United.
+
+44
+00:03:40,080 --> 00:03:44,120
+I had to raise a lot of money from my campaign.
+
+45
+00:03:44,120 --> 00:03:51,120
+So I, there's nobody who operates in politics that has perfectly clean hands on this issue.
+
+46
+00:03:52,880 --> 00:03:53,880
+I'm Nick Capodice.
+
+47
+00:03:53,880 --> 00:03:54,960
+I'm Hannah McCarthy.
+
+48
+00:03:54,960 --> 00:03:58,920
+And this is Civics 101, the podcast refresher course on the basics of how our democracy
+
+49
+00:03:58,920 --> 00:03:59,920
+works.
+
+50
+00:03:59,920 --> 00:04:04,640
+And today we are going to break down the Supreme Court decision that Jimmy Carter, called
+
+51
+00:04:04,640 --> 00:04:10,040
+stupid, that Barack Obama openly criticized at a State of the Union address that former
+
+52
+00:04:10,040 --> 00:04:14,300
+Supreme Court Justice Ruth Bader Ginsburg said in an interview would be quote,
+
+53
+00:04:14,300 --> 00:04:21,260
+the impossible dream to overrule Citizens United versus FEC 2010.
+
+54
+00:04:21,260 --> 00:04:27,760
+In this episode you are going to learn about the case and a lot of initialisms.
+
+55
+00:04:27,760 --> 00:04:33,440
+The FEC, BCRA, known as BICRA, PACS, and Super PACS, and you're also going to learn
+
+56
+00:04:33,440 --> 00:04:38,720
+about corporations, dark money, and finally how this decision has affected
+
+57
+00:04:38,720 --> 00:04:44,920
+political campaigns in the last 12 years. And all in about 20 minutes. 30 minutes.
+
+58
+00:04:44,920 --> 00:04:53,680
+Can we just get the name out of the way first? I know the FEC stands for the Federal Election
+
+59
+00:04:53,680 --> 00:04:58,720
+Commission, but who or what is Citizens United?
+
+60
+00:04:58,720 --> 00:05:05,040
+Citizens United is a nonprofit organization that has for a long time made ads and documentaries
+
+61
+00:05:05,040 --> 00:05:07,540
+that support conservative politicians.
+
+62
+00:05:07,540 --> 00:05:19,440
+The head of Citizens United, David Bossy, was Donald Trump's deputy campaign manager.
+
+63
+00:05:19,440 --> 00:05:22,120
+They are funded by the Koch brothers and a lot of other sources.
+
+64
+00:05:22,120 --> 00:05:25,520
+They are a PAC, political action committee, which I'm going to get into in just a little
+
+65
+00:05:25,520 --> 00:05:26,520
+bit.
+
+66
+00:05:26,520 --> 00:05:29,760
+Do you remember we got to interview Michael DeCoccus, the Democratic nominee for president
+
+67
+00:05:29,760 --> 00:05:30,760
+in 1988?
+
+68
+00:05:30,760 --> 00:05:31,760
+Do I ever?
+
+69
+00:05:31,760 --> 00:05:34,760
+It's got to be 50 states, 200,000 precincts.
+
+70
+00:05:34,760 --> 00:05:36,600
+I don't want to hear about reds, blues, and purples.
+
+71
+00:05:36,600 --> 00:05:38,040
+I mean, it's all just nonsense.
+
+72
+00:05:38,040 --> 00:05:39,560
+You know, I mean, God.
+
+73
+00:05:39,560 --> 00:05:43,840
+Citizens United were the ones who made one of the most infamous
+
+74
+00:05:43,840 --> 00:05:47,720
+political commercials in history, the racist Willie Horton
+
+75
+00:05:47,720 --> 00:05:49,680
+attack ad in 1988.
+
+76
+00:05:49,680 --> 00:05:52,160
+Nuccaus not only opposes the death penalty,
+
+77
+00:05:52,160 --> 00:05:54,840
+he allowed first degree murderers to have weekend passes
+
+78
+00:05:54,840 --> 00:05:56,360
+from prison.
+
+79
+00:05:56,360 --> 00:05:57,240
+Oh, right.
+
+80
+00:05:57,240 --> 00:06:00,960
+The ad that helped George H.W. Bush win the election.
+
+81
+00:06:00,960 --> 00:06:05,960
+And in 2008, they released a film called Hillary the Movie,
+
+82
+00:06:06,100 --> 00:06:09,560
+which was purely a hit piece on former First Lady
+
+83
+00:06:09,560 --> 00:06:12,040
+and presidential candidate Hillary Clinton.
+
+84
+00:06:12,040 --> 00:06:14,720
+Hillary is really the closest thing we have in America
+
+85
+00:06:14,720 --> 00:06:16,840
+to a European socialist.
+
+86
+00:06:16,840 --> 00:06:18,120
+Oh, isn't that amazing?
+
+87
+00:06:18,120 --> 00:06:20,560
+Oh, it's a woman, she can walk and talk.
+
+88
+00:06:20,560 --> 00:06:24,480
+This movie is at the center of one of the most famous
+
+89
+00:06:24,480 --> 00:06:27,320
+or infamous decisions in our lifetime, Hannah,
+
+90
+00:06:27,320 --> 00:06:31,100
+a decision about who can give to political campaigns
+
+91
+00:06:31,100 --> 00:06:33,120
+and how much.
+
+92
+00:06:33,120 --> 00:06:36,340
+And we begin our tale with one of the most expensive
+
+93
+00:06:36,340 --> 00:06:38,920
+political campaigns in history.
+
+94
+00:06:40,720 --> 00:06:43,500
+So if you want to go way back, historically,
+
+95
+00:06:43,500 --> 00:06:46,240
+there were no limits in the 1800s.
+
+96
+00:06:46,240 --> 00:06:47,540
+That's Jeff Bone.
+
+97
+00:06:47,540 --> 00:06:48,920
+He is an assistant professor
+
+98
+00:06:48,920 --> 00:06:51,160
+at St. Joseph's University in Philadelphia.
+
+99
+00:06:51,160 --> 00:06:55,200
+No limits at all on campaign spending in the 1800s?
+
+100
+00:06:55,200 --> 00:06:56,040
+Not at all.
+
+101
+00:06:56,040 --> 00:07:01,320
+wasn't really talked about as nobody was really spending massive amounts of money on campaigns.
+
+102
+00:07:01,320 --> 00:07:07,880
+But this became an issue towards the end of the 19th century with the rise of donors like
+
+103
+00:07:07,880 --> 00:07:14,880
+wealthy corporations and other individuals who were starting to dominate political campaigns.
+
+104
+00:07:14,880 --> 00:07:20,480
+But that big campaign was 1896 when William McKinley was running for president.
+
+105
+00:07:20,480 --> 00:07:29,000
+Why, fellow citizens, raise the fever and impose upon the patriotic people of this country?
+
+106
+00:07:29,000 --> 00:07:33,760
+16.5 million dollars were raised for his political campaign.
+
+107
+00:07:33,760 --> 00:07:37,000
+In fact, his chief fundraiser, Mark Hanna, said, quote,
+
+108
+00:07:37,000 --> 00:07:39,600
+There are two things that are important in politics.
+
+109
+00:07:39,600 --> 00:07:43,400
+The first is money, and I can't remember what the second one is.
+
+110
+00:07:43,400 --> 00:07:47,880
+Okay, I know inflation calculators aren't 100% accurate, but is there a rough estimate
+
+111
+00:07:47,880 --> 00:07:49,880
+of what that comes out to today?
+
+112
+00:07:49,880 --> 00:07:53,160
+Yeah, roughly about half a billion dollars.
+
+113
+00:07:53,160 --> 00:07:56,120
+More than Mitt Romney raised in 2012.
+
+114
+00:07:56,120 --> 00:07:59,480
+And then, more and more campaign donations
+
+115
+00:07:59,480 --> 00:08:02,520
+from corporations were becoming quite concerning
+
+116
+00:08:02,520 --> 00:08:05,240
+to the public and the press.
+
+117
+00:08:05,240 --> 00:08:07,840
+And just to be clear, what do we mean
+
+118
+00:08:07,840 --> 00:08:09,560
+when we say corporation?
+
+119
+00:08:09,560 --> 00:08:14,080
+Ooh, such a tricky word to define.
+
+120
+00:08:14,080 --> 00:08:18,520
+Simply, a corporation is a legal business entity
+
+121
+00:08:18,520 --> 00:08:21,800
+that's separate from its owners.
+
+122
+00:08:21,800 --> 00:08:26,800
+Corporations have existed far before the United States.
+
+123
+00:08:27,800 --> 00:08:30,440
+And the concept was borrowed from England
+
+124
+00:08:30,440 --> 00:08:33,400
+and from Europe generally speaking,
+
+125
+00:08:33,400 --> 00:08:36,120
+where corporations were given charters,
+
+126
+00:08:36,120 --> 00:08:38,440
+typically by a monarch,
+
+127
+00:08:38,440 --> 00:08:40,440
+the responsibility of a corporation,
+
+128
+00:08:40,440 --> 00:08:42,160
+which by the way, we're huge.
+
+129
+00:08:42,160 --> 00:08:44,960
+We're talking about corporations that existed
+
+130
+00:08:44,960 --> 00:08:47,040
+to engage in trade with the East,
+
+131
+00:08:47,040 --> 00:08:50,560
+to be colonial powers in North America.
+
+132
+00:08:50,560 --> 00:08:52,660
+And they did serve a purpose.
+
+133
+00:08:52,660 --> 00:08:55,440
+I don't know if we would call it a public welfare purpose
+
+134
+00:08:55,440 --> 00:08:57,640
+today because it was really serving the interests
+
+135
+00:08:57,640 --> 00:09:00,460
+of the governments back home.
+
+136
+00:09:00,460 --> 00:09:03,680
+Today, just about every large business is a corporation.
+
+137
+00:09:03,680 --> 00:09:05,120
+You and I could make one right now.
+
+138
+00:09:05,120 --> 00:09:08,320
+We could just be the two shareholders who invest in it.
+
+139
+00:09:08,320 --> 00:09:10,960
+We make money on stocks and dividends.
+
+140
+00:09:10,960 --> 00:09:15,280
+and you and I are not personally liable for any company debt.
+
+141
+00:09:15,280 --> 00:09:16,720
+Corporations can be one person too.
+
+142
+00:09:16,720 --> 00:09:18,400
+You think you just have one shareholder.
+
+143
+00:09:18,400 --> 00:09:21,520
+And just to be more clear on what that practically means,
+
+144
+00:09:21,520 --> 00:09:24,800
+corporations can engage in contracts.
+
+145
+00:09:24,800 --> 00:09:26,360
+They can have bank accounts.
+
+146
+00:09:26,360 --> 00:09:31,360
+They can do things that any other individual person can do.
+
+147
+00:09:31,360 --> 00:09:34,880
+But this is a bit of a fallacy because, of course,
+
+148
+00:09:34,880 --> 00:09:36,120
+corporations aren't people.
+
+149
+00:09:36,120 --> 00:09:38,760
+They can't when it comes to politics run for office.
+
+150
+00:09:38,760 --> 00:09:44,760
+They don't have political beliefs in the same way you or I do and other living people do.
+
+151
+00:09:44,760 --> 00:09:53,760
+However, the law does accord them the privilege without much responsibility behind it to have these liberties.
+
+152
+00:09:53,760 --> 00:10:02,760
+The first legislation about corporations and their relationship to political campaigns begins with that trust-busting, safari-going bull moose.
+
+153
+00:10:02,760 --> 00:10:05,760
+Or maybe just Teddy Roosevelt. You can go with that.
+
+154
+00:10:05,760 --> 00:10:12,660
+I am leaving because somebody must leave or else the fight would not be made at all.
+
+155
+00:10:12,660 --> 00:10:19,900
+There was a political scandal of the time that there was a large donations from corporations
+
+156
+00:10:19,900 --> 00:10:25,920
+towards Republican candidates including at the top of the ticket Roosevelt himself.
+
+157
+00:10:25,920 --> 00:10:28,840
+Now this is in the era too of trust busting.
+
+158
+00:10:28,840 --> 00:10:33,800
+The Sherman Act was brought in a few years before that to cut down on corporate power
+
+159
+00:10:33,800 --> 00:10:41,720
+generally speaking and its dominance and ability to create monopolies and and and be beyond the
+
+160
+00:10:41,720 --> 00:10:48,120
+control of of the government to regulate. So there was swift action. Teddy Roosevelt signed into law
+
+161
+00:10:48,120 --> 00:10:54,280
+the first campaign finance law in US history, the Tillman Act of 1907. This act prevented
+
+162
+00:10:54,280 --> 00:11:00,120
+corporations from giving money to candidates directly. Which Roosevelt had indeed benefited
+
+163
+00:11:00,120 --> 00:11:01,880
+from himself in the past.
+
+164
+00:11:01,880 --> 00:11:05,200
+So this act washed his hands of the taint of corruption.
+
+165
+00:11:05,200 --> 00:11:10,880
+Which remedied the political scandal that had media entities like the New York Times
+
+166
+00:11:10,880 --> 00:11:15,640
+making statements that this is the problem, this is leading to potential corruption by
+
+167
+00:11:15,640 --> 00:11:21,560
+allowing corporations to contribute whatever they want and to decide who's going to win
+
+168
+00:11:21,560 --> 00:11:23,600
+the outcome of these elections.
+
+169
+00:11:23,600 --> 00:11:25,720
+Is the Tillman Act still in effect?
+
+170
+00:11:25,720 --> 00:11:31,800
+sense it is, corporations are still not allowed to directly give to campaigns from their coffers.
+
+171
+00:11:31,800 --> 00:11:35,400
+Though I have a feeling there's a workaround. There is a workaround and we're going to get there.
+
+172
+00:11:36,120 --> 00:11:41,480
+So that's how things stood. Over the years, a bunch of other acts came along that tweaked
+
+173
+00:11:41,480 --> 00:11:47,880
+campaign funding laws. But the problem was, there wasn't really anybody minding the store.
+
+174
+00:11:47,880 --> 00:11:53,880
+Who should be in charge of making sure nobody breaks the law when it comes to campaign financing?
+
+175
+00:11:53,880 --> 00:11:57,880
+And there is a bit of an irony in who gets the ball rolling.
+
+176
+00:11:57,880 --> 00:12:01,880
+Cool, I know that campaign song.
+
+177
+00:12:01,880 --> 00:12:05,880
+That's Nixon Now.
+
+178
+00:12:05,880 --> 00:12:11,880
+Richard Milhouse Nixon signed the Federal Election Campaign Act of 1972,
+
+179
+00:12:11,880 --> 00:12:15,880
+one of the provisions of which required campaigns and political committees
+
+180
+00:12:15,880 --> 00:12:21,880
+to report the names, addresses, and occupations of donors of more than $200 to campaigns.
+
+181
+00:12:21,880 --> 00:12:27,080
+campaigns. I mean it is kind of funny isn't it? It is kind of funny. And by the way everyone,
+
+182
+00:12:27,080 --> 00:12:32,320
+the reason why Nick and I find this kind of funny is that 1972 is also the year of the
+
+183
+00:12:32,320 --> 00:12:37,120
+Watergate break-in and the beginning of the investigation which uncovered that Nixon's
+
+184
+00:12:37,120 --> 00:12:43,000
+re-election campaign involved money laundering and illegal slush funds, all of which resulted
+
+185
+00:12:43,000 --> 00:12:48,360
+in his resignation. In all the decisions I have made in my public life, I have always
+
+186
+00:12:48,360 --> 00:12:51,640
+tried to do what was best for the nation.
+
+187
+00:12:51,640 --> 00:13:00,960
+Nevertheless, in 1974, partially in response to Nixon's shady dealings, the Federal Election
+
+188
+00:13:00,960 --> 00:13:09,240
+Campaign Act was amended to create a new regulatory agency, the FEC, which, as you said, Hannah,
+
+189
+00:13:09,240 --> 00:13:11,200
+stands for Federal Election Commission.
+
+190
+00:13:11,200 --> 00:13:12,200
+And what do they do?
+
+191
+00:13:12,200 --> 00:13:17,920
+They enforce campaign finance laws, one of which is a bit of a workaround.
+
+192
+00:13:17,920 --> 00:13:24,760
+that while donations are limited to candidates, donors could donate unlimited money to political
+
+193
+00:13:24,760 --> 00:13:26,320
+parties instead.
+
+194
+00:13:26,320 --> 00:13:31,320
+If and only if the party used that money for what we're called, quote, party building
+
+195
+00:13:31,320 --> 00:13:33,080
+activities.
+
+196
+00:13:33,080 --> 00:13:36,680
+This is what is now referred to as soft money.
+
+197
+00:13:36,680 --> 00:13:37,680
+Party building activities?
+
+198
+00:13:37,680 --> 00:13:40,040
+Is that like helping people register to vote?
+
+199
+00:13:40,040 --> 00:13:45,000
+Yeah, and making commercials that aren't about specific candidates, but are about issues,
+
+200
+00:13:45,000 --> 00:13:46,000
+you know?
+
+201
+00:13:46,000 --> 00:13:50,560
+The people need to know that crime is an issue and candidate X is weak on crime.
+
+202
+00:13:50,560 --> 00:13:55,000
+It doesn't say don't vote for candidate X or vote for candidate Y, but it's pretty darn close.
+
+203
+00:13:55,000 --> 00:13:58,200
+I feel like there's an awful lot of wiggle room in there.
+
+204
+00:13:58,200 --> 00:14:07,200
+A ton! So much wiggle room that Senators John McCain and Russ Feingold reached across the aisle to create a new act.
+
+205
+00:14:07,200 --> 00:14:11,400
+It was so important that a Democrat and a Republican did this together.
+
+206
+00:14:11,400 --> 00:14:17,160
+They put it in the name, BCRA or BICRA, the Bipartisan Campaign Reform Act.
+
+207
+00:14:17,160 --> 00:14:19,800
+It's also called the McCain-Feingold Act.
+
+208
+00:14:19,800 --> 00:14:25,240
+This act said that corporations cannot make a political ad that names a candidate
+
+209
+00:14:25,240 --> 00:14:30,360
+30 days before a primary or a caucus or 60 days before a general election.
+
+210
+00:14:30,360 --> 00:14:33,080
+And this is where the creation of Hillary the Movie comes in, right?
+
+211
+00:14:33,080 --> 00:14:38,120
+We are so close. Hillary the Movie was created in direct response to another movie.
+
+212
+00:14:38,120 --> 00:14:41,120
+Members of Congress, this is Michael Moore.
+
+213
+00:14:41,120 --> 00:14:44,120
+I would like to read to you the USA Patriot Act.
+
+214
+00:14:44,120 --> 00:14:49,120
+Let the Eagles sing.
+
+215
+00:14:49,120 --> 00:14:51,120
+Fahrenheit 9-11.
+
+216
+00:14:51,120 --> 00:14:55,120
+Michael Moore's documentary about George W. Bush's response to September 11th
+
+217
+00:14:55,120 --> 00:15:02,120
+was released in 2004, a scant few months before the election between George Bush and John Kerry.
+
+218
+00:15:02,120 --> 00:15:07,120
+Michael Moore, by the way, has made several movies about politically charged topics.
+
+219
+00:15:07,120 --> 00:15:09,640
+And someone filed a complaint to the FEC saying,
+
+220
+00:15:09,640 --> 00:15:13,040
+hey, this movie violates Bicra.
+
+221
+00:15:13,040 --> 00:15:15,120
+It was funded by corporate entities.
+
+222
+00:15:15,120 --> 00:15:17,720
+It names a candidate, George W. Bush,
+
+223
+00:15:17,720 --> 00:15:20,240
+ads for this movie should not be aired
+
+224
+00:15:20,240 --> 00:15:22,000
+60 days before the election.
+
+225
+00:15:22,000 --> 00:15:24,200
+And you know who made that complaint?
+
+226
+00:15:24,200 --> 00:15:25,040
+Who?
+
+227
+00:15:25,040 --> 00:15:28,840
+A certain little nonprofit called Citizens United.
+
+228
+00:15:28,840 --> 00:15:32,320
+The same corporation that made their own political ads
+
+229
+00:15:32,320 --> 00:15:34,920
+and now they're mad that someone else is doing it?
+
+230
+00:15:34,920 --> 00:15:35,960
+Yeah.
+
+231
+00:15:35,960 --> 00:15:38,400
+The FEC dismissed the complaint though,
+
+232
+00:15:38,400 --> 00:15:41,300
+and Citizens United went on to make their own movie
+
+233
+00:15:41,300 --> 00:15:45,480
+in response four years later, Hillary the Movie.
+
+234
+00:15:45,480 --> 00:15:48,840
+Again, a 90 minute attack on Hillary Clinton
+
+235
+00:15:48,840 --> 00:15:50,760
+came out just before the primary
+
+236
+00:15:50,760 --> 00:15:53,000
+between her and Barack Obama.
+
+237
+00:15:53,000 --> 00:15:55,220
+The FEC said that ads for this movie
+
+238
+00:15:55,220 --> 00:15:57,320
+could not air before the primary.
+
+239
+00:15:57,320 --> 00:15:59,000
+Citizens United sued,
+
+240
+00:15:59,000 --> 00:16:01,800
+and it moved up the court system to the very top.
+
+241
+00:16:01,800 --> 00:16:03,280
+And what happened next resulted
+
+242
+00:16:03,280 --> 00:16:06,040
+than one of the most influential Supreme Court decisions
+
+243
+00:16:06,040 --> 00:16:07,840
+in US history.
+
+244
+00:16:07,840 --> 00:16:09,480
+And that's coming up right after the break
+
+245
+00:16:09,480 --> 00:16:10,760
+here on Civics 101.
+
+246
+00:16:10,760 --> 00:16:13,280
+But first, if you want to primer on more Supreme Court
+
+247
+00:16:13,280 --> 00:16:15,760
+decisions along with a breakdown of every branch
+
+248
+00:16:15,760 --> 00:16:18,080
+of government, our election system,
+
+249
+00:16:18,080 --> 00:16:22,040
+our foundational documents, and a history of our main parties,
+
+250
+00:16:22,040 --> 00:16:24,280
+Nick and I took what we learned over many years
+
+251
+00:16:24,280 --> 00:16:26,440
+of getting to know our government and systems
+
+252
+00:16:26,440 --> 00:16:28,120
+and put it into a book.
+
+253
+00:16:28,120 --> 00:16:32,360
+It's called a user's guide to democracy, how America works.
+
+254
+00:16:32,360 --> 00:16:34,560
+And you can get it at your bookseller of choice.
+
+255
+00:16:34,560 --> 00:16:39,360
+And by the way, the cartoons in our book were drawn by the brilliant Tom Toro, who has just
+
+256
+00:16:39,360 --> 00:16:43,220
+illustrated a children's book called I'm Terrified of Bath Time.
+
+257
+00:16:43,220 --> 00:16:47,960
+You should check that out while you're at it.
+
+258
+00:16:47,960 --> 00:16:49,640
+Alright fess up everyone.
+
+259
+00:16:49,640 --> 00:16:53,840
+How many of you out there just realized the holidays are basically here and you've got,
+
+260
+00:16:53,840 --> 00:16:59,040
+say, two quirky sons to shop for and no idea what to get them.
+
+261
+00:16:59,040 --> 00:17:04,620
+Thankfully there is a silver bullet for getting gifts for people who like unique strange handcrafted
+
+262
+00:17:04,620 --> 00:17:08,280
+things and it is uncommon goods.
+
+263
+00:17:08,280 --> 00:17:10,200
+Fishing pole campfire roaster?
+
+264
+00:17:10,200 --> 00:17:11,200
+Done.
+
+265
+00:17:11,200 --> 00:17:15,000
+16th century metal device to track the moon and tides?
+
+266
+00:17:15,000 --> 00:17:17,680
+Sign me up a dozen times.
+
+267
+00:17:17,680 --> 00:17:22,320
+Uncommon goods looks for products that are high quality, unique, and often handmade or
+
+268
+00:17:22,320 --> 00:17:24,000
+made in the United States.
+
+269
+00:17:24,000 --> 00:17:25,640
+And they got something for everyone.
+
+270
+00:17:25,640 --> 00:17:28,280
+moms and dads, to kids and teens,
+
+271
+00:17:28,280 --> 00:17:31,920
+to arcana obsessed weather driven tarot reading eccentric
+
+272
+00:17:31,920 --> 00:17:32,840
+such as yourself.
+
+273
+00:17:32,840 --> 00:17:35,720
+Seriously, just type tarot in the search box
+
+274
+00:17:35,720 --> 00:17:37,160
+and see what comes up.
+
+275
+00:17:37,160 --> 00:17:40,240
+And finally, with every purchase you make at Uncommon Goods,
+
+276
+00:17:40,240 --> 00:17:43,840
+they give back $1 to a nonprofit of your choice.
+
+277
+00:17:43,840 --> 00:17:46,680
+So don't wait, cross those names off your list
+
+278
+00:17:46,680 --> 00:17:49,880
+before the rush to get 15% off your next gift,
+
+279
+00:17:49,880 --> 00:17:52,680
+go to uncommongoods.com slash civics.
+
+280
+00:17:52,680 --> 00:17:57,680
+That is UncommonGoods.com slash Civics for 15% off.
+
+281
+00:17:58,280 --> 00:18:01,680
+UncommonGoods, we're all out of the ordinary.
+
+282
+00:18:01,680 --> 00:18:06,680
+There is nothing quite like having stuff in your closet
+
+283
+00:18:09,040 --> 00:18:12,940
+that you love and you know you can count on for any occasion
+
+284
+00:18:12,940 --> 00:18:16,220
+except maybe giving someone else that feeling.
+
+285
+00:18:16,220 --> 00:18:18,980
+And this holiday season, Quints is where I'm finding
+
+286
+00:18:18,980 --> 00:18:19,960
+those pieces.
+
+287
+00:18:19,960 --> 00:18:22,780
+Quince makes elevated everyday essentials
+
+288
+00:18:22,780 --> 00:18:26,080
+using premium materials like Mongolian cashmere,
+
+289
+00:18:26,080 --> 00:18:30,600
+organic cotton, and it is priced 50 to 80% less
+
+290
+00:18:30,600 --> 00:18:31,840
+than similar brands.
+
+291
+00:18:31,840 --> 00:18:34,180
+They work directly with ethical factories
+
+292
+00:18:34,180 --> 00:18:35,760
+that cut out the middleman,
+
+293
+00:18:35,760 --> 00:18:37,800
+so you get luxury quality pieces
+
+294
+00:18:37,800 --> 00:18:40,060
+without the luxury price tag.
+
+295
+00:18:40,060 --> 00:18:43,000
+As this lovely fall is winding to a close
+
+296
+00:18:43,000 --> 00:18:46,720
+and we slouch into winter, I wish more than anything.
+
+297
+00:18:46,720 --> 00:18:50,740
+someone had gifted me a yak wool hoodie.
+
+298
+00:18:50,740 --> 00:18:51,920
+I'm dead serious.
+
+299
+00:18:51,920 --> 00:18:53,840
+It's good enough for the yak.
+
+300
+00:18:53,840 --> 00:18:56,620
+I mean, it works really well for the yak, right?
+
+301
+00:18:56,620 --> 00:18:58,240
+It would work for me.
+
+302
+00:18:58,240 --> 00:18:59,260
+And it looks hot.
+
+303
+00:18:59,260 --> 00:19:03,120
+So give the gift of quality this holiday season.
+
+304
+00:19:03,120 --> 00:19:05,960
+Download the Quince app for app exclusive offers
+
+305
+00:19:05,960 --> 00:19:07,760
+or go to quince.com.
+
+306
+00:19:07,760 --> 00:19:11,880
+Get free shipping on your order and 365 day returns.
+
+307
+00:19:11,880 --> 00:19:15,080
+That will be available in Canada and the UK as well.
+
+308
+00:19:15,080 --> 00:19:18,400
+And last thing, when Quince asks where you heard about him,
+
+309
+00:19:18,400 --> 00:19:19,960
+let them know at Civics 101.
+
+310
+00:19:19,960 --> 00:19:22,000
+It's the best way to support the show.
+
+311
+00:19:22,000 --> 00:19:22,840
+All right.
+
+312
+00:19:25,720 --> 00:19:28,760
+Enjoying your podcast will be brief.
+
+313
+00:19:28,760 --> 00:19:30,960
+If you're looking for the perfect holiday gift,
+
+314
+00:19:30,960 --> 00:19:33,120
+give scratchers from the California Lottery
+
+315
+00:19:33,120 --> 00:19:34,520
+with so many to choose from,
+
+316
+00:19:34,520 --> 00:19:37,960
+you're sure to find the right gift for anyone on your list.
+
+317
+00:19:37,960 --> 00:19:40,280
+Now that your holiday shopping list is figured out,
+
+318
+00:19:40,280 --> 00:19:42,680
+enjoy this bird singing Jingle Bells.
+
+319
+00:19:42,680 --> 00:19:45,680
+Give the gift of scratchers from the California Lottery.
+
+320
+00:19:45,680 --> 00:19:47,680
+A little plague can make your day.
+
+321
+00:19:47,680 --> 00:19:48,680
+Please play responsibly.
+
+322
+00:19:48,680 --> 00:19:51,680
+Must be 18 years older to purchase, play or claim.
+
+323
+00:19:51,680 --> 00:19:53,680
+Alright, we're back.
+
+324
+00:19:53,680 --> 00:19:58,680
+Citizens United vs. FEC is being argued in the highest court of the land.
+
+325
+00:19:58,680 --> 00:20:01,680
+So Nick, what is the question they're arguing?
+
+326
+00:20:01,680 --> 00:20:04,680
+Well, at first it's what we call a very narrow question.
+
+327
+00:20:04,680 --> 00:20:07,680
+It's very specific to one moment in time.
+
+328
+00:20:07,680 --> 00:20:09,680
+Can we make a decision?
+
+329
+00:20:09,680 --> 00:20:12,360
+specific to one moment in time.
+
+330
+00:20:12,360 --> 00:20:16,220
+Can Citizens United distribute and advertise
+
+331
+00:20:16,220 --> 00:20:19,120
+Hillary the Movie on on-demand cable
+
+332
+00:20:19,120 --> 00:20:20,980
+just before the primary?
+
+333
+00:20:20,980 --> 00:20:23,240
+But as so often is the case,
+
+334
+00:20:23,240 --> 00:20:27,800
+narrow questions can become big, sweeping rulings.
+
+335
+00:20:27,800 --> 00:20:30,720
+We'll hear argument today in case 08-205,
+
+336
+00:20:30,720 --> 00:20:34,040
+Citizens United versus the Federal Election Commission.
+
+337
+00:20:34,040 --> 00:20:35,320
+Mr. Olson.
+
+338
+00:20:35,320 --> 00:20:37,760
+Mr. Chief Justice, and may it please the court.
+
+339
+00:20:37,760 --> 00:20:44,280
+There's a famous moment in the argument where the person representing the FEC, deputy solicitor
+
+340
+00:20:44,280 --> 00:20:50,180
+general Malcolm L. Stewart, is asked by the justices, well, what about a book?
+
+341
+00:20:50,180 --> 00:20:52,580
+We're talking about a movie here, but what about a book?
+
+342
+00:20:52,580 --> 00:20:53,580
+That's pretty incredible.
+
+343
+00:20:53,580 --> 00:20:59,940
+You think that if a book was published, a campaign biography that was the functional
+
+344
+00:20:59,940 --> 00:21:03,700
+equivalent of express advocacy, that could be banned?
+
+345
+00:21:03,700 --> 00:21:04,940
+I'm not saying it could be banned.
+
+346
+00:21:04,940 --> 00:21:07,620
+I'm saying that Congress could prohibit the use of...
+
+347
+00:21:07,620 --> 00:21:13,100
+Then the government banned a book critical of a candidate if it comes out before an election,
+
+348
+00:21:13,100 --> 00:21:17,040
+and the more conservative justices latched on to that and did not let go.
+
+349
+00:21:17,040 --> 00:21:20,600
+They were very anti-banning books.
+
+350
+00:21:20,600 --> 00:21:24,720
+The court meets to discuss how they're going to vote, and it seems like it's 5-4 in favor
+
+351
+00:21:24,720 --> 00:21:26,340
+of Citizens United.
+
+352
+00:21:26,340 --> 00:21:30,680
+Chief Justice John Roberts was poised to write the opinion, and Justice David Souter the
+
+353
+00:21:30,680 --> 00:21:32,180
+dissent.
+
+354
+00:21:32,180 --> 00:21:35,480
+But New Yorker reporter Jeffrey Tubin revealed
+
+355
+00:21:35,480 --> 00:21:39,020
+that Souter's dissent was not your run-of-the-mill dissent.
+
+356
+00:21:39,020 --> 00:21:41,500
+It was very critical of Chief Justice Roberts
+
+357
+00:21:41,500 --> 00:21:45,060
+and that it, quote, aired the court's dirty laundry.
+
+358
+00:21:45,060 --> 00:21:47,700
+So, Roberts said the case would be reheard
+
+359
+00:21:47,700 --> 00:21:50,180
+in the next session and Justice Kennedy
+
+360
+00:21:50,180 --> 00:21:55,020
+would write the opinion and Justice Souter retired.
+
+361
+00:21:55,020 --> 00:21:58,900
+Whoa, will we ever know what was in Justice Souter's dissent?
+
+362
+00:21:58,900 --> 00:22:00,860
+We will if we live that long, Hannah.
+
+363
+00:22:00,860 --> 00:22:03,800
+His papers are set to be released in 2060.
+
+364
+00:22:03,800 --> 00:22:06,740
+So in the next session, the decision was announced.
+
+365
+00:22:06,740 --> 00:22:10,060
+Justice Anthony Kennedy wrote and read the opinion.
+
+366
+00:22:10,060 --> 00:22:13,300
+And in a rare occurrence, Justice John Paul Stevens
+
+367
+00:22:13,300 --> 00:22:16,340
+read his dissent, which was longer than the opinion,
+
+368
+00:22:16,340 --> 00:22:17,820
+allowed from the bench.
+
+369
+00:22:17,820 --> 00:22:19,180
+That never happens, right?
+
+370
+00:22:19,180 --> 00:22:20,100
+Sometimes.
+
+371
+00:22:20,100 --> 00:22:24,260
+While American democracy is still imperfect,
+
+372
+00:22:24,260 --> 00:22:27,140
+few outside the majority of this court
+
+373
+00:22:27,140 --> 00:22:34,140
+would have thought its flaws included a shortage of corporate money and politics.
+
+374
+00:22:34,140 --> 00:22:39,220
+Okay, so the thing that everyone says about Citizens United, the sort of pop culture phrase
+
+375
+00:22:39,220 --> 00:22:46,660
+that we all know about it, is that Citizens United decided that corporations are people.
+
+376
+00:22:46,660 --> 00:22:47,660
+Did it say that?
+
+377
+00:22:47,660 --> 00:22:48,660
+Is that in there?
+
+378
+00:22:48,660 --> 00:22:49,660
+No, no it did not.
+
+379
+00:22:49,660 --> 00:22:52,780
+Interestingly, that is not in Justice Kennedy's opinion.
+
+380
+00:22:52,780 --> 00:22:58,300
+The decision says political speech rights do not depend on the identity of the speaker.
+
+381
+00:22:58,300 --> 00:23:01,580
+That speaker can be a person or a group of people.
+
+382
+00:23:01,580 --> 00:23:06,060
+Okay, so campaign donations are considered speech.
+
+383
+00:23:06,060 --> 00:23:10,260
+Speech is protected by the First Amendment.
+
+384
+00:23:10,260 --> 00:23:13,060
+Corporations also have those protections.
+
+385
+00:23:13,060 --> 00:23:16,020
+So does that mean that corporations can now give to campaigns?
+
+386
+00:23:16,020 --> 00:23:19,860
+No, and this is a very common misconception.
+
+387
+00:23:19,860 --> 00:23:24,820
+even after the ruling still could not give directly to candidates.
+
+388
+00:23:24,820 --> 00:23:29,460
+But they could give indirectly through what are called PACs.
+
+389
+00:23:29,460 --> 00:23:32,820
+And now we need to get some definitions out of the way.
+
+390
+00:23:32,820 --> 00:23:37,460
+Yeah, so all these different groups, PACs, super PACs, dark money groups, they're all
+
+391
+00:23:37,460 --> 00:23:43,980
+just different ways of setting up a group that's going to spend money on an election.
+
+392
+00:23:43,980 --> 00:23:46,580
+This is political reporter Maggie Severns.
+
+393
+00:23:46,580 --> 00:23:48,060
+She covers policy for GRID.
+
+394
+00:23:48,060 --> 00:23:53,980
+A PAC is a political action committee. It is kind of a bucket where money goes in and money goes out.
+
+395
+00:23:53,980 --> 00:23:59,660
+Now PACs have been around for quite a while and PACs have pretty strict limitations on
+
+396
+00:24:00,220 --> 00:24:05,740
+what they can take in and how they spend. So a PAC can give money directly to a candidate,
+
+397
+00:24:05,740 --> 00:24:11,100
+but they can't give that much money. The most kind of traditional PACs might be PACs that are
+
+398
+00:24:11,100 --> 00:24:17,180
+kind of associated with a company or a political group and they're not part of that group,
+
+399
+00:24:17,180 --> 00:24:23,180
+but everyone who is involved in technology might all give $5,000 to the technology pack.
+
+400
+00:24:23,180 --> 00:24:29,340
+And then the technology pack gives $5,000 each to candidates that are doing what people in the
+
+401
+00:24:29,340 --> 00:24:33,980
+technology sector want. And for a long time that was pack spending. That's all it was,
+
+402
+00:24:33,980 --> 00:24:38,860
+is you know, you kind of take in these donations from a lot of people that you know, believed in
+
+403
+00:24:38,860 --> 00:24:44,140
+one cause and then you would give those donations to a campaign. All right, $5,000 is the limit for
+
+404
+00:24:44,140 --> 00:24:47,740
+for campaign contributions from a single source,
+
+405
+00:24:47,740 --> 00:24:50,540
+a bunch of people give that amount or less
+
+406
+00:24:50,540 --> 00:24:52,580
+to a pack they care about.
+
+407
+00:24:52,580 --> 00:24:56,100
+And the pack is in charge of allocating that money.
+
+408
+00:24:56,100 --> 00:24:57,980
+Right, and the ruling in Citizens United
+
+409
+00:24:57,980 --> 00:24:59,700
+did not change that.
+
+410
+00:24:59,700 --> 00:25:03,540
+Your pack cannot give more than $5,000 directly
+
+411
+00:25:03,540 --> 00:25:08,100
+to each candidate, but then we get to super PACs.
+
+412
+00:25:08,100 --> 00:25:10,660
+Now a super PAC was created after Citizens United
+
+413
+00:25:10,660 --> 00:25:13,180
+and they can take in unlimited amounts of money
+
+414
+00:25:13,180 --> 00:25:18,020
+for anyone so they could take that $3 million check,
+
+415
+00:25:18,020 --> 00:25:20,940
+whereas a PAC can only take in the low thousands of dollars
+
+416
+00:25:20,940 --> 00:25:23,300
+depending on who they're getting their money from.
+
+417
+00:25:23,300 --> 00:25:25,800
+So a super PAC is really what enabled
+
+418
+00:25:25,800 --> 00:25:27,980
+that big money spending because then a super PAC
+
+419
+00:25:27,980 --> 00:25:31,780
+can go out and buy an ad and drop $2 million on an ad.
+
+420
+00:25:31,780 --> 00:25:33,340
+You have all kinds of super PACs.
+
+421
+00:25:33,340 --> 00:25:36,340
+Some of them just support one person.
+
+422
+00:25:36,340 --> 00:25:39,360
+Some of them support all Republican candidates
+
+423
+00:25:39,360 --> 00:25:40,660
+or all Senate races.
+
+424
+00:25:40,660 --> 00:25:43,540
+So Citizens United really opened the door
+
+425
+00:25:43,540 --> 00:25:45,700
+for a super PAC to exist,
+
+426
+00:25:45,700 --> 00:25:49,180
+because there was no unlimited political spending
+
+427
+00:25:49,180 --> 00:25:50,740
+before Citizens United.
+
+428
+00:25:50,740 --> 00:25:52,660
+Now just to make sure I have it,
+
+429
+00:25:52,660 --> 00:25:55,980
+super PACs don't give money to candidates,
+
+430
+00:25:55,980 --> 00:25:59,300
+but they spend money to support candidates.
+
+431
+00:25:59,300 --> 00:26:03,020
+A regular old PAC can give money to a candidate,
+
+432
+00:26:03,020 --> 00:26:05,020
+but it's limited.
+
+433
+00:26:05,020 --> 00:26:09,020
+Individuals and corporations can spend unlimited money
+
+434
+00:26:09,020 --> 00:26:13,020
+to support a candidate, but they can't give it directly to them.
+
+435
+00:26:13,020 --> 00:26:19,020
+Right, and there's this hard rule about that, referring to coordination.
+
+436
+00:26:19,020 --> 00:26:27,020
+Super PACs may not, under any circumstances, have any sort of coordination with a campaign.
+
+437
+00:26:27,020 --> 00:26:29,020
+They can't tell them what to do.
+
+438
+00:26:29,020 --> 00:26:34,020
+If I'm running for office, I can't call the Super PAC that's like spending millions of dollars to get me elected
+
+439
+00:26:34,020 --> 00:26:37,020
+and say, hey, could you run an ad where I'm in a pickup truck
+
+440
+00:26:37,020 --> 00:26:42,860
+I'm talking to folks at a diner and I'm looking real concerned and then my opponent is drinking champagne at a fancy restaurant
+
+441
+00:26:42,860 --> 00:26:47,940
+Can you do that for me? Uh-uh not allowed talking about people trying to get away with one thing or another
+
+442
+00:26:48,140 --> 00:26:52,020
+You can look at coordination as being a really interesting example of that
+
+443
+00:26:52,020 --> 00:26:57,440
+So there's this thing called red boxing or yellow boxing where when a committee
+
+444
+00:26:57,440 --> 00:27:01,940
+Let's say that I am the D triple C and I'm in charge of electing Democrats to Congress
+
+445
+00:27:01,940 --> 00:27:05,660
+and I think to myself man, I really could use a
+
+446
+00:27:05,660 --> 00:27:12,940
+a ad, a super PAC to run a bunch of ads about how this candidate's opponent is really bad
+
+447
+00:27:12,940 --> 00:27:14,960
+on the economy.
+
+448
+00:27:14,960 --> 00:27:16,780
+But I can't talk to the super PAC, right?
+
+449
+00:27:16,780 --> 00:27:20,580
+Because there's no coordination between a candidate or a committee and the super PAC.
+
+450
+00:27:20,580 --> 00:27:22,880
+They're supposed to be totally independent.
+
+451
+00:27:22,880 --> 00:27:26,140
+What folks started to do, all these different, you know, and this goes for both sides of
+
+452
+00:27:26,140 --> 00:27:31,020
+the aisle, they were all kind of experimenting is you would actually on your website put
+
+453
+00:27:31,020 --> 00:27:34,460
+a little yellow or red box and it looks very like Web point.
+
+454
+00:27:34,460 --> 00:27:39,420
+It looks very kind of dorky and it'll say something that sounds kind of cheesy and coded saying like
+
+455
+00:27:40,460 --> 00:27:44,180
+People in Missouri need to know this you click on the box
+
+456
+00:27:44,180 --> 00:27:48,900
+And it'll take you to a page that they've developed with all the language that they would like in the ad
+
+457
+00:27:49,100 --> 00:27:53,300
+I'm not telling you what to do with the gun, but I'm gonna leave it right here on the table for you
+
+458
+00:27:53,300 --> 00:27:57,300
+I know Maggie sent me a link to an archived website
+
+459
+00:27:57,300 --> 00:28:03,900
+Thank you internet archive with a box just like that the box said Ohio needs to know and they clicked on it
+
+460
+00:28:03,900 --> 00:28:10,900
+and I saw a bunch of messaging and a link to archival footage from the campaign trail.
+
+461
+00:28:10,900 --> 00:28:13,900
+Footage that might just be perfect to put in an ad.
+
+462
+00:28:13,900 --> 00:28:16,900
+Yeah, hypothetically of course. That was the funny thing, it was like,
+
+463
+00:28:16,900 --> 00:28:21,900
+here are the arguments we feel, and here's just a ton of footage for B-roll.
+
+464
+00:28:21,900 --> 00:28:27,900
+It's just generic, candid and on the campaign trail, do what you want with it.
+
+465
+00:28:27,900 --> 00:28:34,520
+And it's not just red boxing, there are Twitter accounts that come out of nowhere with suggestions
+
+466
+00:28:34,520 --> 00:28:35,800
+for super PACs.
+
+467
+00:28:35,800 --> 00:28:39,060
+Books full of opposition research get sent to offices.
+
+468
+00:28:39,060 --> 00:28:41,360
+There are ways around coordination.
+
+469
+00:28:41,360 --> 00:28:44,920
+Now I want to get back to something you said about the decision.
+
+470
+00:28:44,920 --> 00:28:49,520
+And it was confusing for me because I did think like so many others that this case was
+
+471
+00:28:49,520 --> 00:28:54,280
+about corporations being allowed to give huge sums of money to candidates through super
+
+472
+00:28:54,280 --> 00:28:55,280
+PACs.
+
+473
+00:28:55,280 --> 00:28:56,280
+Yeah.
+
+474
+00:28:56,280 --> 00:28:57,280
+This caught me off guard too.
+
+475
+00:28:57,280 --> 00:29:02,880
+Every student has a perception that Citizens United fundamentally change
+
+476
+00:29:02,880 --> 00:29:05,680
+American politics and campaign finance system.
+
+477
+00:29:05,680 --> 00:29:10,320
+This is Hye Young Yoo, a professor of political science at New York University.
+
+478
+00:29:10,320 --> 00:29:15,440
+Hye Young said that this is her number one misconception that her students have about the case.
+
+479
+00:29:15,440 --> 00:29:21,680
+But when we look at details, yes, there are parts that Citizens United really transformed
+
+480
+00:29:21,680 --> 00:29:24,020
+from the campaign finance in the US,
+
+481
+00:29:24,020 --> 00:29:25,380
+but at the same time,
+
+482
+00:29:25,380 --> 00:29:28,660
+there are sections that Citizens United didn't touch at all.
+
+483
+00:29:28,660 --> 00:29:32,220
+For example, the direct campaign contribution
+
+484
+00:29:32,220 --> 00:29:35,700
+made to the candidates that has not changed at all
+
+485
+00:29:35,700 --> 00:29:37,860
+by the Citizens United.
+
+486
+00:29:37,860 --> 00:29:40,100
+So, but students have this perception.
+
+487
+00:29:40,100 --> 00:29:41,580
+This is the boom.
+
+488
+00:29:41,580 --> 00:29:44,540
+We know everything changed after Citizens United.
+
+489
+00:29:44,540 --> 00:29:47,460
+And also, because of political rhetoric,
+
+490
+00:29:47,460 --> 00:29:50,260
+a lot of students assume that corporations
+
+491
+00:29:50,260 --> 00:29:51,860
+and big banks, right?
+
+492
+00:29:51,860 --> 00:29:54,860
+The big corporations, they spend tons of money
+
+493
+00:29:54,860 --> 00:29:58,260
+to sponsor super PACs after Citizens United,
+
+494
+00:29:58,260 --> 00:29:59,940
+which is not true.
+
+495
+00:29:59,940 --> 00:30:01,580
+But why?
+
+496
+00:30:01,580 --> 00:30:03,020
+Like if I were the head of a company
+
+497
+00:30:03,020 --> 00:30:05,620
+and I knew a politician was going to pass legislation
+
+498
+00:30:05,620 --> 00:30:07,720
+that helped my industry,
+
+499
+00:30:07,720 --> 00:30:10,340
+wouldn't I do whatever I could to get them elected?
+
+500
+00:30:10,340 --> 00:30:13,420
+Aha, but if you're a big company that's in the public eye,
+
+501
+00:30:13,420 --> 00:30:16,700
+like Google, Apple, AT&T, McDonald's,
+
+502
+00:30:16,700 --> 00:30:18,400
+you have shareholders.
+
+503
+00:30:18,400 --> 00:30:20,500
+You have a board to answer to?
+
+504
+00:30:20,500 --> 00:30:23,660
+You have the public and the press watching your every move
+
+505
+00:30:23,660 --> 00:30:25,560
+and tweeting about it?
+
+506
+00:30:25,560 --> 00:30:27,580
+All of those entities are going to find out
+
+507
+00:30:27,580 --> 00:30:29,340
+who you gave your money to.
+
+508
+00:30:29,340 --> 00:30:30,180
+And for example,
+
+509
+00:30:30,180 --> 00:30:32,940
+Hye-young referenced the January 6th insurrection.
+
+510
+00:30:32,940 --> 00:30:37,020
+After that, some of the consumer, the activist,
+
+511
+00:30:37,020 --> 00:30:40,420
+or some of the people on Twitter and social media,
+
+512
+00:30:40,420 --> 00:30:43,500
+they actually revealed these are the corporations
+
+513
+00:30:43,500 --> 00:30:48,340
+who donate to the politician who endorse January 6th riot
+
+514
+00:30:48,340 --> 00:30:49,860
+And what happened after that?
+
+515
+00:30:49,860 --> 00:30:53,340
+A lot of corporations, they withdrew.
+
+516
+00:30:53,340 --> 00:30:57,100
+They withdrew their donation from those politicians.
+
+517
+00:30:57,100 --> 00:31:00,700
+They don't make a donation in the next election cycles.
+
+518
+00:31:00,700 --> 00:31:04,680
+Companies, even though they have a lot of power and wealth,
+
+519
+00:31:04,680 --> 00:31:08,740
+still, you need to cater to consumer preferences.
+
+520
+00:31:08,740 --> 00:31:11,220
+You need to cater to shareholder preferences.
+
+521
+00:31:11,220 --> 00:31:15,180
+So there are some constraints that corporations face.
+
+522
+00:31:15,180 --> 00:31:17,420
+And that's why, even though a lot of people,
+
+523
+00:31:17,420 --> 00:31:20,660
+including President Obama, Senator Warren,
+
+524
+00:31:20,660 --> 00:31:23,780
+you know, really worry about the explosion of money.
+
+525
+00:31:23,780 --> 00:31:25,420
+Yes, we had an explosion of money,
+
+526
+00:31:25,420 --> 00:31:26,820
+but not by the corporations,
+
+527
+00:31:26,820 --> 00:31:29,540
+but mostly by wealthy individuals
+
+528
+00:31:29,540 --> 00:31:32,220
+who are really politically active.
+
+529
+00:31:32,220 --> 00:31:34,700
+And I do wanna add one wrinkle to this.
+
+530
+00:31:34,700 --> 00:31:36,860
+Jeff Bohn sent me a report about a way
+
+531
+00:31:36,860 --> 00:31:39,360
+that corporations have begun to start
+
+532
+00:31:39,360 --> 00:31:41,620
+to increase spending on campaigns
+
+533
+00:31:41,620 --> 00:31:43,700
+that absolves them of all public scrutiny.
+
+534
+00:31:43,700 --> 00:31:47,580
+Briefly, there are large nonprofits called 527s,
+
+535
+00:31:47,580 --> 00:31:49,380
+the biggest of which are the Republican
+
+536
+00:31:49,380 --> 00:31:52,180
+and Democratic Governors Associations.
+
+537
+00:31:52,180 --> 00:31:54,920
+So corporations have been giving to them,
+
+538
+00:31:54,920 --> 00:31:57,100
+and that's public information, we all know it.
+
+539
+00:31:57,100 --> 00:31:59,760
+And then those associations give that money
+
+540
+00:31:59,760 --> 00:32:04,100
+to other super PACs to influence state and local elections.
+
+541
+00:32:04,100 --> 00:32:06,900
+Aha, and since those 527s,
+
+542
+00:32:06,900 --> 00:32:09,460
+which I have never heard about before this,
+
+543
+00:32:09,460 --> 00:32:12,620
+are just massive generic buckets
+
+544
+00:32:12,620 --> 00:32:14,260
+that then go to other places,
+
+545
+00:32:14,260 --> 00:32:17,540
+it's impossible to hold a corporation accountable, right?
+
+546
+00:32:17,540 --> 00:32:19,060
+As there are so many steps.
+
+547
+00:32:19,060 --> 00:32:19,900
+Right.
+
+548
+00:32:19,900 --> 00:32:22,680
+And the last 10 years, about $1 billion
+
+549
+00:32:22,680 --> 00:32:24,300
+have gone to these associations,
+
+550
+00:32:24,300 --> 00:32:26,860
+half of which came from public company treasuries.
+
+551
+00:32:26,860 --> 00:32:29,700
+And in that time, Republican 527s
+
+552
+00:32:29,700 --> 00:32:31,300
+have received twice as much money
+
+553
+00:32:31,300 --> 00:32:34,860
+as Democrat 527s to influence local elections.
+
+554
+00:32:34,860 --> 00:32:38,380
+However, Hey Young said the biggest donations
+
+555
+00:32:38,380 --> 00:32:40,060
+in the wake of Citizens United,
+
+556
+00:32:40,060 --> 00:32:44,300
+The explosion of money has been from wealthy individuals
+
+557
+00:32:44,300 --> 00:32:46,120
+to super PACs, right?
+
+558
+00:32:46,120 --> 00:32:47,700
+So how much are we talking?
+
+559
+00:32:47,700 --> 00:32:50,820
+Study was done on just the publicly available information
+
+560
+00:32:50,820 --> 00:32:54,020
+on donations, not to speak of unavailable data,
+
+561
+00:32:54,020 --> 00:32:57,900
+but about 400 families are responsible for half
+
+562
+00:32:57,900 --> 00:33:00,860
+of all presidential campaign financing.
+
+563
+00:33:00,860 --> 00:33:03,220
+That's a lot of money from a very few people.
+
+564
+00:33:03,220 --> 00:33:08,780
+And when you're a candidate so heavily funded
+
+565
+00:33:08,780 --> 00:33:10,380
+by one super rich person,
+
+566
+00:33:10,380 --> 00:33:12,280
+you're probably going to do things
+
+567
+00:33:12,280 --> 00:33:14,140
+that satisfy that person, right?
+
+568
+00:33:14,140 --> 00:33:15,580
+Right, right, and nobody else.
+
+569
+00:33:15,580 --> 00:33:19,460
+Yeah, but you said not to speak of the unavailable data.
+
+570
+00:33:19,460 --> 00:33:22,380
+I do wanna speak of the unavailable data,
+
+571
+00:33:22,380 --> 00:33:23,980
+the non-public data.
+
+572
+00:33:23,980 --> 00:33:26,660
+Are there donations given that we don't know about?
+
+573
+00:33:26,660 --> 00:33:27,820
+Well, there shouldn't be,
+
+574
+00:33:27,820 --> 00:33:30,940
+because PACs have to tell you who gives to them.
+
+575
+00:33:30,940 --> 00:33:32,220
+Here's Maggie Severin's again.
+
+576
+00:33:32,220 --> 00:33:34,820
+PACs have always had to disclose their donors.
+
+577
+00:33:34,820 --> 00:33:36,140
+The Supreme Court, when they did the
+
+578
+00:33:36,140 --> 00:33:38,620
+Citizens United opinion, it said that
+
+579
+00:33:38,620 --> 00:33:41,300
+This principle of transparency and disclosure
+
+580
+00:33:41,300 --> 00:33:43,740
+that's kind of been around with PACS for a while
+
+581
+00:33:43,740 --> 00:33:47,100
+should also apply to unlimited political spending.
+
+582
+00:33:47,100 --> 00:33:51,940
+So as long as you are disclosing what you're doing,
+
+583
+00:33:51,940 --> 00:33:53,940
+then the spending is constitutional.
+
+584
+00:33:53,940 --> 00:33:56,460
+For example, one thing that we've seen more and more
+
+585
+00:33:56,460 --> 00:34:01,460
+with super PACS is that someone will give to an organization,
+
+586
+00:34:02,060 --> 00:34:03,900
+you know, maybe a 501c4,
+
+587
+00:34:03,900 --> 00:34:07,260
+who will then transfer that money to the super PAC.
+
+588
+00:34:07,260 --> 00:34:09,060
+Well, do you know where that money came from?
+
+589
+00:34:09,060 --> 00:34:11,820
+If it's being transferred from one group to another?
+
+590
+00:34:11,820 --> 00:34:15,220
+Yeah, so there are a lot of nonprofit organizations.
+
+591
+00:34:15,220 --> 00:34:16,780
+And so it's the 501C.
+
+592
+00:34:16,780 --> 00:34:20,020
+So that's basically our IRS code, right?
+
+593
+00:34:20,020 --> 00:34:22,900
+So when IRS tried to set the tax rate,
+
+594
+00:34:22,900 --> 00:34:25,620
+and 501C is basically a tax exempt
+
+595
+00:34:25,620 --> 00:34:27,620
+in nonprofit organizations.
+
+596
+00:34:27,620 --> 00:34:30,900
+And for example, NYU is a 501C3,
+
+597
+00:34:30,900 --> 00:34:32,460
+which is the education.
+
+598
+00:34:32,460 --> 00:34:36,980
+NRA, National Rifle Association is a 501C4.
+
+599
+00:34:36,980 --> 00:34:39,960
+Planned Parenthood is also 5144.
+
+600
+00:34:39,960 --> 00:34:44,040
+So 5144 is a social welfare organization,
+
+601
+00:34:44,040 --> 00:34:46,440
+according to IRS definition.
+
+602
+00:34:46,440 --> 00:34:49,840
+And these organizations, they are supposed to work
+
+603
+00:34:49,840 --> 00:34:51,760
+to improve social welfare.
+
+604
+00:34:51,760 --> 00:34:54,680
+These nonprofits, since they're supposed to work
+
+605
+00:34:54,680 --> 00:34:58,160
+for social welfare, cannot spend more than 50%
+
+606
+00:34:58,160 --> 00:35:01,040
+of their budget on campaign contributions.
+
+607
+00:35:01,040 --> 00:35:06,040
+But the downside, or the one opaque thing downside is,
+
+608
+00:35:06,040 --> 00:35:14,040
+When you donate, you can, you know, as an individual, if you're a wealthy individual or an ordinary citizen, you can donate to Planned Parenthood.
+
+609
+00:35:14,040 --> 00:35:19,040
+You can donate to NRA, right? But those donations are not disclosed.
+
+610
+00:35:19,040 --> 00:35:29,040
+Okay, so someone could donate to a 501c3 anonymously, and then that money gets transferred to a super PAC and nobody knows who did it.
+
+611
+00:35:29,040 --> 00:35:36,240
+This is referred to as quote dark money. That's becoming more and more prevalent and these donations are not traceable
+
+612
+00:35:36,240 --> 00:35:42,200
+And if you're curious how all of this super packs dark money all of it has affected how campaigns are run
+
+613
+00:35:42,600 --> 00:35:44,600
+Here are some numbers
+
+614
+00:35:44,640 --> 00:35:54,520
+In 2008 the year of Hilary the movie the FEC reported that a total of 1.6 billion dollars was spent by contrast the
+
+615
+00:35:54,760 --> 00:35:56,760
+2020 election over
+
+616
+00:35:56,760 --> 00:36:03,960
+$14 billion, $5.7 billion on the Trump-Biden race, and the rest on the congressional races.
+
+617
+00:36:03,960 --> 00:36:10,080
+Now, each office is different, but nowadays it costs a lot of money to run for Congress.
+
+618
+00:36:10,080 --> 00:36:15,160
+The average is $1.1 million for a House seat, $6.5 million for the Senate.
+
+619
+00:36:15,160 --> 00:36:20,760
+Now, we started with you saying how politicians and Supreme Court justices have criticized
+
+620
+00:36:20,760 --> 00:36:22,760
+this decision.
+
+621
+00:36:22,760 --> 00:36:28,400
+Did anyone you spoke to say there were any positives to this decision at all?
+
+622
+00:36:28,400 --> 00:36:32,240
+I want to be forthright here and say that all three guests I interviewed were quite
+
+623
+00:36:32,240 --> 00:36:35,320
+frankly critical of the decision.
+
+624
+00:36:35,320 --> 00:36:41,480
+And so I asked Jeff if there was a plus side, a pro to the decision, and he gave me one.
+
+625
+00:36:41,480 --> 00:36:47,440
+On the advantage side, businesses and multinational corporations are fairly nimble about responding
+
+626
+00:36:47,440 --> 00:36:53,440
+to crisis and I'm just thinking about even currently in the situation between Russia
+
+627
+00:36:53,440 --> 00:37:00,120
+and Ukraine, you see corporations responding in ways that perhaps governments are slow
+
+628
+00:37:00,120 --> 00:37:02,960
+to or there's constraints on government.
+
+629
+00:37:02,960 --> 00:37:10,560
+And so there is a fair comment that businesses express some important democratic values and
+
+630
+00:37:10,560 --> 00:37:18,360
+have agency and should be regarded and have an ability to speak to issues that are political
+
+631
+00:37:18,360 --> 00:37:19,360
+in nature.
+
+632
+00:37:19,360 --> 00:37:21,840
+You see, companies can move faster than politicians.
+
+633
+00:37:21,840 --> 00:37:25,680
+They can do stuff without it going through Congress.
+
+634
+00:37:25,680 --> 00:37:31,680
+These massive donations create a relationship between corporations and politicians.
+
+635
+00:37:31,680 --> 00:37:36,440
+And that politician might ask a company to do something because the politician is unable
+
+636
+00:37:36,440 --> 00:37:37,440
+to.
+
+637
+00:37:37,440 --> 00:37:41,960
+Then I asked, hey, young for an advantage, away the decision was in the nation's best
+
+638
+00:37:41,960 --> 00:37:42,960
+interest.
+
+639
+00:37:42,960 --> 00:37:49,280
+I'm not sure whether I can make that argument because if you look at the sheer amount of
+
+640
+00:37:49,280 --> 00:37:57,480
+money in American election, that's a mind blowing, especially the amount of independent
+
+641
+00:37:57,480 --> 00:38:00,760
+expenditures spent by super PACs.
+
+642
+00:38:00,760 --> 00:38:05,440
+So do we really need a decent amount of money in elections?
+
+643
+00:38:05,440 --> 00:38:11,080
+And US is a country that elect basically everybody, judges and prosecutors.
+
+644
+00:38:11,080 --> 00:38:16,400
+And if you look at other countries, it's extremely rare to find a case that the judges
+
+645
+00:38:16,400 --> 00:38:19,100
+elected or prosecutors elected.
+
+646
+00:38:19,100 --> 00:38:24,280
+So now this super PACs, they are not just spending money on presidential elections and
+
+647
+00:38:24,280 --> 00:38:25,580
+Senate elections.
+
+648
+00:38:25,580 --> 00:38:33,700
+They are infiltrating the lower level elections, county sheriff and judges.
+
+649
+00:38:33,700 --> 00:38:39,840
+So in that sense, these are national super PACs, and they are having so much power in
+
+650
+00:38:39,840 --> 00:38:45,420
+terms of shaping every election result and every layer of the government.
+
+651
+00:38:45,420 --> 00:38:53,340
+When an individual or a business has a substantial financial chest of a war chest to support
+
+652
+00:38:53,340 --> 00:38:55,780
+the political process, those are our lawmakers.
+
+653
+00:38:55,780 --> 00:39:01,060
+Those are the ones that determine what the regulations are going to be.
+
+654
+00:39:01,060 --> 00:39:10,820
+united by being a clear win for large money to say there is no limits that the government
+
+655
+00:39:10,820 --> 00:39:18,780
+can impose upon businesses and wealthy donors that want to influence an issue or use that
+
+656
+00:39:18,780 --> 00:39:26,500
+money to advertise on behalf of a candidate are picking a winner or are letting those
+
+657
+00:39:26,500 --> 00:39:30,580
+with money, be those with power in the political process.
+
+658
+00:39:30,980 --> 00:39:38,860
+And the impact on our politics is going to be corrosive as a result.
+
+659
+00:39:44,460 --> 00:39:49,100
+If you can just cater to one billionaire, you don't need to appeal to
+
+660
+00:39:49,100 --> 00:39:51,180
+a broader set of voters, right?
+
+661
+00:39:51,300 --> 00:39:56,260
+If one billionaire could finance 10 politicians compared to
+
+662
+00:39:56,500 --> 00:39:59,100
+to hunt, for example, 20 million people.
+
+663
+00:39:59,100 --> 00:40:01,500
+I think that has a very different implication
+
+664
+00:40:01,500 --> 00:40:04,900
+in terms of representation, political accountability,
+
+665
+00:40:04,900 --> 00:40:07,580
+and politicians' behavior.
+
+666
+00:40:07,580 --> 00:40:10,740
+What about the future of Citizens United?
+
+667
+00:40:10,740 --> 00:40:15,740
+I can't help but look at that number, $14 billion,
+
+668
+00:40:15,740 --> 00:40:20,740
+and wonder if it's ever gonna go down or even stay static.
+
+669
+00:40:21,020 --> 00:40:24,340
+Are super PACs just going to keep giving more and more?
+
+670
+00:40:24,340 --> 00:40:30,500
+So one of the rallying cries of those who don't like the decision is quote unquote overturned
+
+671
+00:40:30,500 --> 00:40:33,000
+Citizens United.
+
+672
+00:40:33,000 --> 00:40:40,180
+Because it is a court ruling, only the Supreme Court itself can quote overturn its decision.
+
+673
+00:40:40,180 --> 00:40:44,820
+Though I will say every few years someone in Congress proposes an amendment that will
+
+674
+00:40:44,820 --> 00:40:49,220
+establish corporations as entities without first amendment protections or put restrictions
+
+675
+00:40:49,220 --> 00:40:51,180
+on dark money.
+
+676
+00:40:51,180 --> 00:40:54,260
+I asked Maggie about those amendments and she kind of laughed and said,
+
+677
+00:40:54,260 --> 00:40:56,620
+yeah, yeah, you see those every now and then.
+
+678
+00:40:56,620 --> 00:40:59,860
+Amendments aren't at all likely to be successful.
+
+679
+00:40:59,860 --> 00:41:02,060
+And I'm not trying to be a killjoy or anything, but
+
+680
+00:41:02,060 --> 00:41:05,820
+amendments require two thirds of both houses of Congress and three fourths of
+
+681
+00:41:05,820 --> 00:41:09,300
+all states to be ratified and added to our Constitution.
+
+682
+00:41:09,300 --> 00:41:11,380
+So yeah, it's just not gonna happen.
+
+683
+00:41:11,380 --> 00:41:15,060
+So for those who do not like such a staggering sum of money and
+
+684
+00:41:15,060 --> 00:41:19,140
+political campaigns, what's the good news?
+
+685
+00:41:19,140 --> 00:41:21,900
+Well, I think there's two little pieces of good news,
+
+686
+00:41:21,900 --> 00:41:25,620
+the first of which is a rising trend of politicians
+
+687
+00:41:25,620 --> 00:41:27,260
+on both sides of the aisle,
+
+688
+00:41:27,260 --> 00:41:30,900
+raising significant sums, not from super PACs,
+
+689
+00:41:30,900 --> 00:41:34,640
+not from dark money, but from people.
+
+690
+00:41:34,640 --> 00:41:38,120
+Lots and lots of small donations.
+
+691
+00:41:38,120 --> 00:41:41,500
+Anybody here know what the average contribution is?
+
+692
+00:41:41,500 --> 00:41:44,100
+Everybody know what the average contribution is?
+
+693
+00:41:44,100 --> 00:41:48,100
+It's right, $27.
+
+694
+00:41:48,100 --> 00:41:55,740
+Now, this in itself is revolutionary because of you.
+
+695
+00:41:55,740 --> 00:41:58,020
+And the second upshot?
+
+696
+00:41:58,020 --> 00:42:04,100
+Maggie made me stop and think about what all this money buys in the first place.
+
+697
+00:42:04,100 --> 00:42:09,580
+Some money that's spent on elections is spent in a very effective way, and political ads
+
+698
+00:42:09,580 --> 00:42:13,100
+do move people's opinions somewhat.
+
+699
+00:42:13,100 --> 00:42:18,700
+But especially as media gets more and more sophisticated, I think that consumers are
+
+700
+00:42:18,700 --> 00:42:20,020
+getting more and more sophisticated.
+
+701
+00:42:20,020 --> 00:42:24,660
+So people, I think people have a sense, one, that they're being kind of ripped off by Washington.
+
+702
+00:42:24,660 --> 00:42:29,820
+They also, in some cases, this money doesn't sway an election as much as you would think,
+
+703
+00:42:29,820 --> 00:42:32,460
+you know, when really well deployed it can.
+
+704
+00:42:32,460 --> 00:42:39,180
+But I think that kind of sophisticated consumers of political news can also increasingly kind
+
+705
+00:42:39,180 --> 00:42:42,300
+of sift through things and form their own opinions.
+
+706
+00:42:42,300 --> 00:42:45,920
+So I think it's important to remember that people aren't powerless in this situation.
+
+707
+00:42:45,920 --> 00:42:49,800
+You're not, you know, there's no kind of earworm in your brain telling you exactly who to vote
+
+708
+00:42:49,800 --> 00:42:51,920
+for and how to think.
+
+709
+00:42:51,920 --> 00:42:58,000
+There are some kind of troubling things happening, but people can still take in information to
+
+710
+00:42:58,000 --> 00:42:59,840
+make decisions for themselves.
+
+711
+00:43:12,300 --> 00:43:18,600
+Alright, well that's Citizens United versus the FEC, okay, and it maybe turned out to be
+
+712
+00:43:18,600 --> 00:43:20,600
+about 40 minutes instead of 30.
+
+713
+00:43:20,600 --> 00:43:23,100
+I just tried to pack a lot in.
+
+714
+00:43:23,100 --> 00:43:26,100
+Yeah, not what I'm saying.
+
+715
+00:43:26,100 --> 00:43:29,420
+This episode was made by me, Nick Capodice, with Hannah McCarthy.
+
+716
+00:43:29,420 --> 00:43:33,020
+Our staff includes Jackie Fulton, Christina Phillips as our senior producer, and Rebecca
+
+717
+00:43:33,020 --> 00:43:35,220
+Levoie, our executive producer.
+
+718
+00:43:35,220 --> 00:43:40,020
+Music in this episode by Electro Swing, Anatech, BioUnit, Eric Kilkandy Auto Hacker, Bonkers,
+
+719
+00:43:40,020 --> 00:43:42,720
+Beat Club, Scott Gratton, Scott Holmes, Fabian Tell,
+
+720
+00:43:42,720 --> 00:43:44,280
+Francis Wells, Dama Beatz,
+
+721
+00:43:44,280 --> 00:43:47,400
+and as if that wasn't enough, Chris Zabrisky.
+
+722
+00:43:47,400 --> 00:43:49,880
+Civics 101 is a production of NHPR.
+
+723
+00:43:49,880 --> 00:43:51,320
+New Hampshire Public Radio.
+
+724
+00:43:55,520 --> 00:43:56,720
+This is Phil Bredesen,
+
+725
+00:43:56,720 --> 00:43:59,400
+former Democratic governor of the state of Tennessee.
+
+726
+00:43:59,400 --> 00:44:02,760
+If you love digging into how history shapes U.S. policy,
+
+727
+00:44:02,760 --> 00:44:05,360
+check out the new season of You Might Be Right.
+
+728
+00:44:05,360 --> 00:44:07,880
+And this is Bill Haslam, former Republican governor.
+
+729
+00:44:07,880 --> 00:44:09,400
+This season we're asking the questions
+
+730
+00:44:09,400 --> 00:44:11,560
+that has defined every pivotal moment
+
+731
+00:44:11,560 --> 00:44:13,120
+in American political history.
+
+732
+00:44:13,120 --> 00:44:15,160
+Is democracy really under threat
+
+733
+00:44:15,160 --> 00:44:17,960
+or is that just a story as old as the Republic itself?
+
+734
+00:44:17,960 --> 00:44:19,200
+We're tackling the biggest question
+
+735
+00:44:19,200 --> 00:44:22,360
+shaping the 2026 midterms, so join us.
+
+736
+00:44:22,360 --> 00:44:25,760
+Follow you might be right wherever you get your podcasts.
+
+737
+00:44:25,760 --> 00:44:28,800
+Enjoying your podcast will be brief.
+
+738
+00:44:28,800 --> 00:44:31,000
+If you're looking for the perfect holiday gift,
+
+739
+00:44:31,000 --> 00:44:33,180
+give scratchers from the California lottery.
+
+740
+00:44:33,180 --> 00:44:34,600
+With so many to choose from,
+
+741
+00:44:34,600 --> 00:44:38,040
+you're sure to find the right gift for anyone on your list.
+
+742
+00:44:38,040 --> 00:44:47,320
+Now that your holiday shopping list is figured out, enjoy this bird singing Jingle Bells.
+
+743
+00:44:47,320 --> 00:44:49,600
+Give the gift of scratchers from the California Lottery.
+
+744
+00:44:49,600 --> 00:44:51,840
+A little play can make your day.
+
+745
+00:44:51,840 --> 00:44:52,840
+Please play responsibly.
+
+746
+00:44:52,840 --> 00:44:55,120
+Must be 18 years or older to purchase, play or claim.

@@ -59,7 +59,15 @@ $('ask').onclick=async()=>{
   if(tab && ok){tab.location.href='https://chatgpt.com/';$('notice').textContent='已复制提问，请在 ChatGPT 中粘贴。'}
   else {tab?.close();const link=document.createElement('a');link.href='https://chatgpt.com/';link.target='_blank';link.rel='noopener';link.textContent='打开 ChatGPT';$('notice').append(' ',link)}
 };
-function seek(cue){audio.currentTime=cue.start;audio.play().catch(()=>{$('notice').textContent='请使用播放器的播放键。'})}
+let cueOffset=0;
+function setCueOffset(value){
+  cueOffset=value;
+  $('offset').textContent='字幕偏移 '+(value>=0?'+':'')+value.toFixed(1)+' 秒';
+  $('alignment').hidden=value===0;
+  audio.ontimeupdate?.();
+}
+$('resetOffset').onclick=()=>setCueOffset(0);
+function seek(cue){audio.currentTime=Math.max(0,cue.start+cueOffset);audio.play().catch(()=>{$('notice').textContent='请使用播放器的播放键。'})}
 function display(data){
   cues=data;active=-1;select('','');rows.replaceChildren();
   $('follow').disabled=cues[0]?.start===undefined;
@@ -79,6 +87,10 @@ function display(data){
       if(getSelection().toString().trim()) return;
       const mode=$('mode').value, word=e.target.closest('.word');
       if(mode==='word' && !word && e.detail!==0)return;
+      if(mode==='align'){
+        if(cue.start===undefined||audio.readyState<1){$('notice').textContent='请先载入音频和带时间戳的字幕。';return}
+        setCueOffset(audio.currentTime-cue.start);$('mode').value='seek';return;
+      }
       const text=mode==='word' && word?word.textContent:cue.text;
       select(text,cue.text);
       if(mode==='word'||mode==='line') copy(text);
@@ -97,7 +109,7 @@ document.addEventListener('selectionchange',()=>{
   select(selection,sentences.map(el=>el.textContent).join(' '));
 });
 audio.ontimeupdate=()=>{
-  const next=cues.findIndex(c=>c.start<=audio.currentTime && audio.currentTime<c.end);
+  const next=cues.findIndex(c=>c.start<=audio.currentTime-cueOffset && audio.currentTime-cueOffset<c.end);
   if(next===active)return;
   rows.children[active]?.classList.remove('active');active=next;
   const row=rows.children[next];if(!row)return;row.classList.add('active');
@@ -117,7 +129,7 @@ $('form').onsubmit=async e=>{
     if(current!==revision)return;
     const source=file?URL.createObjectURL(file):url, previous=objectURL;
     audio.src=source;objectURL=file?source:'';if(previous)URL.revokeObjectURL(previous);
-    display(data);rate();
+    clearLibrarySelection();setCueOffset(0);display(data);rate();
     $('title').textContent=file?.name||new URL(url).pathname.split('/').filter(Boolean).pop()||'我的播客';
     $('origin').textContent=data[0].start===undefined?'纯文稿 · 可选词摘句':'同步文稿 · '+data.length+' 条字幕';
     $('importer').open=false;
@@ -125,3 +137,4 @@ $('form').onsubmit=async e=>{
 };
 const sample='WEBVTT\n\n00:00:00.000 --> 00:00:02.859\nCould you walk me through the test results?\n\n00:00:02.859 --> 00:00:06.998\nOf course. The camera worked well in daylight.\n\n00:00:06.998 --> 00:00:09.547\nWhat should we focus on next?\n\n00:00:09.547 --> 00:00:13.001\nLet us take a closer look at the low-light tests.';
 display(parse(sample));
+
