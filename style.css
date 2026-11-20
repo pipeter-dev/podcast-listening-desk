@@ -29,3 +29,4 @@ header{padding:16px 0}header strong{letter-spacing:.03em;font-size:1.1rem}header
 .transport-tools{grid-column:1;grid-row:2;display:grid;grid-template-columns:1fr 1.25fr 1fr auto;gap:6px;width:min(100%,680px);justify-self:center}.transport-tools button,#playToggle{min-width:0;min-height:58px;padding:4px;font-size:clamp(16px,4.2vw,21px)}.transport-tools .rate{font-size:0;grid-column:auto}.transport-tools select{min-height:58px;font-size:16px}
 main{padding-bottom:calc(140px + env(safe-area-inset-bottom,0px))}
 }
+.chinese-line{font:1rem/1.6 system-ui,sans-serif;color:#435c50;margin-top:.25em}#rows.englishOnly .chinese-line{display:none}

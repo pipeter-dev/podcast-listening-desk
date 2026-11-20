@@ -8,6 +8,12 @@ function save(key,value) { try {localStorage.setItem('reader.'+key,value)} catch
 for (const speed of [0.5,0.75,0.9,1,1.1,1.25,1.5,1.75,2]) $('speed').add(new Option(speed+'×',speed));
 $('speed').value = pref('speed','1');
 $('follow').checked = pref('follow','true') === 'true';
+$('showChinese').checked=pref('showChinese','true')==='true';
+rows.classList.toggle('englishOnly',!$('showChinese').checked);
+$('showChinese').onchange=()=>{
+  rows.classList.toggle('englishOnly',!$('showChinese').checked);
+  save('showChinese',$('showChinese').checked);
+};
 function rate(){audio.defaultPlaybackRate = audio.playbackRate = Number($('speed').value)||1}
 rate();
 $('speed').onchange = () => { rate();save('speed',$('speed').value) };
@@ -15,7 +21,7 @@ $('follow').onchange=()=>{
   save('follow',$('follow').checked);
   manualUntil=0;followActive();
 };
-function parse(raw) {
+function parse(raw, bilingual=false) {
   const input = raw.replace(/^\uFEFF/,'').replace(/\r\n?/g,'\n').trim();
   if (!input) throw Error('请提供文稿。');
   if (!/^WEBVTT\b/.test(input) && !input.includes('-->'))
@@ -28,9 +34,12 @@ function parse(raw) {
     const times=lines[index]?.match(/^\s*((?:\d+:)?\d{2}:\d{2}[.,]\d{3})\s+-->\s+((?:\d+:)?\d{2}:\d{2}[.,]\d{3})(?:\s|$)/);
     if(!times) throw Error('字幕时间格式有误，请检查 VTT 或 SRT 文件。');
     const start=seconds(times[1]), end=seconds(times[2]);
-    const text=lines.slice(index+1).join(' ').replace(/<[^>]*>/g,'').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&amp;/g,'&').trim();
+    const body=lines.slice(index+1);
+    const clean=line=>line.replace(/<[^>]*>/g,'').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&amp;/g,'&').trim();
+    const dual=body.length===2&&(bilingual||(/[a-z]/i.test(body[0])&&!/[\u3400-\u9fff]/.test(body[0])&&/[\u3400-\u9fff]/.test(body[1])));
+    const text=clean(dual?body[0]:body.join(' '));
     if(end<=start || !text) throw Error('字幕条目缺少正文或有效的结束时间。');
-    result.push({start,end,text});
+    result.push(dual?{start,end,text,zh:clean(body[1])}:{start,end,text});
   }
   if(!result.length) throw Error('没有找到可显示的字幕。');
   return result.sort((a,b)=>a.start-b.start);
@@ -81,6 +90,7 @@ function display(data, append=false){
   const start=append?cues.length:0;
   if(data.length&&!data[0].study)prepareStudy(data);
   cues=data;
+  $('bilingualControl').hidden=!data.some(c=>c.zh);
   if(!append){active=-1;select('','');rows.replaceChildren()}
   $('follow').disabled=cues[0]?.start===undefined;
   for(let index=start;index<cues.length;index++){
@@ -104,7 +114,12 @@ function display(data, append=false){
 
     };
     sentence.onkeydown=e=>{if(e.key==='Enter')sentence.click()};
-    row.append(sentence);rows.append(row);
+    if(cue.zh){
+      const lines=document.createElement('div'),chinese=document.createElement('div');
+      chinese.className='chinese-line';chinese.lang='zh-CN';chinese.textContent=cue.zh;
+      lines.append(sentence,chinese);row.append(lines);
+    }else row.append(sentence);
+    rows.append(row);
   }
 }
 document.addEventListener('selectionchange',()=>{
@@ -113,7 +128,7 @@ document.addEventListener('selectionchange',()=>{
   const range=s.getRangeAt(0);
   const sentences=[...rows.querySelectorAll('.sentence')].filter(el=>range.intersectsNode(el));
   if(sentences.length){
-    select(selection,sentences.map(el=>el.textContent).join(' '),Number(sentences[0].parentElement.dataset.index),Number(sentences.at(-1).parentElement.dataset.index));
+    select(selection,sentences.map(el=>el.textContent).join(' '),Number(sentences[0].closest('.row').dataset.index),Number(sentences.at(-1).closest('.row').dataset.index));
     if(sentences[0].contains(range.startContainer)){const before=range.cloneRange();before.selectNodeContents(sentences[0]);before.setEnd(range.startContainer,range.startOffset);selectedCharacter=before.toString().length}
   }
 });
@@ -177,7 +192,7 @@ $('form').onsubmit=async e=>{
   try{
     const file=$('file').files[0], url=file?'':httpURL($('url').value.trim());
     const script=$('scriptFile').files[0],raw=$('raw').value.trim();
-    const data=parse(script?await script.text():raw||await readURL(httpURL($('scriptUrl').value.trim())));
+    const data=parse(script?await script.text():raw||await readURL(httpURL($('scriptUrl').value.trim())),/\.en-zh\.srt(?:$|[?#])/i.test(script?.name||$('scriptUrl').value));
     if(current!==revision)return;
     const source=file?URL.createObjectURL(file):url, previous=objectURL;
     audio.src=source;objectURL=file?source:'';if(previous)URL.revokeObjectURL(previous);

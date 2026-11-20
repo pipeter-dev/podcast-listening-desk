@@ -1,0 +1,3729 @@
+1
+00:00:00,000 --> 00:00:05,040
+Hello everyone, Nick here.
+大家好，我是尼克。
+
+2
+00:00:05,040 --> 00:00:10,880
+I am recording these words a mere few days before the polls open on November 3rd.
+我录这段话的时候，离 11 月 3 日开放投票只剩几天。
+
+3
+00:00:10,880 --> 00:00:15,120
+But by the time you hear these words, the midterms will be over and you're going to
+不过等你听到时，中期选举已经结束，你看到的又会是
+
+4
+00:00:15,120 --> 00:00:21,160
+be back to regular commercial selling products instead of promoting people running for office.
+推销商品的普通广告，而不是帮候选人拉票的广告了。
+
+5
+00:00:21,160 --> 00:00:27,000
+And I wonder if you, like me, felt that this election in particular, the 2026 midterms,
+不知道你是否也和我一样，觉得这次选举，特别是 2026 年这场中期选举，
+
+6
+00:00:27,000 --> 00:00:35,080
+a lot and I mean a lot more ads. It could just be because we are spending more time
+广告多了，真的是多了很多。也许只是因为我们花了更多时间
+
+7
+00:00:35,080 --> 00:00:40,720
+watching videos on our various devices. But at this point me and my kids can quote chapter
+用各种设备看视频吧。不过到现在，我和孩子们都能一字不差地背出
+
+8
+00:00:40,720 --> 00:00:48,440
+and verse about 10 different ads tied to one race in our state. If you felt the same way,
+我们州同一场选战的大约十条广告。如果你也有这种感觉，
+
+9
+00:00:48,440 --> 00:00:54,760
+there is a reason for that. And that reason is kind of what this episode is about. Ads
+那是有原因的，而这正是本集要聊的。投广告
+
+10
+00:00:54,760 --> 00:01:02,440
+cost money. And as of right now, CNN has reported that over 16 billion dollars has been raised
+要花钱。据美国有线电视新闻网目前的报道，全国各地为这次中期选举已经筹集了超过 160 亿美元。
+
+11
+00:01:02,440 --> 00:01:08,440
+for these midterm campaigns nationally. This episode is about a landmark Supreme Court decision
+本集要讲的是最高法院 2010 年作出的一项里程碑式裁决，
+
+12
+00:01:08,440 --> 00:01:16,280
+from 2010, Citizens United versus the FEC. This decision altered how money and elections
+即「公民联合诉联邦选举委员会案」。这项裁决改变了金钱与选举
+
+13
+00:01:16,280 --> 00:01:22,120
+intertwine. And just for fun, let me tell you about the last midterm election before 2010,
+相互交织的方式。我们不妨回头看一下 2010 年之前最后一次中期选举，
+
+14
+00:01:22,120 --> 00:01:26,520
+before this ruling, it was the 2006 midterms.
+也就是裁决前的 2006 年中期选举。
+
+15
+00:01:26,520 --> 00:01:28,520
+Do you know how much was raised by the two parties
+你知道两党在那次选举中总共筹集了多少钱吗？
+
+16
+00:01:28,520 --> 00:01:30,000
+in that election?
+在那场选举中？
+
+17
+00:01:30,000 --> 00:01:32,720
+About $900 million.
+大约9亿美元。
+
+18
+00:01:32,720 --> 00:01:34,280
+Under a billion.
+在十亿美元的范围内。
+
+19
+00:01:34,280 --> 00:01:37,640
+2026 midterms, again, 16 billion.
+2026年中期选举，又到了160亿美元。
+
+20
+00:01:37,640 --> 00:01:42,280
+It is indeed the most expensive midterm in US history.
+这确实是美国历史上最昂贵的中期选举。
+
+21
+00:01:42,280 --> 00:01:44,360
+And you might be thinking, well,
+你或许在想，嗯，
+
+22
+00:01:44,360 --> 00:01:46,480
+you know, things are expensive everywhere,
+你知道，到处都贵，
+
+23
+00:01:46,480 --> 00:01:49,400
+billionaires all over the world influence politics.
+全世界的亿万富翁都在影响政治。
+
+24
+00:01:49,400 --> 00:01:50,840
+And you're not wrong.
+你没错。
+
+25
+00:01:50,840 --> 00:01:56,840
+But by comparison in a significant parliamentary election in 2024 in the UK,
+但与英国2024年一场重大议会选举相比，
+
+26
+00:01:57,520 --> 00:02:02,640
+a grand total of $125 million was spent just two years ago.
+仅仅两年前，就花费了1.25亿美元。
+
+27
+00:02:03,280 --> 00:02:09,640
+Yes, our governing system is unique, but so too is our election process.
+是的，我们的治理体系是独特的，但我们的选举过程也同样独特。
+
+28
+00:02:10,320 --> 00:02:13,120
+In the months to come, we're going to start to get a clear picture of where
+在接下来的几个月里，我们将开始形成对现状的清晰认识。
+
+29
+00:02:13,120 --> 00:02:18,400
+exactly that $16 billion came from, which individuals thought it was such a
+正是那160亿美元的来源，那些个人认为这是一笔如此巨大的
+
+30
+00:02:18,400 --> 00:02:25,040
+worthy investment, and finally what that money got them. But for today, we're going to start
+值得的投资，最终这笔钱给他们带来了什么。但今天，我们将从
+
+31
+00:02:25,040 --> 00:02:31,920
+with how we got here. So here is a complete breakdown of Citizens United vs. FEC. Stick around.
+开始谈起我们是如何走到今天的。所以，这里是对‘Citizen’s United vs. FEC’的完整解析，请继续关注。
+
+32
+00:02:48,400 --> 00:02:52,800
+For many to choose from, you're sure to find the right gift for anyone on your list.
+对于许多人来说，你们一定能从众多选择中为你们名单上的任何人找到合适的礼物。
+
+33
+00:02:52,800 --> 00:03:02,000
+Now that your holiday shopping list is figured out, enjoy this bird singing Jingle Bells.
+节日购物清单搞定了，来听这只鸟唱《铃儿响叮当》吧。
+
+34
+00:03:02,000 --> 00:03:04,320
+Give the gift of scratches from the California Lottery.
+把加州彩票的刮奖赠品送出去。
+
+35
+00:03:04,320 --> 00:03:06,600
+A little play can make your day.
+小玩一下，开心一天。
+
+36
+00:03:06,600 --> 00:03:07,600
+Please play responsibly.
+请理性购彩。
+
+37
+00:03:07,600 --> 00:03:12,400
+Must be 18 years or older to purchase, play, or claim.
+购买、游玩或兑奖须年满 18 岁。
+
+38
+00:03:12,400 --> 00:03:16,000
+There aren't a lot of functioning democracies around the world that work this way.
+世界上很少有真正运作的民主制度是这样运作的。
+
+39
+00:03:16,000 --> 00:03:24,040
+where you can basically have millionaires and billionaires bank-rolling, whoever they
+在那里，你基本上可以有亿万富翁和亿万富翁们银行资助，无论他们是谁，
+
+40
+00:03:24,040 --> 00:03:27,040
+want, however they want, in some cases undisclosed.
+他们想要什么，无论他们想要什么，有些情况是未公开的。
+
+41
+00:03:27,040 --> 00:03:33,440
+So we're here today once again to say enough is enough.
+所以我们今天再次说，够了，够了。
+
+42
+00:03:33,440 --> 00:03:36,560
+It's time for the people to take back their elections.
+是时候让人民夺回他们的选举权了。
+
+43
+00:03:36,560 --> 00:03:40,080
+It's time to overturn Citizens United.
+是时候推翻《公民联合》了。
+
+44
+00:03:40,080 --> 00:03:44,120
+I had to raise a lot of money from my campaign.
+我不得不从我的竞选活动中筹集大量资金。
+
+45
+00:03:44,120 --> 00:03:51,120
+So I, there's nobody who operates in politics that has perfectly clean hands on this issue.
+所以，政治圈里没有任何人在这问题上是清白的。
+
+46
+00:03:52,880 --> 00:03:53,880
+I'm Nick Capodice.
+我是尼克·卡波迪切。
+
+47
+00:03:53,880 --> 00:03:54,960
+I'm Hannah McCarthy.
+我是汉娜·麦卡锡。
+
+48
+00:03:54,960 --> 00:03:58,920
+And this is Civics 101, the podcast refresher course on the basics of how our democracy
+这是一档关于民主基础的入门课程，名为《公民101》。
+
+49
+00:03:58,920 --> 00:03:59,920
+works.
+如何运作。
+
+50
+00:03:59,920 --> 00:04:04,640
+And today we are going to break down the Supreme Court decision that Jimmy Carter, called
+今天我们将剖析最高法院的判决，吉米·卡特曾称之为
+
+51
+00:04:04,640 --> 00:04:10,040
+stupid, that Barack Obama openly criticized at a State of the Union address that former
+愚蠢的，奥巴马在国情咨文演讲中公开批评过，前
+
+52
+00:04:10,040 --> 00:04:14,300
+Supreme Court Justice Ruth Bader Ginsburg said in an interview would be quote,
+最高法院大法官鲁斯·巴德·金斯伯格在一次采访中说，这会是‘
+
+53
+00:04:14,300 --> 00:04:21,260
+the impossible dream to overrule Citizens United versus FEC 2010.
+推翻《公民联合》案对联邦选举委员会（FEC）的判决，2010年那场不可能的梦想。
+
+54
+00:04:21,260 --> 00:04:27,760
+In this episode you are going to learn about the case and a lot of initialisms.
+在本期节目中，你将了解这个案件以及许多术语。
+
+55
+00:04:27,760 --> 00:04:33,440
+The FEC, BCRA, known as BICRA, PACS, and Super PACS, and you're also going to learn
+联邦选举委员会（FEC）、BCRA，也就是BICRA、PACS和超级PACS，你也将了解到
+
+56
+00:04:33,440 --> 00:04:38,720
+about corporations, dark money, and finally how this decision has affected
+关于企业、暗资金，以及最终这个决定如何影响了
+
+57
+00:04:38,720 --> 00:04:44,920
+political campaigns in the last 12 years. And all in about 20 minutes. 30 minutes.
+过去12年中的政治竞选活动。全部内容大约在20分钟内，30分钟内。
+
+58
+00:04:44,920 --> 00:04:53,680
+Can we just get the name out of the way first? I know the FEC stands for the Federal Election
+我们能不能先把这个名称说清楚？我知道FEC是联邦选举委员会的缩写
+
+59
+00:04:53,680 --> 00:04:58,720
+Commission, but who or what is Citizens United?
+但公民联合（Citizens United）到底是谁或是什么？
+
+60
+00:04:58,720 --> 00:05:05,040
+Citizens United is a nonprofit organization that has for a long time made ads and documentaries
+公民联合是一个非营利组织，多年来一直制作广告和纪录片
+
+61
+00:05:05,040 --> 00:05:07,540
+that support conservative politicians.
+支持保守派政治人物。
+
+62
+00:05:07,540 --> 00:05:19,440
+The head of Citizens United, David Bossy, was Donald Trump's deputy campaign manager.
+公民联合的负责人大卫·博西是唐纳德·特朗普的副竞选经理。
+
+63
+00:05:19,440 --> 00:05:22,120
+They are funded by the Koch brothers and a lot of other sources.
+他们由科赫兄弟以及众多其他来源资助。
+
+64
+00:05:22,120 --> 00:05:25,520
+They are a PAC, political action committee, which I'm going to get into in just a little
+他们是一个政治行动委员会，政治行动委员会，我马上就要讲到这一点
+
+65
+00:05:25,520 --> 00:05:26,520
+bit.
+一会儿。
+
+66
+00:05:26,520 --> 00:05:29,760
+Do you remember we got to interview Michael DeCoccus, the Democratic nominee for president
+你记得我们曾采访过迈克尔·德科库斯，这位民主党总统候选人吗？
+
+67
+00:05:29,760 --> 00:05:30,760
+in 1988?
+在1988年吗？
+
+68
+00:05:30,760 --> 00:05:31,760
+Do I ever?
+我可真是这样啊？
+
+69
+00:05:31,760 --> 00:05:34,760
+It's got to be 50 states, 200,000 precincts.
+它必须是50个州，20万个选区。
+
+70
+00:05:34,760 --> 00:05:36,600
+I don't want to hear about reds, blues, and purples.
+我不想听关于红色、蓝色和紫色的议论。
+
+71
+00:05:36,600 --> 00:05:38,040
+I mean, it's all just nonsense.
+我意思是，这全都是胡说八道。
+
+72
+00:05:38,040 --> 00:05:39,560
+You know, I mean, God.
+你知道，我意思是，上帝啊。
+
+73
+00:05:39,560 --> 00:05:43,840
+Citizens United were the ones who made one of the most infamous
+公民联合是制造历史上最臭名昭著之一的
+
+74
+00:05:43,840 --> 00:05:47,720
+political commercials in history, the racist Willie Horton
+政治广告的始作俑者，那个种族主义的威尔·霍顿广告
+
+75
+00:05:47,720 --> 00:05:49,680
+attack ad in 1988.
+1988年的攻击性广告。
+
+76
+00:05:49,680 --> 00:05:52,160
+Nuccaus not only opposes the death penalty,
+努卡斯不仅反对死刑，
+
+77
+00:05:52,160 --> 00:05:54,840
+he allowed first degree murderers to have weekend passes
+他还允许一级谋杀犯在周末获得探监许可
+
+78
+00:05:54,840 --> 00:05:56,360
+from prison.
+从监狱里出去。
+
+79
+00:05:56,360 --> 00:05:57,240
+Oh, right.
+哦，对了。
+
+80
+00:05:57,240 --> 00:06:00,960
+The ad that helped George H.W. Bush win the election.
+那则广告帮助乔治·H·W·布什赢得了选举。
+
+81
+00:06:00,960 --> 00:06:05,960
+And in 2008, they released a film called Hillary the Movie,
+2008年，他们推出了一部名为《希拉里》的电影，
+
+82
+00:06:06,100 --> 00:06:09,560
+which was purely a hit piece on former First Lady
+这是一部关于前第一夫人的纯正政治讽刺片。
+
+83
+00:06:09,560 --> 00:06:12,040
+and presidential candidate Hillary Clinton.
+以及总统候选人希拉里·克林顿。
+
+84
+00:06:12,040 --> 00:06:14,720
+Hillary is really the closest thing we have in America
+希拉里确实是美国最接近欧洲社会主义者的人。
+
+85
+00:06:14,720 --> 00:06:16,840
+to a European socialist.
+到一个欧洲社会主义者。
+
+86
+00:06:16,840 --> 00:06:18,120
+Oh, isn't that amazing?
+哦，这不惊人吗？
+
+87
+00:06:18,120 --> 00:06:20,560
+Oh, it's a woman, she can walk and talk.
+哦，她是个女人，她能走路，能说话。
+
+88
+00:06:20,560 --> 00:06:24,480
+This movie is at the center of one of the most famous
+这部电影是近年来最著名政治争议之一的中心。
+
+89
+00:06:24,480 --> 00:06:27,320
+or infamous decisions in our lifetime, Hannah,
+我们这一代人政治决策中最著名或最臭名昭著的决定之一，汉娜，
+
+90
+00:06:27,320 --> 00:06:31,100
+a decision about who can give to political campaigns
+关于谁能参与政治竞选的决定
+
+91
+00:06:31,100 --> 00:06:33,120
+and how much.
+以及投入多少。
+
+92
+00:06:33,120 --> 00:06:36,340
+And we begin our tale with one of the most expensive
+我们讲述的故事始于历史上最昂贵的
+
+93
+00:06:36,340 --> 00:06:38,920
+political campaigns in history.
+政治竞选活动之一。
+
+94
+00:06:40,720 --> 00:06:43,500
+So if you want to go way back, historically,
+所以如果你想从历史深处回溯一下，
+
+95
+00:06:43,500 --> 00:06:46,240
+there were no limits in the 1800s.
+19世纪根本没有限制。
+
+96
+00:06:46,240 --> 00:06:47,540
+That's Jeff Bone.
+那就是杰夫·邦。
+
+97
+00:06:47,540 --> 00:06:48,920
+He is an assistant professor
+他是一名助理教授
+
+98
+00:06:48,920 --> 00:06:51,160
+at St. Joseph's University in Philadelphia.
+在费城圣约瑟夫大学。
+
+99
+00:06:51,160 --> 00:06:55,200
+No limits at all on campaign spending in the 1800s?
+19世纪竞选支出完全没有限制？
+
+100
+00:06:55,200 --> 00:06:56,040
+Not at all.
+完全不是这样。
+
+101
+00:06:56,040 --> 00:07:01,320
+wasn't really talked about as nobody was really spending massive amounts of money on campaigns.
+当时并没有被广泛讨论，因为没有人真的在竞选上投入巨额资金。
+
+102
+00:07:01,320 --> 00:07:07,880
+But this became an issue towards the end of the 19th century with the rise of donors like
+但到了19世纪末，随着像捐赠者这样的出现，
+
+103
+00:07:07,880 --> 00:07:14,880
+wealthy corporations and other individuals who were starting to dominate political campaigns.
+富裕的公司和其他个人开始主导政治竞选。
+
+104
+00:07:14,880 --> 00:07:20,480
+But that big campaign was 1896 when William McKinley was running for president.
+但那次大规模的竞选活动是在1896年，威廉·麦金莱参选总统时。
+
+105
+00:07:20,480 --> 00:07:29,000
+Why, fellow citizens, raise the fever and impose upon the patriotic people of this country?
+为什么，各位同胞，要煽动民愤，对这个国家的爱国人士施加压力呢？
+
+106
+00:07:29,000 --> 00:07:33,760
+16.5 million dollars were raised for his political campaign.
+为他的政治竞选活动筹集了1650万美元。
+
+107
+00:07:33,760 --> 00:07:37,000
+In fact, his chief fundraiser, Mark Hanna, said, quote,
+事实上，他的主要筹款人马克·汉纳说，‘
+
+108
+00:07:37,000 --> 00:07:39,600
+There are two things that are important in politics.
+政治中有两件事情非常重要。
+
+109
+00:07:39,600 --> 00:07:43,400
+The first is money, and I can't remember what the second one is.
+第一是金钱，我记不起第二件是什么。
+
+110
+00:07:43,400 --> 00:07:47,880
+Okay, I know inflation calculators aren't 100% accurate, but is there a rough estimate
+好吧，我知道通胀计算器并不完全准确，但有没有一个大致的估算
+
+111
+00:07:47,880 --> 00:07:49,880
+of what that comes out to today?
+今天会是多少？
+
+112
+00:07:49,880 --> 00:07:53,160
+Yeah, roughly about half a billion dollars.
+嗯，大约五亿美元。
+
+113
+00:07:53,160 --> 00:07:56,120
+More than Mitt Romney raised in 2012.
+比米特·罗姆尼在2012年筹集的还要多。
+
+114
+00:07:56,120 --> 00:07:59,480
+And then, more and more campaign donations
+然后，越来越多的竞选捐款
+
+115
+00:07:59,480 --> 00:08:02,520
+from corporations were becoming quite concerning
+来自企业的捐款正变得相当令人担忧
+
+116
+00:08:02,520 --> 00:08:05,240
+to the public and the press.
+对公众和媒体而言
+
+117
+00:08:05,240 --> 00:08:07,840
+And just to be clear, what do we mean
+而且，为了明确，我们说的是什么
+
+118
+00:08:07,840 --> 00:08:09,560
+when we say corporation?
+当我们说‘公司’时？
+
+119
+00:08:09,560 --> 00:08:14,080
+Ooh, such a tricky word to define.
+哦，这个词真难下定义。
+
+120
+00:08:14,080 --> 00:08:18,520
+Simply, a corporation is a legal business entity
+简单来说，公司是一个法律上的商业实体
+
+121
+00:08:18,520 --> 00:08:21,800
+that's separate from its owners.
+与它的所有者相分离。
+
+122
+00:08:21,800 --> 00:08:26,800
+Corporations have existed far before the United States.
+公司早在美国成立之前就已存在。
+
+123
+00:08:27,800 --> 00:08:30,440
+And the concept was borrowed from England
+而且这一概念源自英格兰
+
+124
+00:08:30,440 --> 00:08:33,400
+and from Europe generally speaking,
+以及从欧洲普遍而言
+
+125
+00:08:33,400 --> 00:08:36,120
+where corporations were given charters,
+在那些地方，公司会获得特许状
+
+126
+00:08:36,120 --> 00:08:38,440
+typically by a monarch,
+通常由君主授予
+
+127
+00:08:38,440 --> 00:08:40,440
+the responsibility of a corporation,
+公司所承担的责任
+
+128
+00:08:40,440 --> 00:08:42,160
+which by the way, we're huge.
+顺便说一句，我们规模巨大。
+
+129
+00:08:42,160 --> 00:08:44,960
+We're talking about corporations that existed
+我们正在谈论那些曾经存在的公司
+
+130
+00:08:44,960 --> 00:08:47,040
+to engage in trade with the East,
+旨在与东方进行贸易,
+
+131
+00:08:47,040 --> 00:08:50,560
+to be colonial powers in North America.
+成为北美殖民势力。
+
+132
+00:08:50,560 --> 00:08:52,660
+And they did serve a purpose.
+它们确实发挥了作用。
+
+133
+00:08:52,660 --> 00:08:55,440
+I don't know if we would call it a public welfare purpose
+我不知道我们今天是否能称之为公共福利目的
+
+134
+00:08:55,440 --> 00:08:57,640
+today because it was really serving the interests
+今天，因为它们实际上是在满足政府的利益
+
+135
+00:08:57,640 --> 00:09:00,460
+of the governments back home.
+来自本土政府的利益。
+
+136
+00:09:00,460 --> 00:09:03,680
+Today, just about every large business is a corporation.
+今天，几乎每一家大型企业都是一家公司。
+
+137
+00:09:03,680 --> 00:09:05,120
+You and I could make one right now.
+你我此刻就可以创办一家。
+
+138
+00:09:05,120 --> 00:09:08,320
+We could just be the two shareholders who invest in it.
+我们只需成为两家股东，进行投资即可。
+
+139
+00:09:08,320 --> 00:09:10,960
+We make money on stocks and dividends.
+我们通过股票和股息赚钱。
+
+140
+00:09:10,960 --> 00:09:15,280
+and you and I are not personally liable for any company debt.
+和你我都不对任何公司债务负个人责任。
+
+141
+00:09:15,280 --> 00:09:16,720
+Corporations can be one person too.
+公司也可以是一个人。
+
+142
+00:09:16,720 --> 00:09:18,400
+You think you just have one shareholder.
+你认为你只有一个股东。
+
+143
+00:09:18,400 --> 00:09:21,520
+And just to be more clear on what that practically means,
+仅仅为了更清楚地说明那实际上意味着什么，
+
+144
+00:09:21,520 --> 00:09:24,800
+corporations can engage in contracts.
+公司可以签订合同。
+
+145
+00:09:24,800 --> 00:09:26,360
+They can have bank accounts.
+它们可以有银行账户。
+
+146
+00:09:26,360 --> 00:09:31,360
+They can do things that any other individual person can do.
+它们可以做任何其他个人可以做的事。
+
+147
+00:09:31,360 --> 00:09:34,880
+But this is a bit of a fallacy because, of course,
+但这是一个小的谬误，因为当然，
+
+148
+00:09:34,880 --> 00:09:36,120
+corporations aren't people.
+公司不是人。
+
+149
+00:09:36,120 --> 00:09:38,760
+They can't when it comes to politics run for office.
+当涉及到政治时，它们不能参选任职。
+
+150
+00:09:38,760 --> 00:09:44,760
+They don't have political beliefs in the same way you or I do and other living people do.
+他们并不像你或我，或其他人那样持有政治信念。
+
+151
+00:09:44,760 --> 00:09:53,760
+However, the law does accord them the privilege without much responsibility behind it to have these liberties.
+然而，法律确实赋予他们这些自由，但背后却缺乏相应的责任。
+
+152
+00:09:53,760 --> 00:10:02,760
+The first legislation about corporations and their relationship to political campaigns begins with that trust-busting, safari-going bull moose.
+关于企业及其与政治竞选关系的首项立法，始于对‘信任破坏’、‘狩猎野牛’这类行为的指责。
+
+153
+00:10:02,760 --> 00:10:05,760
+Or maybe just Teddy Roosevelt. You can go with that.
+或者只是塔德·罗素。你可以接受这一点。
+
+154
+00:10:05,760 --> 00:10:12,660
+I am leaving because somebody must leave or else the fight would not be made at all.
+我离开是因为必须有人离开，否则这场斗争根本不会发生。
+
+155
+00:10:12,660 --> 00:10:19,900
+There was a political scandal of the time that there was a large donations from corporations
+当时出现了一起政治丑闻，源于企业界的大额捐款，
+
+156
+00:10:19,900 --> 00:10:25,920
+towards Republican candidates including at the top of the ticket Roosevelt himself.
+向共和党候选人，包括在总统候选人名单顶端的罗斯福本人捐款。
+
+157
+00:10:25,920 --> 00:10:28,840
+Now this is in the era too of trust busting.
+现在正处于反垄断的时期。
+
+158
+00:10:28,840 --> 00:10:33,800
+The Sherman Act was brought in a few years before that to cut down on corporate power
+《谢尔曼法案》在几年前出台，旨在削减企业权力
+
+159
+00:10:33,800 --> 00:10:41,720
+generally speaking and its dominance and ability to create monopolies and and and be beyond the
+从总体上说，其主导地位以及创造垄断的能力，甚至超出政府的控制范围。
+
+160
+00:10:41,720 --> 00:10:48,120
+control of of the government to regulate. So there was swift action. Teddy Roosevelt signed into law
+对政府的监管，因此迅速采取了行动。西奥多·罗斯福签署了法律
+
+161
+00:10:48,120 --> 00:10:54,280
+the first campaign finance law in US history, the Tillman Act of 1907. This act prevented
+美国历史上第一部竞选资金法案，即1907年的蒂尔曼法案。该法案禁止
+
+162
+00:10:54,280 --> 00:11:00,120
+corporations from giving money to candidates directly. Which Roosevelt had indeed benefited
+企业直接向候选人捐款。而罗斯福本人在过去确实从中获益。
+
+163
+00:11:00,120 --> 00:11:01,880
+from himself in the past.
+在过去，他本人也从中获益。
+
+164
+00:11:01,880 --> 00:11:05,200
+So this act washed his hands of the taint of corruption.
+因此，这项法案使他摆脱了腐败的污点。
+
+165
+00:11:05,200 --> 00:11:10,880
+Which remedied the political scandal that had media entities like the New York Times
+这解决了媒体机构如《纽约时报》所引发的政治丑闻
+
+166
+00:11:10,880 --> 00:11:15,640
+making statements that this is the problem, this is leading to potential corruption by
+通过发表声明，指出这是问题所在，这正导致潜在的腐败
+
+167
+00:11:15,640 --> 00:11:21,560
+allowing corporations to contribute whatever they want and to decide who's going to win
+允许企业贡献他们想要的金额，并决定谁将赢得选举
+
+168
+00:11:21,560 --> 00:11:23,600
+the outcome of these elections.
+这些选举的结果。
+
+169
+00:11:23,600 --> 00:11:25,720
+Is the Tillman Act still in effect?
+《蒂尔曼法案》仍然有效吗？
+
+170
+00:11:25,720 --> 00:11:31,800
+sense it is, corporations are still not allowed to directly give to campaigns from their coffers.
+因为是，企业仍然不允许直接从其资金中向竞选活动捐款。
+
+171
+00:11:31,800 --> 00:11:35,400
+Though I have a feeling there's a workaround. There is a workaround and we're going to get there.
+尽管我有种感觉，还是有办法绕开。确实有办法，我们将会得到它。
+
+172
+00:11:36,120 --> 00:11:41,480
+So that's how things stood. Over the years, a bunch of other acts came along that tweaked
+所以，事情就是这样。多年来，一批又一批的其他法案出台，对
+
+173
+00:11:41,480 --> 00:11:47,880
+campaign funding laws. But the problem was, there wasn't really anybody minding the store.
+对竞选资金法规进行了调整。但问题在于，实际上并没有人负责监管。
+
+174
+00:11:47,880 --> 00:11:53,880
+Who should be in charge of making sure nobody breaks the law when it comes to campaign financing?
+谁应该负责确保在竞选资金方面没人违法？
+
+175
+00:11:53,880 --> 00:11:57,880
+And there is a bit of an irony in who gets the ball rolling.
+而且，这其中存在一点讽刺：是谁来启动这个过程的。
+
+176
+00:11:57,880 --> 00:12:01,880
+Cool, I know that campaign song.
+好，我知道那首竞选歌曲。
+
+177
+00:12:01,880 --> 00:12:05,880
+That's Nixon Now.
+这就是尼克松了。
+
+178
+00:12:05,880 --> 00:12:11,880
+Richard Milhouse Nixon signed the Federal Election Campaign Act of 1972,
+理查德·米尔豪斯·尼克松签署了1972年联邦选举资金法案，
+
+179
+00:12:11,880 --> 00:12:15,880
+one of the provisions of which required campaigns and political committees
+其中一项规定要求竞选活动和政治委员会
+
+180
+00:12:15,880 --> 00:12:21,880
+to report the names, addresses, and occupations of donors of more than $200 to campaigns.
+报告捐赠超过200美元的捐赠者的姓名、地址和职业。
+
+181
+00:12:21,880 --> 00:12:27,080
+campaigns. I mean it is kind of funny isn't it? It is kind of funny. And by the way everyone,
+竞选活动。我意思是这挺有趣的，不是吗？挺有趣的。顺便说一下，各位，
+
+182
+00:12:27,080 --> 00:12:32,320
+the reason why Nick and I find this kind of funny is that 1972 is also the year of the
+我们觉得这有点好笑的原因是，1972年也是水门事件爆发的那年，
+
+183
+00:12:32,320 --> 00:12:37,120
+Watergate break-in and the beginning of the investigation which uncovered that Nixon's
+水门事件爆发，以及调查开始，发现尼克松的
+
+184
+00:12:37,120 --> 00:12:43,000
+re-election campaign involved money laundering and illegal slush funds, all of which resulted
+竞选活动涉及洗钱和非法的灰色资金，所有这些都导致了
+
+185
+00:12:43,000 --> 00:12:48,360
+in his resignation. In all the decisions I have made in my public life, I have always
+他的辞职。在我公共生涯的所有决定中，我始终
+
+186
+00:12:48,360 --> 00:12:51,640
+tried to do what was best for the nation.
+努力去做对国家最有利的事情。
+
+187
+00:12:51,640 --> 00:13:00,960
+Nevertheless, in 1974, partially in response to Nixon's shady dealings, the Federal Election
+尽管如此，部分是为了回应尼克松那些见不得光的交易，1974 年国会修订了《联邦选举
+
+188
+00:13:00,960 --> 00:13:09,240
+Campaign Act was amended to create a new regulatory agency, the FEC, which, as you said, Hannah,
+竞选法》，设立一个新的监管机构 FEC。汉娜，正如你刚才说的，
+
+189
+00:13:09,240 --> 00:13:11,200
+stands for Federal Election Commission.
+这个缩写指联邦选举委员会。
+
+190
+00:13:11,200 --> 00:13:12,200
+And what do they do?
+那他们负责什么？
+
+191
+00:13:12,200 --> 00:13:17,920
+They enforce campaign finance laws, one of which is a bit of a workaround.
+他们负责执行竞选资金法规，而相关规则中有一个可以变通的地方：
+
+192
+00:13:17,920 --> 00:13:24,760
+that while donations are limited to candidates, donors could donate unlimited money to political
+直接捐给候选人的钱有上限，捐助人却可以把不限金额的钱捐给
+
+193
+00:13:24,760 --> 00:13:26,320
+parties instead.
+政党。
+
+194
+00:13:26,320 --> 00:13:31,320
+If and only if the party used that money for what we're called, quote, party building
+有个严格的前提：政党必须把钱用在所谓的「党务建设
+
+195
+00:13:31,320 --> 00:13:33,080
+activities.
+活动」上。
+
+196
+00:13:33,080 --> 00:13:36,680
+This is what is now referred to as soft money.
+这就是人们现在所说的「软钱」。
+
+197
+00:13:36,680 --> 00:13:37,680
+Party building activities?
+党务建设活动？
+
+198
+00:13:37,680 --> 00:13:40,040
+Is that like helping people register to vote?
+是指协助人们登记成为选民之类的事吗？
+
+199
+00:13:40,040 --> 00:13:45,000
+Yeah, and making commercials that aren't about specific candidates, but are about issues,
+对，也包括制作以公共议题为主题、而不直接针对某位候选人的广告，
+
+200
+00:13:45,000 --> 00:13:46,000
+you know?
+明白吗？
+
+201
+00:13:46,000 --> 00:13:50,560
+The people need to know that crime is an issue and candidate X is weak on crime.
+比如说：「民众应该知道，治安是个问题，而某某候选人打击犯罪不力。」
+
+202
+00:13:50,560 --> 00:13:55,000
+It doesn't say don't vote for candidate X or vote for candidate Y, but it's pretty darn close.
+它没明说「别投给 X」或「投给 Y」，但也差不多了。
+
+203
+00:13:55,000 --> 00:13:58,200
+I feel like there's an awful lot of wiggle room in there.
+我觉得这中间的操作空间可真不小。
+
+204
+00:13:58,200 --> 00:14:07,200
+A ton! So much wiggle room that Senators John McCain and Russ Feingold reached across the aisle to create a new act.
+一吨！如此大的灵活性，以至于参议员约翰·麦凯恩和鲁斯·费因戈德跨越党派分歧，共同制定了一项新法案。
+
+205
+00:14:07,200 --> 00:14:11,400
+It was so important that a Democrat and a Republican did this together.
+这项法案如此重要，以至于一位民主党人和一位共和党人共同推动了它。
+
+206
+00:14:11,400 --> 00:14:17,160
+They put it in the name, BCRA or BICRA, the Bipartisan Campaign Reform Act.
+他们将其命名为BCRA或BICRA，即《 bipartisan竞选改革法案》。
+
+207
+00:14:17,160 --> 00:14:19,800
+It's also called the McCain-Feingold Act.
+它也被称为《麦凯恩-费因戈德法案》。
+
+208
+00:14:19,800 --> 00:14:25,240
+This act said that corporations cannot make a political ad that names a candidate
+这项法案规定，企业不得制作直接提及候选人的政治广告。
+
+209
+00:14:25,240 --> 00:14:30,360
+30 days before a primary or a caucus or 60 days before a general election.
+在初选或党团会议前30天，或在大选前60天。
+
+210
+00:14:30,360 --> 00:14:33,080
+And this is where the creation of Hillary the Movie comes in, right?
+这正是《希拉里电影》诞生的地方，对吧？
+
+211
+00:14:33,080 --> 00:14:38,120
+We are so close. Hillary the Movie was created in direct response to another movie.
+我们如此接近。《希拉里电影》是针对另一部电影而创作的。
+
+212
+00:14:38,120 --> 00:14:41,120
+Members of Congress, this is Michael Moore.
+国会成员，这是迈克尔·摩尔。
+
+213
+00:14:41,120 --> 00:14:44,120
+I would like to read to you the USA Patriot Act.
+我想读给你们听《美国爱国者法案》。
+
+214
+00:14:44,120 --> 00:14:49,120
+Let the Eagles sing.
+让鹰队唱起来。
+
+215
+00:14:49,120 --> 00:14:51,120
+Fahrenheit 9-11.
+《华氏9-11度》。
+
+216
+00:14:51,120 --> 00:14:55,120
+Michael Moore's documentary about George W. Bush's response to September 11th
+迈克尔·摩尔关于乔治·W·布什对9月11日事件反应的纪录片。
+
+217
+00:14:55,120 --> 00:15:02,120
+was released in 2004, a scant few months before the election between George Bush and John Kerry.
+于2004年上映，早于乔治·布什与约翰·克里之间的选举几个月。
+
+218
+00:15:02,120 --> 00:15:07,120
+Michael Moore, by the way, has made several movies about politically charged topics.
+顺便说一下，迈克尔·摩尔曾制作过好几部涉及政治敏感话题的电影。
+
+219
+00:15:07,120 --> 00:15:09,640
+And someone filed a complaint to the FEC saying,
+有人向联邦选举委员会投诉说，
+
+220
+00:15:09,640 --> 00:15:13,040
+hey, this movie violates Bicra.
+这电影违反了《联邦选举法》。
+
+221
+00:15:13,040 --> 00:15:15,120
+It was funded by corporate entities.
+它是由企业实体资助的。
+
+222
+00:15:15,120 --> 00:15:17,720
+It names a candidate, George W. Bush,
+它提名了候选人乔治·W·布什，
+
+223
+00:15:17,720 --> 00:15:20,240
+ads for this movie should not be aired
+这部电影的广告不应播出
+
+224
+00:15:20,240 --> 00:15:22,000
+60 days before the election.
+选举前60天。
+
+225
+00:15:22,000 --> 00:15:24,200
+And you know who made that complaint?
+你知道是谁提出投诉的吗？
+
+226
+00:15:24,200 --> 00:15:25,040
+Who?
+谁？
+
+227
+00:15:25,040 --> 00:15:28,840
+A certain little nonprofit called Citizens United.
+一个名为‘公民联合’的小型非营利组织。
+
+228
+00:15:28,840 --> 00:15:32,320
+The same corporation that made their own political ads
+和制作自己政治广告的那家公司一样
+
+229
+00:15:32,320 --> 00:15:34,920
+and now they're mad that someone else is doing it?
+现在他们恼怒的是，有人在做同样的事？
+
+230
+00:15:34,920 --> 00:15:35,960
+Yeah.
+嗯。
+
+231
+00:15:35,960 --> 00:15:38,400
+The FEC dismissed the complaint though,
+尽管联邦选举委员会驳回了该投诉，
+
+232
+00:15:38,400 --> 00:15:41,300
+and Citizens United went on to make their own movie
+公民联合随后制作了自己的电影
+
+233
+00:15:41,300 --> 00:15:45,480
+in response four years later, Hillary the Movie.
+作为对希拉里四年后的电影回应。
+
+234
+00:15:45,480 --> 00:15:48,840
+Again, a 90 minute attack on Hillary Clinton
+再次，对希拉里·克林顿长达90分钟的攻击
+
+235
+00:15:48,840 --> 00:15:50,760
+came out just before the primary
+在大选前刚刚上映
+
+236
+00:15:50,760 --> 00:15:53,000
+between her and Barack Obama.
+在她与巴拉克·奥巴马之间。
+
+237
+00:15:53,000 --> 00:15:55,220
+The FEC said that ads for this movie
+联邦选举委员会表示，这部电影的广告
+
+238
+00:15:55,220 --> 00:15:57,320
+could not air before the primary.
+不能在大选前播出。
+
+239
+00:15:57,320 --> 00:15:59,000
+Citizens United sued,
+公民联合提起诉讼，
+
+240
+00:15:59,000 --> 00:16:01,800
+and it moved up the court system to the very top.
+并一路上诉至法院系统最高层级。
+
+241
+00:16:01,800 --> 00:16:03,280
+And what happened next resulted
+接下来发生的事情导致了
+
+242
+00:16:03,280 --> 00:16:06,040
+than one of the most influential Supreme Court decisions
+美国历史上最具影响力的最高法院裁决之一。
+
+243
+00:16:06,040 --> 00:16:07,840
+in US history.
+在美国历史上。
+
+244
+00:16:07,840 --> 00:16:09,480
+And that's coming up right after the break
+接下来节目中断后将播出
+
+245
+00:16:09,480 --> 00:16:10,760
+here on Civics 101.
+本节目在《公民101》中播出
+
+246
+00:16:10,760 --> 00:16:13,280
+But first, if you want to primer on more Supreme Court
+但首先，如果你想要了解最高法院的更多信息
+
+247
+00:16:13,280 --> 00:16:15,760
+decisions along with a breakdown of every branch
+决策，以及每个分支的详细分析
+
+248
+00:16:15,760 --> 00:16:18,080
+of government, our election system,
+政府体系，我们的选举制度，
+
+249
+00:16:18,080 --> 00:16:22,040
+our foundational documents, and a history of our main parties,
+我们的基本文件，以及我们主要政党的历史，
+
+250
+00:16:22,040 --> 00:16:24,280
+Nick and I took what we learned over many years
+尼克和我经过多年学习所得
+
+251
+00:16:24,280 --> 00:16:26,440
+of getting to know our government and systems
+了解我们的政府和制度
+
+252
+00:16:26,440 --> 00:16:28,120
+and put it into a book.
+并将其整理成一本书。
+
+253
+00:16:28,120 --> 00:16:32,360
+It's called a user's guide to democracy, how America works.
+这本书名为《民主指南：美国如何运作》。
+
+254
+00:16:32,360 --> 00:16:34,560
+And you can get it at your bookseller of choice.
+你可以在你心仪的书店购买。
+
+255
+00:16:34,560 --> 00:16:39,360
+And by the way, the cartoons in our book were drawn by the brilliant Tom Toro, who has just
+顺便说一下，我们书里的卡通是被才华横溢的汤姆·托罗画的，他刚刚
+
+256
+00:16:39,360 --> 00:16:43,220
+illustrated a children's book called I'm Terrified of Bath Time.
+绘制了一本儿童书，名叫《我害怕洗澡时间》。
+
+257
+00:16:43,220 --> 00:16:47,960
+You should check that out while you're at it.
+你们在做这件事的时候，应该去看看。
+
+258
+00:16:47,960 --> 00:16:49,640
+Alright fess up everyone.
+好吧，大家坦白吧。
+
+259
+00:16:49,640 --> 00:16:53,840
+How many of you out there just realized the holidays are basically here and you've got,
+你们当中有多少人刚意识到，节日都快到了，而你还得
+
+260
+00:16:53,840 --> 00:16:59,040
+say, two quirky sons to shop for and no idea what to get them.
+比如，要为两个古怪的儿子买礼物，却不知道该送什么。
+
+261
+00:16:59,040 --> 00:17:04,620
+Thankfully there is a silver bullet for getting gifts for people who like unique strange handcrafted
+幸运的是，有一种万能药方，可以为喜欢独特、奇怪、手工制作的东西的人送礼物
+
+262
+00:17:04,620 --> 00:17:08,280
+things and it is uncommon goods.
+这些是不常见的商品。
+
+263
+00:17:08,280 --> 00:17:10,200
+Fishing pole campfire roaster?
+钓鱼竿造型的篝火烤具？
+
+264
+00:17:10,200 --> 00:17:11,200
+Done.
+搞定。
+
+265
+00:17:11,200 --> 00:17:15,000
+16th century metal device to track the moon and tides?
+16世纪的金属装置用来追踪月亮和潮汐？
+
+266
+00:17:15,000 --> 00:17:17,680
+Sign me up a dozen times.
+我太想要了，给我来上一打！
+
+267
+00:17:17,680 --> 00:17:22,320
+Uncommon goods looks for products that are high quality, unique, and often handmade or
+不常见商品寻找高品质、独特且常常是手工制作的产品或
+
+268
+00:17:22,320 --> 00:17:24,000
+made in the United States.
+在美国制造。
+
+269
+00:17:24,000 --> 00:17:25,640
+And they got something for everyone.
+而且他们为每个人准备了东西。
+
+270
+00:17:25,640 --> 00:17:28,280
+moms and dads, to kids and teens,
+妈妈和爸爸，到孩子和青少年，
+
+271
+00:17:28,280 --> 00:17:31,920
+to arcana obsessed weather driven tarot reading eccentric
+到对占星术着迷、受天气驱动的塔罗牌阅读的古怪人群
+
+272
+00:17:31,920 --> 00:17:32,840
+such as yourself.
+比如你自己。
+
+273
+00:17:32,840 --> 00:17:35,720
+Seriously, just type tarot in the search box
+真的，在搜索框里输入 tarot（塔罗），
+
+274
+00:17:35,720 --> 00:17:37,160
+and see what comes up.
+看看会搜出些什么。
+
+275
+00:17:37,160 --> 00:17:40,240
+And finally, with every purchase you make at Uncommon Goods,
+最后，你每在 Uncommon Goods 消费一次，
+
+276
+00:17:40,240 --> 00:17:43,840
+they give back $1 to a nonprofit of your choice.
+他们就向你选的一家非营利机构捐赠一美元。
+
+277
+00:17:43,840 --> 00:17:46,680
+So don't wait, cross those names off your list
+别等了，赶紧把礼物买齐，把清单上的名字一个个划掉，
+
+278
+00:17:46,680 --> 00:17:49,880
+before the rush to get 15% off your next gift,
+赶在购物高峰前下单，下一份礼物要享八五折，
+
+279
+00:17:49,880 --> 00:17:52,680
+go to uncommongoods.com slash civics.
+请访问 uncommongoods.com/civics。
+
+280
+00:17:52,680 --> 00:17:57,680
+That is UncommonGoods.com slash Civics for 15% off.
+这就是uncommongoods.com/slash/civics 15%折扣
+
+281
+00:17:58,280 --> 00:18:01,680
+UncommonGoods, we're all out of the ordinary.
+uncommongoods，我们都是与众不同的
+
+282
+00:18:01,680 --> 00:18:06,680
+There is nothing quite like having stuff in your closet
+没有什么比在衣柜里拥有东西更让人感到满足
+
+283
+00:18:09,040 --> 00:18:12,940
+that you love and you know you can count on for any occasion
+那些你喜爱并且知道在任何场合都能依靠的东西
+
+284
+00:18:12,940 --> 00:18:16,220
+except maybe giving someone else that feeling.
+除了可能给他人带来那种感觉
+
+285
+00:18:16,220 --> 00:18:18,980
+And this holiday season, Quints is where I'm finding
+而在这个节日季，Quints正是我找到
+
+286
+00:18:18,980 --> 00:18:19,960
+those pieces.
+那些物品的地方。
+
+287
+00:18:19,960 --> 00:18:22,780
+Quince makes elevated everyday essentials
+Quince制作高端日常用品
+
+288
+00:18:22,780 --> 00:18:26,080
+using premium materials like Mongolian cashmere,
+采用如蒙古羊绒这样的优质材料,
+
+289
+00:18:26,080 --> 00:18:30,600
+organic cotton, and it is priced 50 to 80% less
+有机棉，价格比同类产品低50到80%
+
+290
+00:18:30,600 --> 00:18:31,840
+than similar brands.
+相比类似品牌。
+
+291
+00:18:31,840 --> 00:18:34,180
+They work directly with ethical factories
+他们直接与道德工厂合作
+
+292
+00:18:34,180 --> 00:18:35,760
+that cut out the middleman,
+以消除中间商,
+
+293
+00:18:35,760 --> 00:18:37,800
+so you get luxury quality pieces
+因此你能够获得奢侈品品质的产品
+
+294
+00:18:37,800 --> 00:18:40,060
+without the luxury price tag.
+却不用付奢侈品的价格。
+
+295
+00:18:40,060 --> 00:18:43,000
+As this lovely fall is winding to a close
+随着这个美好的秋季逐渐接近尾声
+
+296
+00:18:43,000 --> 00:18:46,720
+and we slouch into winter, I wish more than anything.
+而我们渐渐步入冬季，我最希望的是。
+
+297
+00:18:46,720 --> 00:18:50,740
+someone had gifted me a yak wool hoodie.
+有人曾送给我一件羊绒毛衣。
+
+298
+00:18:50,740 --> 00:18:51,920
+I'm dead serious.
+我可是认真的。
+
+299
+00:18:51,920 --> 00:18:53,840
+It's good enough for the yak.
+牦牛穿着都够用。
+
+300
+00:18:53,840 --> 00:18:56,620
+I mean, it works really well for the yak, right?
+牦牛自己穿着这身毛就很管用，对吧？
+
+301
+00:18:56,620 --> 00:18:58,240
+It would work for me.
+那穿在我身上也该管用。
+
+302
+00:18:58,240 --> 00:18:59,260
+And it looks hot.
+而且穿起来很好看。
+
+303
+00:18:59,260 --> 00:19:03,120
+So give the gift of quality this holiday season.
+这个节日季，不妨送一份讲究品质的礼物。
+
+304
+00:19:03,120 --> 00:19:05,960
+Download the Quince app for app exclusive offers
+下载 Quince 应用获取专属优惠，
+
+305
+00:19:05,960 --> 00:19:07,760
+or go to quince.com.
+或访问 quince.com。
+
+306
+00:19:07,760 --> 00:19:11,880
+Get free shipping on your order and 365 day returns.
+订单免运费，还可在 365 天内退货。
+
+307
+00:19:11,880 --> 00:19:15,080
+That will be available in Canada and the UK as well.
+加拿大和英国也能享受这项服务。
+
+308
+00:19:15,080 --> 00:19:18,400
+And last thing, when Quince asks where you heard about him,
+最后，如果 Quince 问你是从哪儿听说这个品牌的，
+
+309
+00:19:18,400 --> 00:19:19,960
+let them know at Civics 101.
+请告诉他们，Civic 101。
+
+310
+00:19:19,960 --> 00:19:22,000
+It's the best way to support the show.
+这是支持本节目的最好方式。
+
+311
+00:19:22,000 --> 00:19:22,840
+All right.
+好吧。
+
+312
+00:19:25,720 --> 00:19:28,760
+Enjoying your podcast will be brief.
+播客听得开心吗？我们很快就说完。
+
+313
+00:19:28,760 --> 00:19:30,960
+If you're looking for the perfect holiday gift,
+如果你在找一份合适的节日礼物，
+
+314
+00:19:30,960 --> 00:19:33,120
+give scratchers from the California Lottery
+请送来自加州彩票的刮刮卡。
+
+315
+00:19:33,120 --> 00:19:34,520
+with so many to choose from,
+选择众多，
+
+316
+00:19:34,520 --> 00:19:37,960
+you're sure to find the right gift for anyone on your list.
+你一定能为礼物清单上的每个人找到合适的。
+
+317
+00:19:37,960 --> 00:19:40,280
+Now that your holiday shopping list is figured out,
+现在，节日送礼的事搞定了，
+
+318
+00:19:40,280 --> 00:19:42,680
+enjoy this bird singing Jingle Bells.
+来听这只鸟唱《铃儿响叮当》吧。
+
+319
+00:19:42,680 --> 00:19:45,680
+Give the gift of scratchers from the California Lottery.
+节日送礼，就送加州彩票的刮刮乐。
+
+320
+00:19:45,680 --> 00:19:47,680
+A little plague can make your day.
+一点小麻烦可能让你的一天变得不愉快。
+
+321
+00:19:47,680 --> 00:19:48,680
+Please play responsibly.
+请理性购彩。
+
+322
+00:19:48,680 --> 00:19:51,680
+Must be 18 years older to purchase, play or claim.
+必须年满18岁才能购买、参与或领取。
+
+323
+00:19:51,680 --> 00:19:53,680
+Alright, we're back.
+好吧，我们回来了。
+
+324
+00:19:53,680 --> 00:19:58,680
+Citizens United vs. FEC is being argued in the highest court of the land.
+公民联合诉联邦选举委员会案正在最高法院审理。
+
+325
+00:19:58,680 --> 00:20:01,680
+So Nick, what is the question they're arguing?
+所以尼克，他们争论的问题是什么？
+
+326
+00:20:01,680 --> 00:20:04,680
+Well, at first it's what we call a very narrow question.
+一开始，这正是我们所说的非常狭窄的问题。
+
+327
+00:20:04,680 --> 00:20:07,680
+It's very specific to one moment in time.
+它非常具体，仅限于某个特定时间点。
+
+328
+00:20:07,680 --> 00:20:09,680
+Can we make a decision?
+我们能否做出决定？
+
+329
+00:20:09,680 --> 00:20:12,360
+specific to one moment in time.
+具体到某个特定时间点。
+
+330
+00:20:12,360 --> 00:20:16,220
+Can Citizens United distribute and advertise
+公民联合是否可以分发和宣传
+
+331
+00:20:16,220 --> 00:20:19,120
+Hillary the Movie on on-demand cable
+《希拉里电影》在点播电视频道上
+
+332
+00:20:19,120 --> 00:20:20,980
+just before the primary?
+在初选之前？
+
+333
+00:20:20,980 --> 00:20:23,240
+But as so often is the case,
+但正如经常发生的情况一样，
+
+334
+00:20:23,240 --> 00:20:27,800
+narrow questions can become big, sweeping rulings.
+狭窄的问题可能会演变为广泛而深远的裁决。
+
+335
+00:20:27,800 --> 00:20:30,720
+We'll hear argument today in case 08-205,
+今天我们将听取08-205案的辩论。
+
+336
+00:20:30,720 --> 00:20:34,040
+Citizens United versus the Federal Election Commission.
+公民联合诉联邦选举委员会。
+
+337
+00:20:34,040 --> 00:20:35,320
+Mr. Olson.
+奥尔森先生。
+
+338
+00:20:35,320 --> 00:20:37,760
+Mr. Chief Justice, and may it please the court.
+首席大法官先生，敬请法庭允许。
+
+339
+00:20:37,760 --> 00:20:44,280
+There's a famous moment in the argument where the person representing the FEC, deputy solicitor
+在辩论中有一个著名时刻，当时代表联邦选举委员会的副检察官
+
+340
+00:20:44,280 --> 00:20:50,180
+general Malcolm L. Stewart, is asked by the justices, well, what about a book?
+被法官们问到：‘那关于一本书呢？’
+
+341
+00:20:50,180 --> 00:20:52,580
+We're talking about a movie here, but what about a book?
+我们这里谈的是电影，但关于一本书呢？
+
+342
+00:20:52,580 --> 00:20:53,580
+That's pretty incredible.
+这简直难以置信。
+
+343
+00:20:53,580 --> 00:20:59,940
+You think that if a book was published, a campaign biography that was the functional
+你认为，如果出版了一本竞选传记，而这本传记在实质上
+
+344
+00:20:59,940 --> 00:21:03,700
+equivalent of express advocacy, that could be banned?
+相当于明确的宣传行为，就可能被禁止吗？
+
+345
+00:21:03,700 --> 00:21:04,940
+I'm not saying it could be banned.
+我并不是说它会被禁掉。
+
+346
+00:21:04,940 --> 00:21:07,620
+I'm saying that Congress could prohibit the use of...
+我是在说国会可以禁止这种使用。
+
+347
+00:21:07,620 --> 00:21:13,100
+Then the government banned a book critical of a candidate if it comes out before an election,
+然后政府在选举前如果出版了对候选人有批评的书籍，就禁止了这本书。
+
+348
+00:21:13,100 --> 00:21:17,040
+and the more conservative justices latched on to that and did not let go.
+而且保守派大法官们抓住了这一点，并没有放手。
+
+349
+00:21:17,040 --> 00:21:20,600
+They were very anti-banning books.
+他们是非常反对禁书的书籍。
+
+350
+00:21:20,600 --> 00:21:24,720
+The court meets to discuss how they're going to vote, and it seems like it's 5-4 in favor
+法院会聚在一起讨论他们将如何投票，看起来是5比4支持。
+
+351
+00:21:24,720 --> 00:21:26,340
+of Citizens United.
+《公民联合案》。
+
+352
+00:21:26,340 --> 00:21:30,680
+Chief Justice John Roberts was poised to write the opinion, and Justice David Souter the
+首席大法官约翰·罗伯茨本打算撰写意见书，而大法官大卫·苏特的
+
+353
+00:21:30,680 --> 00:21:32,180
+dissent.
+提出了异议。
+
+354
+00:21:32,180 --> 00:21:35,480
+But New Yorker reporter Jeffrey Tubin revealed
+但《纽约客》记者杰弗里·图宾透露
+
+355
+00:21:35,480 --> 00:21:39,020
+that Souter's dissent was not your run-of-the-mill dissent.
+斯奥特的异议并非寻常的异议。
+
+356
+00:21:39,020 --> 00:21:41,500
+It was very critical of Chief Justice Roberts
+它对首席大法官罗伯茨极为批评。
+
+357
+00:21:41,500 --> 00:21:45,060
+and that it, quote, aired the court's dirty laundry.
+并且它说，‘披露了法院的隐私丑闻。’
+
+358
+00:21:45,060 --> 00:21:47,700
+So, Roberts said the case would be reheard
+因此，罗伯茨表示，该案将被重新审理
+
+359
+00:21:47,700 --> 00:21:50,180
+in the next session and Justice Kennedy
+在下一届会议中，肯尼迪大法官
+
+360
+00:21:50,180 --> 00:21:55,020
+would write the opinion and Justice Souter retired.
+将撰写意见书，而斯奥特则退休了。
+
+361
+00:21:55,020 --> 00:21:58,900
+Whoa, will we ever know what was in Justice Souter's dissent?
+哇，我们什么时候才能知道斯奥特异议中到底写了什么？
+
+362
+00:21:58,900 --> 00:22:00,860
+We will if we live that long, Hannah.
+如果我们能活到那时，汉娜。
+
+363
+00:22:00,860 --> 00:22:03,800
+His papers are set to be released in 2060.
+他的文件预计将在2060年公布。
+
+364
+00:22:03,800 --> 00:22:06,740
+So in the next session, the decision was announced.
+所以，在下一次会议上，判决被宣布了。
+
+365
+00:22:06,740 --> 00:22:10,060
+Justice Anthony Kennedy wrote and read the opinion.
+大法官安东尼·肯尼迪撰写了并阅读了意见书。
+
+366
+00:22:10,060 --> 00:22:13,300
+And in a rare occurrence, Justice John Paul Stevens
+而且在一次罕见的情况下，大法官约翰·保罗·史蒂文斯
+
+367
+00:22:13,300 --> 00:22:16,340
+read his dissent, which was longer than the opinion,
+阅读了他的异议书，该异议书比意见书更长，
+
+368
+00:22:16,340 --> 00:22:17,820
+allowed from the bench.
+在席上作出的。
+
+369
+00:22:17,820 --> 00:22:19,180
+That never happens, right?
+这从未发生过，对吧？
+
+370
+00:22:19,180 --> 00:22:20,100
+Sometimes.
+有时候。
+
+371
+00:22:20,100 --> 00:22:24,260
+While American democracy is still imperfect,
+尽管美国民主仍不完善，
+
+372
+00:22:24,260 --> 00:22:27,140
+few outside the majority of this court
+少数在本院多数人之外的人
+
+373
+00:22:27,140 --> 00:22:34,140
+would have thought its flaws included a shortage of corporate money and politics.
+会认为其缺陷包括企业资金短缺和政治问题。
+
+374
+00:22:34,140 --> 00:22:39,220
+Okay, so the thing that everyone says about Citizens United, the sort of pop culture phrase
+好吧，所以大家关于‘公民联合’所说的东西，这种流行文化用语
+
+375
+00:22:39,220 --> 00:22:46,660
+that we all know about it, is that Citizens United decided that corporations are people.
+我们都知道的，就是‘公民联合’裁定企业是人。
+
+376
+00:22:46,660 --> 00:22:47,660
+Did it say that?
+它说了吗？
+
+377
+00:22:47,660 --> 00:22:48,660
+Is that in there?
+那里面有没有？
+
+378
+00:22:48,660 --> 00:22:49,660
+No, no it did not.
+不，不是，它没有。
+
+379
+00:22:49,660 --> 00:22:52,780
+Interestingly, that is not in Justice Kennedy's opinion.
+有趣的是，那不在肯尼迪大法官的观点中。
+
+380
+00:22:52,780 --> 00:22:58,300
+The decision says political speech rights do not depend on the identity of the speaker.
+判决书说，政治言论权利不取决于发言人的身份。
+
+381
+00:22:58,300 --> 00:23:01,580
+That speaker can be a person or a group of people.
+那个发言者可以是个体，也可以是一群人。
+
+382
+00:23:01,580 --> 00:23:06,060
+Okay, so campaign donations are considered speech.
+好吧，所以竞选捐款被视为言论。
+
+383
+00:23:06,060 --> 00:23:10,260
+Speech is protected by the First Amendment.
+言论受第一修正案保护。
+
+384
+00:23:10,260 --> 00:23:13,060
+Corporations also have those protections.
+公司也同样享有这些保护。
+
+385
+00:23:13,060 --> 00:23:16,020
+So does that mean that corporations can now give to campaigns?
+那是否意味着公司现在可以向竞选活动捐款？
+
+386
+00:23:16,020 --> 00:23:19,860
+No, and this is a very common misconception.
+不，这是一个非常普遍的误解。
+
+387
+00:23:19,860 --> 00:23:24,820
+even after the ruling still could not give directly to candidates.
+即使在判决之后，仍然无法直接向候选人捐款。
+
+388
+00:23:24,820 --> 00:23:29,460
+But they could give indirectly through what are called PACs.
+但它们可以通过所谓的PACs进行间接捐款。
+
+389
+00:23:29,460 --> 00:23:32,820
+And now we need to get some definitions out of the way.
+而现在我们需要明确一些概念。
+
+390
+00:23:32,820 --> 00:23:37,460
+Yeah, so all these different groups, PACs, super PACs, dark money groups, they're all
+是的，所有这些不同团体，PACs、超级PACs、暗资金团体，它们都是
+
+391
+00:23:37,460 --> 00:23:43,980
+just different ways of setting up a group that's going to spend money on an election.
+只是以不同方式组建一个为选举支出资金的团体。
+
+392
+00:23:43,980 --> 00:23:46,580
+This is political reporter Maggie Severns.
+这是政治记者Maggi Sevrens。
+
+393
+00:23:46,580 --> 00:23:48,060
+She covers policy for GRID.
+她负责为GRID报道政策。
+
+394
+00:23:48,060 --> 00:23:53,980
+A PAC is a political action committee. It is kind of a bucket where money goes in and money goes out.
+PAC是政治行动委员会，它就像一个钱进钱出的容器。
+
+395
+00:23:53,980 --> 00:23:59,660
+Now PACs have been around for quite a while and PACs have pretty strict limitations on
+现在PACs已经存在相当一段时间了，PACs对捐款金额有相当严格的限制
+
+396
+00:24:00,220 --> 00:24:05,740
+what they can take in and how they spend. So a PAC can give money directly to a candidate,
+他们可以向候选人直接捐款，
+
+397
+00:24:05,740 --> 00:24:11,100
+but they can't give that much money. The most kind of traditional PACs might be PACs that are
+但它们不能捐出太多资金。最典型的传统PAC可能是那些
+
+398
+00:24:11,100 --> 00:24:17,180
+kind of associated with a company or a political group and they're not part of that group,
+与某公司或政治团体有关联，但又不属于该团体的PACs。
+
+399
+00:24:17,180 --> 00:24:23,180
+but everyone who is involved in technology might all give $5,000 to the technology pack.
+但所有参与技术领域的人可能都会向技术基金捐出5000美元。
+
+400
+00:24:23,180 --> 00:24:29,340
+And then the technology pack gives $5,000 each to candidates that are doing what people in the
+然后科技包给每个参选人提供5000美元的资助
+
+401
+00:24:29,340 --> 00:24:33,980
+technology sector want. And for a long time that was pack spending. That's all it was,
+科技领域一直想要这样。长期以来，这都是包的支出。这本来就是全部
+
+402
+00:24:33,980 --> 00:24:38,860
+is you know, you kind of take in these donations from a lot of people that you know, believed in
+你知道，你从很多人那里收这些捐款，这些人你都知道，他们相信
+
+403
+00:24:38,860 --> 00:24:44,140
+one cause and then you would give those donations to a campaign. All right, $5,000 is the limit for
+一个共同的事业，然后你把这些捐款捐给一个竞选活动。好吧，5000美元是单个来源的捐款上限
+
+404
+00:24:44,140 --> 00:24:47,740
+for campaign contributions from a single source,
+对来自单一来源的竞选捐款的上限
+
+405
+00:24:47,740 --> 00:24:50,540
+a bunch of people give that amount or less
+一群人捐这个数额或更少
+
+406
+00:24:50,540 --> 00:24:52,580
+to a pack they care about.
+捐给他们关心的团体。
+
+407
+00:24:52,580 --> 00:24:56,100
+And the pack is in charge of allocating that money.
+而且，该组织负责分配这笔资金。
+
+408
+00:24:56,100 --> 00:24:57,980
+Right, and the ruling in Citizens United
+没错，公民联合案的判决
+
+409
+00:24:57,980 --> 00:24:59,700
+did not change that.
+并没有改变这一点。
+
+410
+00:24:59,700 --> 00:25:03,540
+Your pack cannot give more than $5,000 directly
+你的组织不能直接向任何人捐赠超过5000美元
+
+411
+00:25:03,540 --> 00:25:08,100
+to each candidate, but then we get to super PACs.
+向每位候选人，但随后我们有了超级政治行动委员会。
+
+412
+00:25:08,100 --> 00:25:10,660
+Now a super PAC was created after Citizens United
+现在，在公民联合案之后创建了一个超级政治行动委员会
+
+413
+00:25:10,660 --> 00:25:13,180
+and they can take in unlimited amounts of money
+它们可以接受无限金额的资金
+
+414
+00:25:13,180 --> 00:25:18,020
+for anyone so they could take that $3 million check,
+为任何人，因此它们可以接受那300万美元的支票,
+
+415
+00:25:18,020 --> 00:25:20,940
+whereas a PAC can only take in the low thousands of dollars
+而普通政治行动委员会只能接受几千美元
+
+416
+00:25:20,940 --> 00:25:23,300
+depending on who they're getting their money from.
+取决于资金来自谁。
+
+417
+00:25:23,300 --> 00:25:25,800
+So a super PAC is really what enabled
+所以超级政治行动委员会实际上正是促成这种大规模资金支出的原因
+
+418
+00:25:25,800 --> 00:25:27,980
+that big money spending because then a super PAC
+导致了巨额资金投入，因为当时一个超级政治行动委员会
+
+419
+00:25:27,980 --> 00:25:31,780
+can go out and buy an ad and drop $2 million on an ad.
+可以出去买广告，并在一条广告上投入两百万美元。
+
+420
+00:25:31,780 --> 00:25:33,340
+You have all kinds of super PACs.
+你有各种各样的超级政治行动委员会。
+
+421
+00:25:33,340 --> 00:25:36,340
+Some of them just support one person.
+其中一些只支持某一个人。
+
+422
+00:25:36,340 --> 00:25:39,360
+Some of them support all Republican candidates
+一些则支持所有共和党候选人
+
+423
+00:25:39,360 --> 00:25:40,660
+or all Senate races.
+或所有参议员候选人。
+
+424
+00:25:40,660 --> 00:25:43,540
+So Citizens United really opened the door
+因此，公民联合案实际上为
+
+425
+00:25:43,540 --> 00:25:45,700
+for a super PAC to exist,
+超级政治行动委员会的存在打开了大门
+
+426
+00:25:45,700 --> 00:25:49,180
+because there was no unlimited political spending
+因为此前没有无限制的政治支出
+
+427
+00:25:49,180 --> 00:25:50,740
+before Citizens United.
+在公民联合案之前。
+
+428
+00:25:50,740 --> 00:25:52,660
+Now just to make sure I have it,
+现在我再确认一下，
+
+429
+00:25:52,660 --> 00:25:55,980
+super PACs don't give money to candidates,
+超级政治行动委员会不向候选人直接捐款,
+
+430
+00:25:55,980 --> 00:25:59,300
+but they spend money to support candidates.
+而是通过花费资金来支持候选人。
+
+431
+00:25:59,300 --> 00:26:03,020
+A regular old PAC can give money to a candidate,
+一个普通的PAC可以向候选人捐款，
+
+432
+00:26:03,020 --> 00:26:05,020
+but it's limited.
+但金额是有限的。
+
+433
+00:26:05,020 --> 00:26:09,020
+Individuals and corporations can spend unlimited money
+个人和企业可以花费无限制的资金
+
+434
+00:26:09,020 --> 00:26:13,020
+to support a candidate, but they can't give it directly to them.
+来支持候选人，但他们不能直接捐给候选人。
+
+435
+00:26:13,020 --> 00:26:19,020
+Right, and there's this hard rule about that, referring to coordination.
+对，这里有一个关于协调的严格规定。
+
+436
+00:26:19,020 --> 00:26:27,020
+Super PACs may not, under any circumstances, have any sort of coordination with a campaign.
+超级PAC在任何情况下都不能与竞选活动进行任何形式的协调。
+
+437
+00:26:27,020 --> 00:26:29,020
+They can't tell them what to do.
+他们不能告诉他们该做什么。
+
+438
+00:26:29,020 --> 00:26:34,020
+If I'm running for office, I can't call the Super PAC that's like spending millions of dollars to get me elected
+如果我参选，就无法联系超级PAC，就像花上数百万美元来让我当选一样
+
+439
+00:26:34,020 --> 00:26:37,020
+and say, hey, could you run an ad where I'm in a pickup truck
+并说，‘你们能不能做一条广告，我正坐在一辆皮卡里’
+
+440
+00:26:37,020 --> 00:26:42,860
+I'm talking to folks at a diner and I'm looking real concerned and then my opponent is drinking champagne at a fancy restaurant
+我在一家餐厅里跟人聊天，看起来非常担忧，然后我的对手却在一家高档餐厅里喝着香槟
+
+441
+00:26:42,860 --> 00:26:47,940
+Can you do that for me? Uh-uh not allowed talking about people trying to get away with one thing or another
+你能为我做这个吗？不行，不允许谈论人们试图逃避某种行为或另一些事
+
+442
+00:26:48,140 --> 00:26:52,020
+You can look at coordination as being a really interesting example of that
+你可以把协调看作是这种事的一个非常有趣的例子
+
+443
+00:26:52,020 --> 00:26:57,440
+So there's this thing called red boxing or yellow boxing where when a committee
+所以存在一种叫‘红箱’或‘黄箱’的现象，当一个委员会
+
+444
+00:26:57,440 --> 00:27:01,940
+Let's say that I am the D triple C and I'm in charge of electing Democrats to Congress
+比如说，我是一个民主党三重C，负责选举民主党人进入国会
+
+445
+00:27:01,940 --> 00:27:05,660
+and I think to myself man, I really could use a
+并且我想，‘我确实需要一个’
+
+446
+00:27:05,660 --> 00:27:12,940
+a ad, a super PAC to run a bunch of ads about how this candidate's opponent is really bad
+一条超级PAC的广告，来宣传这位候选人的对手在经济上表现得非常糟糕
+
+447
+00:27:12,940 --> 00:27:14,960
+on the economy.
+在经济方面。
+
+448
+00:27:14,960 --> 00:27:16,780
+But I can't talk to the super PAC, right?
+但我不可以和超级政治行动委员会谈，对吧？
+
+449
+00:27:16,780 --> 00:27:20,580
+Because there's no coordination between a candidate or a committee and the super PAC.
+因为候选人或委员会和超级政治行动委员会之间没有协调。
+
+450
+00:27:20,580 --> 00:27:22,880
+They're supposed to be totally independent.
+他们本该完全独立。
+
+451
+00:27:22,880 --> 00:27:26,140
+What folks started to do, all these different, you know, and this goes for both sides of
+人们开始做这些不同的事，你知道，这适用于两方。
+
+452
+00:27:26,140 --> 00:27:31,020
+the aisle, they were all kind of experimenting is you would actually on your website put
+在两党之间，他们都在尝试，比如你实际上在网站上放一个
+
+453
+00:27:31,020 --> 00:27:34,460
+a little yellow or red box and it looks very like Web point.
+一个小黄或小红框，看起来非常像网络点。
+
+454
+00:27:34,460 --> 00:27:39,420
+It looks very kind of dorky and it'll say something that sounds kind of cheesy and coded saying like
+它看起来很土气，会说一些听起来有点傻乎乎、编码化的话，比如
+
+455
+00:27:40,460 --> 00:27:44,180
+People in Missouri need to know this you click on the box
+密苏里州的人们需要知道这一点，你点击这个框
+
+456
+00:27:44,180 --> 00:27:48,900
+And it'll take you to a page that they've developed with all the language that they would like in the ad
+然后会带你到一个他们开发的页面，里面包含他们希望在广告中使用的全部语言。
+
+457
+00:27:49,100 --> 00:27:53,300
+I'm not telling you what to do with the gun, but I'm gonna leave it right here on the table for you
+我不会告诉你该怎么做枪，但我打算把它就放在这张桌上给你。
+
+458
+00:27:53,300 --> 00:27:57,300
+I know Maggie sent me a link to an archived website
+我知道Maggie给我发了一个到存档网站的链接
+
+459
+00:27:57,300 --> 00:28:03,900
+Thank you internet archive with a box just like that the box said Ohio needs to know and they clicked on it
+谢谢互联网档案馆，有一个和刚才一样的框，那个框写着‘俄亥俄州需要知道’，他们点了一下
+
+460
+00:28:03,900 --> 00:28:10,900
+and I saw a bunch of messaging and a link to archival footage from the campaign trail.
+我看到了大量信息和来自竞选前线的存档视频链接。
+
+461
+00:28:10,900 --> 00:28:13,900
+Footage that might just be perfect to put in an ad.
+画面可能正好适合放进广告里。
+
+462
+00:28:13,900 --> 00:28:16,900
+Yeah, hypothetically of course. That was the funny thing, it was like,
+是的，当然只是假设。那件有趣的事是，它就像，
+
+463
+00:28:16,900 --> 00:28:21,900
+here are the arguments we feel, and here's just a ton of footage for B-roll.
+我们觉得有这些论点，这里还有一大堆B-roll画面。
+
+464
+00:28:21,900 --> 00:28:27,900
+It's just generic, candid and on the campaign trail, do what you want with it.
+它只是泛泛的、真实的，而且在竞选途中，你可以随意使用它。
+
+465
+00:28:27,900 --> 00:28:34,520
+And it's not just red boxing, there are Twitter accounts that come out of nowhere with suggestions
+而且不只是红箱，还有推特账号突然冒出，提出建议
+
+466
+00:28:34,520 --> 00:28:35,800
+for super PACs.
+为超级政治行动委员会提供支持。
+
+467
+00:28:35,800 --> 00:28:39,060
+Books full of opposition research get sent to offices.
+整本关于反对研究的书籍被寄到办公室。
+
+468
+00:28:39,060 --> 00:28:41,360
+There are ways around coordination.
+存在绕过协调的方法。
+
+469
+00:28:41,360 --> 00:28:44,920
+Now I want to get back to something you said about the decision.
+现在我想回到你提到的关于这个决定的事。
+
+470
+00:28:44,920 --> 00:28:49,520
+And it was confusing for me because I did think like so many others that this case was
+而且这让我感到困惑，因为我和其他很多人一样认为这一点
+
+471
+00:28:49,520 --> 00:28:54,280
+about corporations being allowed to give huge sums of money to candidates through super
+关于企业被允许通过超级政治行动委员会向候选人大量捐款
+
+472
+00:28:54,280 --> 00:28:55,280
+PACs.
+政治行动委员会（PAC）。
+
+473
+00:28:55,280 --> 00:28:56,280
+Yeah.
+是的。
+
+474
+00:28:56,280 --> 00:28:57,280
+This caught me off guard too.
+这也让我感到意外。
+
+475
+00:28:57,280 --> 00:29:02,880
+Every student has a perception that Citizens United fundamentally change
+每个学生都有一种看法，认为公民联合案从根本上改变了
+
+476
+00:29:02,880 --> 00:29:05,680
+American politics and campaign finance system.
+美国的政治和竞选资金体系。
+
+477
+00:29:05,680 --> 00:29:10,320
+This is Hye Young Yoo, a professor of political science at New York University.
+这就是纽约大学政治学系的Hye Young Yoo教授。
+
+478
+00:29:10,320 --> 00:29:15,440
+Hye Young said that this is her number one misconception that her students have about the case.
+海英说，这是她学生对选举最普遍的误解，即公民投票完全覆盖了所有选区。
+
+479
+00:29:15,440 --> 00:29:21,680
+But when we look at details, yes, there are parts that Citizens United really transformed
+但当我们查看细节时，确实，公民联合在某些方面已经发生了转变。
+
+480
+00:29:21,680 --> 00:29:24,020
+from the campaign finance in the US,
+从美国的竞选资金制度中。
+
+481
+00:29:24,020 --> 00:29:25,380
+but at the same time,
+但与此同时，
+
+482
+00:29:25,380 --> 00:29:28,660
+there are sections that Citizens United didn't touch at all.
+仍有部分领域公民联合完全未涉及。
+
+483
+00:29:28,660 --> 00:29:32,220
+For example, the direct campaign contribution
+例如，直接的竞选捐款
+
+484
+00:29:32,220 --> 00:29:35,700
+made to the candidates that has not changed at all
+捐给候选人的金额完全没有改变。
+
+485
+00:29:35,700 --> 00:29:37,860
+by the Citizens United.
+由公民联合做出的。
+
+486
+00:29:37,860 --> 00:29:40,100
+So, but students have this perception.
+因此，学生对此有这种认知。
+
+487
+00:29:40,100 --> 00:29:41,580
+This is the boom.
+这是繁荣期。
+
+488
+00:29:41,580 --> 00:29:44,540
+We know everything changed after Citizens United.
+我们知道在‘公民联合’之后，一切已经改变。
+
+489
+00:29:44,540 --> 00:29:47,460
+And also, because of political rhetoric,
+而且，由于政治言论，
+
+490
+00:29:47,460 --> 00:29:50,260
+a lot of students assume that corporations
+很多学生认为企业
+
+491
+00:29:50,260 --> 00:29:51,860
+and big banks, right?
+和大银行，对吧？
+
+492
+00:29:51,860 --> 00:29:54,860
+The big corporations, they spend tons of money
+大公司，它们花费巨量资金
+
+493
+00:29:54,860 --> 00:29:58,260
+to sponsor super PACs after Citizens United,
+在‘公民联合’之后赞助超级政治行动委员会，
+
+494
+00:29:58,260 --> 00:29:59,940
+which is not true.
+这并不属实。
+
+495
+00:29:59,940 --> 00:30:01,580
+But why?
+但为什么呢？
+
+496
+00:30:01,580 --> 00:30:03,020
+Like if I were the head of a company
+比如，如果我是某公司的负责人，
+
+497
+00:30:03,020 --> 00:30:05,620
+and I knew a politician was going to pass legislation
+而且我知道某位政客即将通过一项立法
+
+498
+00:30:05,620 --> 00:30:07,720
+that helped my industry,
+那将有助于我的行业，
+
+499
+00:30:07,720 --> 00:30:10,340
+wouldn't I do whatever I could to get them elected?
+我不会尽一切努力去争取他们当选吗？
+
+500
+00:30:10,340 --> 00:30:13,420
+Aha, but if you're a big company that's in the public eye,
+啊，但如果你是一家被公众密切关注的大公司，
+
+501
+00:30:13,420 --> 00:30:16,700
+like Google, Apple, AT&T, McDonald's,
+比如谷歌、苹果、AT&T、麦当劳，
+
+502
+00:30:16,700 --> 00:30:18,400
+you have shareholders.
+你有股东。
+
+503
+00:30:18,400 --> 00:30:20,500
+You have a board to answer to?
+你有董事会要回应。
+
+504
+00:30:20,500 --> 00:30:23,660
+You have the public and the press watching your every move
+你有公众和媒体在关注你的一举一动
+
+505
+00:30:23,660 --> 00:30:25,560
+and tweeting about it?
+并且在社交媒体上对你进行评论？
+
+506
+00:30:25,560 --> 00:30:27,580
+All of those entities are going to find out
+所有这些实体都会发现
+
+507
+00:30:27,580 --> 00:30:29,340
+who you gave your money to.
+你把钱给了谁。
+
+508
+00:30:29,340 --> 00:30:30,180
+And for example,
+比如，
+
+509
+00:30:30,180 --> 00:30:32,940
+Hye-young referenced the January 6th insurrection.
+韩宇英提到了1月6日的暴乱。
+
+510
+00:30:32,940 --> 00:30:37,020
+After that, some of the consumer, the activist,
+之后，一些消费者、活动家，
+
+511
+00:30:37,020 --> 00:30:40,420
+or some of the people on Twitter and social media,
+或社交媒体上的一些人，
+
+512
+00:30:40,420 --> 00:30:43,500
+they actually revealed these are the corporations
+他们实际上揭露了这些是支持1月6日暴乱的公司
+
+513
+00:30:43,500 --> 00:30:48,340
+who donate to the politician who endorse January 6th riot
+向支持1月6日暴乱的政客捐款的公司
+
+514
+00:30:48,340 --> 00:30:49,860
+And what happened after that?
+之后发生了什么？
+
+515
+00:30:49,860 --> 00:30:53,340
+A lot of corporations, they withdrew.
+很多公司，它们撤回了。
+
+516
+00:30:53,340 --> 00:30:57,100
+They withdrew their donation from those politicians.
+他们从那些政客那里撤回了捐赠。
+
+517
+00:30:57,100 --> 00:31:00,700
+They don't make a donation in the next election cycles.
+他们不为下个选举周期提供捐赠。
+
+518
+00:31:00,700 --> 00:31:04,680
+Companies, even though they have a lot of power and wealth,
+公司即使拥有大量权力和财富,
+
+519
+00:31:04,680 --> 00:31:08,740
+still, you need to cater to consumer preferences.
+仍需迎合消费者偏好。
+
+520
+00:31:08,740 --> 00:31:11,220
+You need to cater to shareholder preferences.
+你也需要迎合股东偏好。
+
+521
+00:31:11,220 --> 00:31:15,180
+So there are some constraints that corporations face.
+因此，公司面临一些限制。
+
+522
+00:31:15,180 --> 00:31:17,420
+And that's why, even though a lot of people,
+这就是为什么，尽管很多人,
+
+523
+00:31:17,420 --> 00:31:20,660
+including President Obama, Senator Warren,
+包括奥巴马总统、沃伦参议员,
+
+524
+00:31:20,660 --> 00:31:23,780
+you know, really worry about the explosion of money.
+你们知道，真的非常担心金钱的爆炸性增长。
+
+525
+00:31:23,780 --> 00:31:25,420
+Yes, we had an explosion of money,
+是的，我们确实出现了资金的爆炸式增长，
+
+526
+00:31:25,420 --> 00:31:26,820
+but not by the corporations,
+但并非由企业所推动，
+
+527
+00:31:26,820 --> 00:31:29,540
+but mostly by wealthy individuals
+而是主要由富有的个人所推动。
+
+528
+00:31:29,540 --> 00:31:32,220
+who are really politically active.
+那些真正具有政治影响力的。
+
+529
+00:31:32,220 --> 00:31:34,700
+And I do wanna add one wrinkle to this.
+而且我想为这个话题加一个细节。
+
+530
+00:31:34,700 --> 00:31:36,860
+Jeff Bohn sent me a report about a way
+杰夫·博恩给我发了一份报告，关于一种方式
+
+531
+00:31:36,860 --> 00:31:39,360
+that corporations have begun to start
+企业开始出现的
+
+532
+00:31:39,360 --> 00:31:41,620
+to increase spending on campaigns
+在竞选活动上的支出增加。
+
+533
+00:31:41,620 --> 00:31:43,700
+that absolves them of all public scrutiny.
+从而摆脱了所有公众的监督。
+
+534
+00:31:43,700 --> 00:31:47,580
+Briefly, there are large nonprofits called 527s,
+简而言之，存在一些大型的非营利组织，被称为527组织，
+
+535
+00:31:47,580 --> 00:31:49,380
+the biggest of which are the Republican
+其中最大的是共和党
+
+536
+00:31:49,380 --> 00:31:52,180
+and Democratic Governors Associations.
+和民主党州长协会。
+
+537
+00:31:52,180 --> 00:31:54,920
+So corporations have been giving to them,
+所以企业一直在向他们捐款，
+
+538
+00:31:54,920 --> 00:31:57,100
+and that's public information, we all know it.
+而且这是公开信息，我们都清楚。
+
+539
+00:31:57,100 --> 00:31:59,760
+And then those associations give that money
+然后这些组织把这笔钱
+
+540
+00:31:59,760 --> 00:32:04,100
+to other super PACs to influence state and local elections.
+转给其他超级政治行动委员会，以影响州和地方选举。
+
+541
+00:32:04,100 --> 00:32:06,900
+Aha, and since those 527s,
+啊，自从那些527s开始，
+
+542
+00:32:06,900 --> 00:32:09,460
+which I have never heard about before this,
+我以前从未听说过这些，
+
+543
+00:32:09,460 --> 00:32:12,620
+are just massive generic buckets
+只是巨大的通用资金池
+
+544
+00:32:12,620 --> 00:32:14,260
+that then go to other places,
+然后流向其他地方，
+
+545
+00:32:14,260 --> 00:32:17,540
+it's impossible to hold a corporation accountable, right?
+根本无法对一家企业进行问责，对吧？
+
+546
+00:32:17,540 --> 00:32:19,060
+As there are so many steps.
+因为这些步骤太多了。
+
+547
+00:32:19,060 --> 00:32:19,900
+Right.
+对。
+
+548
+00:32:19,900 --> 00:32:22,680
+And the last 10 years, about $1 billion
+而且在过去十年里，大约有10亿美元
+
+549
+00:32:22,680 --> 00:32:24,300
+have gone to these associations,
+已经流向了这些组织，
+
+550
+00:32:24,300 --> 00:32:26,860
+half of which came from public company treasuries.
+其中一半来自上市公司财库。
+
+551
+00:32:26,860 --> 00:32:29,700
+And in that time, Republican 527s
+在那个时期，共和党527组织
+
+552
+00:32:29,700 --> 00:32:31,300
+have received twice as much money
+已收到两倍的资金
+
+553
+00:32:31,300 --> 00:32:34,860
+as Democrat 527s to influence local elections.
+相比民主党527组织影响地方选举。
+
+554
+00:32:34,860 --> 00:32:38,380
+However, Hey Young said the biggest donations
+然而，海·杨表示最大的捐赠
+
+555
+00:32:38,380 --> 00:32:40,060
+in the wake of Citizens United,
+在公民联合案之后
+
+556
+00:32:40,060 --> 00:32:44,300
+The explosion of money has been from wealthy individuals
+向超级政治行动委员会的巨额资金涌入来自富裕个人
+
+557
+00:32:44,300 --> 00:32:46,120
+to super PACs, right?
+流向超级政治行动委员会，对吧？
+
+558
+00:32:46,120 --> 00:32:47,700
+So how much are we talking?
+那么我们说的是多少？
+
+559
+00:32:47,700 --> 00:32:50,820
+Study was done on just the publicly available information
+一项研究仅基于公开可得的信息
+
+560
+00:32:50,820 --> 00:32:54,020
+on donations, not to speak of unavailable data,
+关于捐赠，更不用说不可得的数据
+
+561
+00:32:54,020 --> 00:32:57,900
+but about 400 families are responsible for half
+但有400个家庭负责了半数
+
+562
+00:32:57,900 --> 00:33:00,860
+of all presidential campaign financing.
+所有总统竞选资金的支出。
+
+563
+00:33:00,860 --> 00:33:03,220
+That's a lot of money from a very few people.
+从极少数人那里筹集到如此巨额的资金。
+
+564
+00:33:03,220 --> 00:33:08,780
+And when you're a candidate so heavily funded
+而且当一个候选人被大量资金支持时
+
+565
+00:33:08,780 --> 00:33:10,380
+by one super rich person,
+由一个超级富有的人资助时
+
+566
+00:33:10,380 --> 00:33:12,280
+you're probably going to do things
+你可能会采取一些行动
+
+567
+00:33:12,280 --> 00:33:14,140
+that satisfy that person, right?
+来满足那个人，对吧？
+
+568
+00:33:14,140 --> 00:33:15,580
+Right, right, and nobody else.
+对，对，而且别的人
+
+569
+00:33:15,580 --> 00:33:19,460
+Yeah, but you said not to speak of the unavailable data.
+是的，但你说过不要提及未公开的数据。
+
+570
+00:33:19,460 --> 00:33:22,380
+I do wanna speak of the unavailable data,
+我想谈谈那些未公开的数据
+
+571
+00:33:22,380 --> 00:33:23,980
+the non-public data.
+，那些非公开的数据。
+
+572
+00:33:23,980 --> 00:33:26,660
+Are there donations given that we don't know about?
+有没有一些捐赠是我们不知道的？
+
+573
+00:33:26,660 --> 00:33:27,820
+Well, there shouldn't be,
+嗯，本不该有
+
+574
+00:33:27,820 --> 00:33:30,940
+because PACs have to tell you who gives to them.
+因为政治行动委员会必须告诉你们是谁在资助他们。
+
+575
+00:33:30,940 --> 00:33:32,220
+Here's Maggie Severin's again.
+再次是玛吉·塞弗林。
+
+576
+00:33:32,220 --> 00:33:34,820
+PACs have always had to disclose their donors.
+政治行动委员会一直必须披露其捐款人。
+
+577
+00:33:34,820 --> 00:33:36,140
+The Supreme Court, when they did the
+最高法院在他们进行的
+
+578
+00:33:36,140 --> 00:33:38,620
+Citizens United opinion, it said that
+公民联合案中，他们说
+
+579
+00:33:38,620 --> 00:33:41,300
+This principle of transparency and disclosure
+这一透明度和披露的原则
+
+580
+00:33:41,300 --> 00:33:43,740
+that's kind of been around with PACS for a while
+这种原则早就存在于政治行动委员会中了
+
+581
+00:33:43,740 --> 00:33:47,100
+should also apply to unlimited political spending.
+也应适用于无限制的政治支出。
+
+582
+00:33:47,100 --> 00:33:51,940
+So as long as you are disclosing what you're doing,
+所以只要你在披露你所做的事情，
+
+583
+00:33:51,940 --> 00:33:53,940
+then the spending is constitutional.
+那么支出就是合宪的。
+
+584
+00:33:53,940 --> 00:33:56,460
+For example, one thing that we've seen more and more
+例如，我们越来越看到的一件事是
+
+585
+00:33:56,460 --> 00:34:01,460
+with super PACS is that someone will give to an organization,
+在超级政治行动委员会中，有人会向一个组织捐款，
+
+586
+00:34:02,060 --> 00:34:03,900
+you know, maybe a 501c4,
+比如，可能是一个501c4组织，
+
+587
+00:34:03,900 --> 00:34:07,260
+who will then transfer that money to the super PAC.
+然后将这笔钱转给超级政治行动委员会。
+
+588
+00:34:07,260 --> 00:34:09,060
+Well, do you know where that money came from?
+嗯，你知道那笔钱从哪里来的吗？
+
+589
+00:34:09,060 --> 00:34:11,820
+If it's being transferred from one group to another?
+如果它是从一个组织转移到另一个组织的呢？
+
+590
+00:34:11,820 --> 00:34:15,220
+Yeah, so there are a lot of nonprofit organizations.
+是的，所以有很多非营利组织。
+
+591
+00:34:15,220 --> 00:34:16,780
+And so it's the 501C.
+所以它是501C。
+
+592
+00:34:16,780 --> 00:34:20,020
+So that's basically our IRS code, right?
+所以那基本上就是我们的IRS法规，对吧？
+
+593
+00:34:20,020 --> 00:34:22,900
+So when IRS tried to set the tax rate,
+所以当IRS试图设定税率时，
+
+594
+00:34:22,900 --> 00:34:25,620
+and 501C is basically a tax exempt
+501C基本上是免税的
+
+595
+00:34:25,620 --> 00:34:27,620
+in nonprofit organizations.
+在非营利组织中。
+
+596
+00:34:27,620 --> 00:34:30,900
+And for example, NYU is a 501C3,
+以为例，NYU是501C3，
+
+597
+00:34:30,900 --> 00:34:32,460
+which is the education.
+属于教育类。
+
+598
+00:34:32,460 --> 00:34:36,980
+NRA, National Rifle Association is a 501C4.
+NRA，全国步枪协会是501C4。
+
+599
+00:34:36,980 --> 00:34:39,960
+Planned Parenthood is also 5144.
+计划生育联合会也是5144。
+
+600
+00:34:39,960 --> 00:34:44,040
+So 5144 is a social welfare organization,
+所以5144是一个社会福利组织，
+
+601
+00:34:44,040 --> 00:34:46,440
+according to IRS definition.
+根据IRS的定义。
+
+602
+00:34:46,440 --> 00:34:49,840
+And these organizations, they are supposed to work
+这些组织，它们本应致力于
+
+603
+00:34:49,840 --> 00:34:51,760
+to improve social welfare.
+改善社会福利。
+
+604
+00:34:51,760 --> 00:34:54,680
+These nonprofits, since they're supposed to work
+这些非营利组织，由于它们本应致力于
+
+605
+00:34:54,680 --> 00:34:58,160
+for social welfare, cannot spend more than 50%
+为社会福利服务，不能在预算中花费超过50%
+
+606
+00:34:58,160 --> 00:35:01,040
+of their budget on campaign contributions.
+在预算中用于竞选捐款的比例。
+
+607
+00:35:01,040 --> 00:35:06,040
+But the downside, or the one opaque thing downside is,
+但缺点，或者说那个不透明的缺点是，
+
+608
+00:35:06,040 --> 00:35:14,040
+When you donate, you can, you know, as an individual, if you're a wealthy individual or an ordinary citizen, you can donate to Planned Parenthood.
+当你捐款时，你就可以，你知道，作为个人，如果你是富有的人或普通公民，你可以向计划生育组织捐款。
+
+609
+00:35:14,040 --> 00:35:19,040
+You can donate to NRA, right? But those donations are not disclosed.
+你确实可以向NRA捐款，对吧？但这些捐款是不公开的。
+
+610
+00:35:19,040 --> 00:35:29,040
+Okay, so someone could donate to a 501c3 anonymously, and then that money gets transferred to a super PAC and nobody knows who did it.
+好吧，有人可以匿名地向一个501c3组织捐款，然后这笔钱就会转到一个超级政治行动委员会（超级PAC），而没人知道是谁捐的。
+
+611
+00:35:29,040 --> 00:35:36,240
+This is referred to as quote dark money. That's becoming more and more prevalent and these donations are not traceable
+这被称为‘暗钱’，这种现象正变得越来越普遍，这些捐款是无法追溯的。
+
+612
+00:35:36,240 --> 00:35:42,200
+And if you're curious how all of this super packs dark money all of it has affected how campaigns are run
+而且如果你想知道这些超级政治行动委员会的暗钱究竟如何影响了竞选活动的运作
+
+613
+00:35:42,600 --> 00:35:44,600
+Here are some numbers
+这里是一些数据
+
+614
+00:35:44,640 --> 00:35:54,520
+In 2008 the year of Hilary the movie the FEC reported that a total of 1.6 billion dollars was spent by contrast the
+2008年，也就是希拉里参选那年，联邦选举委员会（FEC）报告称，总共花费了16亿美元，相比之下
+
+615
+00:35:54,760 --> 00:35:56,760
+2020 election over
+2020年大选超过
+
+616
+00:35:56,760 --> 00:36:03,960
+$14 billion, $5.7 billion on the Trump-Biden race, and the rest on the congressional races.
+$140亿美元，其中57亿美元用于特朗普-拜登的选举，其余资金则用于国会席位的竞选。
+
+617
+00:36:03,960 --> 00:36:10,080
+Now, each office is different, but nowadays it costs a lot of money to run for Congress.
+现在，每个职位都不同，但如今竞选国会议员花费大量金钱。
+
+618
+00:36:10,080 --> 00:36:15,160
+The average is $1.1 million for a House seat, $6.5 million for the Senate.
+一个众议院席位的平均花费是110万美元，参议院席位是650万美元。
+
+619
+00:36:15,160 --> 00:36:20,760
+Now, we started with you saying how politicians and Supreme Court justices have criticized
+现在，我们一开始是基于你提到的政治家和最高法院大法官们对这一决定的批评
+
+620
+00:36:20,760 --> 00:36:22,760
+this decision.
+对这一决定。
+
+621
+00:36:22,760 --> 00:36:28,400
+Did anyone you spoke to say there were any positives to this decision at all?
+你跟任何人说过，他们认为这一决定有任何积极之处吗？
+
+622
+00:36:28,400 --> 00:36:32,240
+I want to be forthright here and say that all three guests I interviewed were quite
+我想在这里坦率地说，我采访的三位嘉宾都相当
+
+623
+00:36:32,240 --> 00:36:35,320
+frankly critical of the decision.
+直言不讳地批评了这一决定。
+
+624
+00:36:35,320 --> 00:36:41,480
+And so I asked Jeff if there was a plus side, a pro to the decision, and he gave me one.
+所以我和杰夫问了一下，是否有一个积极方面，一个决策的利好，他给了我一个。
+
+625
+00:36:41,480 --> 00:36:47,440
+On the advantage side, businesses and multinational corporations are fairly nimble about responding
+在优势方面，企业和跨国公司在这方面反应相当灵活。
+
+626
+00:36:47,440 --> 00:36:53,440
+to crisis and I'm just thinking about even currently in the situation between Russia
+针对危机，我正思考着目前俄罗斯
+
+627
+00:36:53,440 --> 00:37:00,120
+and Ukraine, you see corporations responding in ways that perhaps governments are slow
+和乌克兰，你看到企业以某种方式应对，或许政府反应较慢
+
+628
+00:37:00,120 --> 00:37:02,960
+to or there's constraints on government.
+或者政府存在限制。
+
+629
+00:37:02,960 --> 00:37:10,560
+And so there is a fair comment that businesses express some important democratic values and
+所以有一个合理的评论，企业表达了一些重要的民主价值观和
+
+630
+00:37:10,560 --> 00:37:18,360
+have agency and should be regarded and have an ability to speak to issues that are political
+具备能力，应当被认可，并有能力谈及政治性议题
+
+631
+00:37:18,360 --> 00:37:19,360
+in nature.
+这类议题。
+
+632
+00:37:19,360 --> 00:37:21,840
+You see, companies can move faster than politicians.
+你看，公司比政客行动得更快。
+
+633
+00:37:21,840 --> 00:37:25,680
+They can do stuff without it going through Congress.
+它们可以做事，而无需经过国会。
+
+634
+00:37:25,680 --> 00:37:31,680
+These massive donations create a relationship between corporations and politicians.
+这些巨额捐款在企业与政客之间建立了联系。
+
+635
+00:37:31,680 --> 00:37:36,440
+And that politician might ask a company to do something because the politician is unable
+而那位政客可能会要求企业去做某事，因为政客自己做不到。
+
+636
+00:37:36,440 --> 00:37:37,440
+to.
+去。
+
+637
+00:37:37,440 --> 00:37:41,960
+Then I asked, hey, young for an advantage, away the decision was in the nation's best
+然后我问，嘿，企业是否获得了优势，这个决定是否符合国家利益？
+
+638
+00:37:41,960 --> 00:37:42,960
+interest.
+利益？
+
+639
+00:37:42,960 --> 00:37:49,280
+I'm not sure whether I can make that argument because if you look at the sheer amount of
+我不确定是否能提出这个论点，因为如果你看看那庞大的金额，
+
+640
+00:37:49,280 --> 00:37:57,480
+money in American election, that's a mind blowing, especially the amount of independent
+美国选举中的资金，简直是令人震惊，尤其是超级政治行动委员会所花费的独立支出。
+
+641
+00:37:57,480 --> 00:38:00,760
+expenditures spent by super PACs.
+超级政治行动委员会所花费的独立支出。
+
+642
+00:38:00,760 --> 00:38:05,440
+So do we really need a decent amount of money in elections?
+所以我们真的需要在选举中投入相当多的资金吗？
+
+643
+00:38:05,440 --> 00:38:11,080
+And US is a country that elect basically everybody, judges and prosecutors.
+而且美国是一个国家，几乎选举所有职位，包括法官和检察官。
+
+644
+00:38:11,080 --> 00:38:16,400
+And if you look at other countries, it's extremely rare to find a case that the judges
+而且如果你看看其他国家，几乎找不到一个案例是法官
+
+645
+00:38:16,400 --> 00:38:19,100
+elected or prosecutors elected.
+被选举出来的。
+
+646
+00:38:19,100 --> 00:38:24,280
+So now this super PACs, they are not just spending money on presidential elections and
+所以现在这些超级政治行动委员会，并不仅仅在总统选举和
+
+647
+00:38:24,280 --> 00:38:25,580
+Senate elections.
+参议院选举上花钱。
+
+648
+00:38:25,580 --> 00:38:33,700
+They are infiltrating the lower level elections, county sheriff and judges.
+它们正在渗透到基层选举，包括县警长和法官。
+
+649
+00:38:33,700 --> 00:38:39,840
+So in that sense, these are national super PACs, and they are having so much power in
+因此从这个意义上说，这些是全国性的超级政治行动委员会，它们在
+
+650
+00:38:39,840 --> 00:38:45,420
+terms of shaping every election result and every layer of the government.
+塑造每一项选举结果和政府各个层面的权力方面拥有巨大影响力。
+
+651
+00:38:45,420 --> 00:38:53,340
+When an individual or a business has a substantial financial chest of a war chest to support
+当个人或企业拥有大量资金作为战备金以支持
+
+652
+00:38:53,340 --> 00:38:55,780
+the political process, those are our lawmakers.
+在政治进程中，这些人是我们的立法者。
+
+653
+00:38:55,780 --> 00:39:01,060
+Those are the ones that determine what the regulations are going to be.
+这些人决定将来的法规是什么。
+
+654
+00:39:01,060 --> 00:39:10,820
+united by being a clear win for large money to say there is no limits that the government
+通过成为大笔资金的明确胜利，来声称政府
+
+655
+00:39:10,820 --> 00:39:18,780
+can impose upon businesses and wealthy donors that want to influence an issue or use that
+可以对那些希望影响议题或使用这笔资金来宣传的企业和富裕捐赠者施加限制
+
+656
+00:39:18,780 --> 00:39:26,500
+money to advertise on behalf of a candidate are picking a winner or are letting those
+用于为候选人竞选宣传的资金，是让那些
+
+657
+00:39:26,500 --> 00:39:30,580
+with money, be those with power in the political process.
+拥有资金的人，正是政治进程中的关键力量。
+
+658
+00:39:30,980 --> 00:39:38,860
+And the impact on our politics is going to be corrosive as a result.
+和我们政治的影响将会是腐蚀性的，作为结果。
+
+659
+00:39:44,460 --> 00:39:49,100
+If you can just cater to one billionaire, you don't need to appeal to
+如果你只需迎合一个亿万富翁，你就不需要迎合
+
+660
+00:39:49,100 --> 00:39:51,180
+a broader set of voters, right?
+一个更广泛的选民群体，对吧？
+
+661
+00:39:51,300 --> 00:39:56,260
+If one billionaire could finance 10 politicians compared to
+如果一个亿万富翁能资助10名政治家，相比
+
+662
+00:39:56,500 --> 00:39:59,100
+to hunt, for example, 20 million people.
+去争取，比如2000万人。
+
+663
+00:39:59,100 --> 00:40:01,500
+I think that has a very different implication
+我认为这在代表性和政治问责方面会有截然不同的含义
+
+664
+00:40:01,500 --> 00:40:04,900
+in terms of representation, political accountability,
+在代表性和政治问责方面
+
+665
+00:40:04,900 --> 00:40:07,580
+and politicians' behavior.
+以及政治家的行为。
+
+666
+00:40:07,580 --> 00:40:10,740
+What about the future of Citizens United?
+关于公民联合组织的未来如何？
+
+667
+00:40:10,740 --> 00:40:15,740
+I can't help but look at that number, $14 billion,
+我无法不关注这个数字，140亿美元，
+
+668
+00:40:15,740 --> 00:40:20,740
+and wonder if it's ever gonna go down or even stay static.
+并怀疑它是否有一天会下降，甚至保持不变。
+
+669
+00:40:21,020 --> 00:40:24,340
+Are super PACs just going to keep giving more and more?
+超级政治行动委员会是否只会不断增加捐款？
+
+670
+00:40:24,340 --> 00:40:30,500
+So one of the rallying cries of those who don't like the decision is quote unquote overturned
+所以那些不喜欢这项决定的人中，有一个强烈的呼声是‘被推翻’
+
+671
+00:40:30,500 --> 00:40:33,000
+Citizens United.
+公民联合
+
+672
+00:40:33,000 --> 00:40:40,180
+Because it is a court ruling, only the Supreme Court itself can quote overturn its decision.
+因为这是最高法院的裁决，只有最高法院本身才能推翻这项决定。
+
+673
+00:40:40,180 --> 00:40:44,820
+Though I will say every few years someone in Congress proposes an amendment that will
+尽管我曾说过，每隔几年，国会中就会有人提出一项修正案，
+
+674
+00:40:44,820 --> 00:40:49,220
+establish corporations as entities without first amendment protections or put restrictions
+将公司确立为没有第一修正案保护的实体，或对它们施加限制
+
+675
+00:40:49,220 --> 00:40:51,180
+on dark money.
+对暗资金施加限制。
+
+676
+00:40:51,180 --> 00:40:54,260
+I asked Maggie about those amendments and she kind of laughed and said,
+我问了玛吉关于那些修正案，她笑了笑说，
+
+677
+00:40:54,260 --> 00:40:56,620
+yeah, yeah, you see those every now and then.
+是啊，是啊，你时不时会看到那种情况。
+
+678
+00:40:56,620 --> 00:40:59,860
+Amendments aren't at all likely to be successful.
+修正案根本不太可能成功。
+
+679
+00:40:59,860 --> 00:41:02,060
+And I'm not trying to be a killjoy or anything, but
+而且我并不是想显得多悲观或什么，但
+
+680
+00:41:02,060 --> 00:41:05,820
+amendments require two thirds of both houses of Congress and three fourths of
+修正案需要国会两院各三分之二，以及所有州四分之三的批准才能通过。
+
+681
+00:41:05,820 --> 00:41:09,300
+all states to be ratified and added to our Constitution.
+所有州批准并加入我们的宪法。
+
+682
+00:41:09,300 --> 00:41:11,380
+So yeah, it's just not gonna happen.
+所以是的，这根本不会发生。
+
+683
+00:41:11,380 --> 00:41:15,060
+So for those who do not like such a staggering sum of money and
+所以对于那些不喜欢如此巨额资金投入的
+
+684
+00:41:15,060 --> 00:41:19,140
+political campaigns, what's the good news?
+政治竞选活动，有什么好消息？
+
+685
+00:41:19,140 --> 00:41:21,900
+Well, I think there's two little pieces of good news,
+嗯，我认为有两件好消息，
+
+686
+00:41:21,900 --> 00:41:25,620
+the first of which is a rising trend of politicians
+第一件是政治人物捐款的上升趋势
+
+687
+00:41:25,620 --> 00:41:27,260
+on both sides of the aisle,
+在两派议员中，
+
+688
+00:41:27,260 --> 00:41:30,900
+raising significant sums, not from super PACs,
+筹集了大量资金，不是来自超级政治行动委员会，
+
+689
+00:41:30,900 --> 00:41:34,640
+not from dark money, but from people.
+不是来自暗资金，而是来自普通民众。
+
+690
+00:41:34,640 --> 00:41:38,120
+Lots and lots of small donations.
+大量的小额捐款。
+
+691
+00:41:38,120 --> 00:41:41,500
+Anybody here know what the average contribution is?
+这里有人知道平均捐款额是多少吗？
+
+692
+00:41:41,500 --> 00:41:44,100
+Everybody know what the average contribution is?
+每个人都知道平均捐款额是多少吗？
+
+693
+00:41:44,100 --> 00:41:48,100
+It's right, $27.
+对，是27美元。
+
+694
+00:41:48,100 --> 00:41:55,740
+Now, this in itself is revolutionary because of you.
+现在，这一点本身是革命性的，因为有你参与。
+
+695
+00:41:55,740 --> 00:41:58,020
+And the second upshot?
+第二点结果是什么？
+
+696
+00:41:58,020 --> 00:42:04,100
+Maggie made me stop and think about what all this money buys in the first place.
+玛吉让我停下来思考，这些钱究竟在最初是为了买什么。
+
+697
+00:42:04,100 --> 00:42:09,580
+Some money that's spent on elections is spent in a very effective way, and political ads
+一些用于选举的资金是以非常有效的方式被使用的，而政治广告
+
+698
+00:42:09,580 --> 00:42:13,100
+do move people's opinions somewhat.
+确实会移动人们的观点。
+
+699
+00:42:13,100 --> 00:42:18,700
+But especially as media gets more and more sophisticated, I think that consumers are
+但随着媒体变得越来越复杂，我认为消费者是
+
+700
+00:42:18,700 --> 00:42:20,020
+getting more and more sophisticated.
+变得越来越成熟。
+
+701
+00:42:20,020 --> 00:42:24,660
+So people, I think people have a sense, one, that they're being kind of ripped off by Washington.
+所以人们，我认为人们有一种感觉，他们正被华盛顿所剥削。
+
+702
+00:42:24,660 --> 00:42:29,820
+They also, in some cases, this money doesn't sway an election as much as you would think,
+他们也有些情况下，这笔钱对选举的影响力并没有人们想象的那么大，
+
+703
+00:42:29,820 --> 00:42:32,460
+you know, when really well deployed it can.
+你知道，当被真正有效地部署时，它确实可以。
+
+704
+00:42:32,460 --> 00:42:39,180
+But I think that kind of sophisticated consumers of political news can also increasingly kind
+但我觉得，这种政治新闻的精明消费者，也正越来越多地
+
+705
+00:42:39,180 --> 00:42:42,300
+of sift through things and form their own opinions.
+开始学会筛选信息并形成自己的观点。
+
+706
+00:42:42,300 --> 00:42:45,920
+So I think it's important to remember that people aren't powerless in this situation.
+所以我认为，要记住人们在这个情况中并非无能为力。
+
+707
+00:42:45,920 --> 00:42:49,800
+You're not, you know, there's no kind of earworm in your brain telling you exactly who to vote
+你不是，你知道，你的脑子里没有那种耳虫在告诉你该投谁的票
+
+708
+00:42:49,800 --> 00:42:51,920
+for and how to think.
+以及如何思考。
+
+709
+00:42:51,920 --> 00:42:58,000
+There are some kind of troubling things happening, but people can still take in information to
+有一些令人担忧的事情正在发生，但人们仍然可以接收信息以
+
+710
+00:42:58,000 --> 00:42:59,840
+make decisions for themselves.
+做出自己的决定。
+
+711
+00:43:12,300 --> 00:43:18,600
+Alright, well that's Citizens United versus the FEC, okay, and it maybe turned out to be
+好吧，这就是公民联合案 versus 美国联邦选举委员会，好吧，而且它可能变成了一小时，而不是三十分钟。
+
+712
+00:43:18,600 --> 00:43:20,600
+about 40 minutes instead of 30.
+大约四十分钟，而不是三十分钟。
+
+713
+00:43:20,600 --> 00:43:23,100
+I just tried to pack a lot in.
+我刚刚试图把很多内容都塞进去。
+
+714
+00:43:23,100 --> 00:43:26,100
+Yeah, not what I'm saying.
+是的，不是我刚才说的。
+
+715
+00:43:26,100 --> 00:43:29,420
+This episode was made by me, Nick Capodice, with Hannah McCarthy.
+这个节目是由我，尼克·卡波迪奇，和汉娜·麦卡锡一起制作的。
+
+716
+00:43:29,420 --> 00:43:33,020
+Our staff includes Jackie Fulton, Christina Phillips as our senior producer, and Rebecca
+我们的团队包括杰基·福尔顿、克里斯蒂娜·菲利普斯，作为我们的高级制作人，还有雷贝卡
+
+717
+00:43:33,020 --> 00:43:35,220
+Levoie, our executive producer.
+莱沃伊，我们的执行制作人。
+
+718
+00:43:35,220 --> 00:43:40,020
+Music in this episode by Electro Swing, Anatech, BioUnit, Eric Kilkandy Auto Hacker, Bonkers,
+本集的音乐由 Electr o Swing、Anat ech、BioUnit、Eric Kilk an dy、Auto Hacker、Bonkers，
+
+719
+00:43:40,020 --> 00:43:42,720
+Beat Club, Scott Gratton, Scott Holmes, Fabian Tell,
+Beat Club、Scott Gratton、Scott Holmes、Fabian Tell，
+
+720
+00:43:42,720 --> 00:43:44,280
+Francis Wells, Dama Beatz,
+Francis Wells、Dama Beatz，
+
+721
+00:43:44,280 --> 00:43:47,400
+and as if that wasn't enough, Chris Zabrisky.
+而且就算这样还不够，还有克里斯·扎布里斯基。
+
+722
+00:43:47,400 --> 00:43:49,880
+Civics 101 is a production of NHPR.
+《公民101》是由NHPR制作的。
+
+723
+00:43:49,880 --> 00:43:51,320
+New Hampshire Public Radio.
+新罕布什尔公共广播电台。
+
+724
+00:43:55,520 --> 00:43:56,720
+This is Phil Bredesen,
+我是菲尔·布雷德森，
+
+725
+00:43:56,720 --> 00:43:59,400
+former Democratic governor of the state of Tennessee.
+曾以民主党人身份担任田纳西州州长。
+
+726
+00:43:59,400 --> 00:44:02,760
+If you love digging into how history shapes U.S. policy,
+如果你喜欢探究历史如何塑造美国政策，
+
+727
+00:44:02,760 --> 00:44:05,360
+check out the new season of You Might Be Right.
+不妨看看《你可能对了》的新一季。
+
+728
+00:44:05,360 --> 00:44:07,880
+And this is Bill Haslam, former Republican governor.
+我是比尔·哈斯拉姆，曾以共和党人身份担任州长。
+
+729
+00:44:07,880 --> 00:44:09,400
+This season we're asking the questions
+本季我们正在提出这些问题
+
+730
+00:44:09,400 --> 00:44:11,560
+that has defined every pivotal moment
+那些定义了每一个关键时刻
+
+731
+00:44:11,560 --> 00:44:13,120
+in American political history.
+的美国政治史上的时刻。
+
+732
+00:44:13,120 --> 00:44:15,160
+Is democracy really under threat
+民主真的面临威胁吗
+
+733
+00:44:15,160 --> 00:44:17,960
+or is that just a story as old as the Republic itself?
+还是说这只是和共和国本身一样古老的故事？
+
+734
+00:44:17,960 --> 00:44:19,200
+We're tackling the biggest question
+我们正在解决影响2026年中期选举的最大问题
+
+735
+00:44:19,200 --> 00:44:22,360
+shaping the 2026 midterms, so join us.
+塑造2026年中期选举，让我们一起参与
+
+736
+00:44:22,360 --> 00:44:25,760
+Follow you might be right wherever you get your podcasts.
+欢迎在你常用的播客平台关注《You Might Be Right》。
+
+737
+00:44:25,760 --> 00:44:28,800
+Enjoying your podcast will be brief.
+播客听得开心吗？我们很快就说完。
+
+738
+00:44:28,800 --> 00:44:31,000
+If you're looking for the perfect holiday gift,
+如果你在找一份合适的节日礼物，
+
+739
+00:44:31,000 --> 00:44:33,180
+give scratchers from the California lottery.
+送来自加利福尼亚彩票的刮刮卡
+
+740
+00:44:33,180 --> 00:44:34,600
+With so many to choose from,
+款式这么多，
+
+741
+00:44:34,600 --> 00:44:38,040
+you're sure to find the right gift for anyone on your list.
+你一定能为礼物清单上的每个人找到合适的。
+
+742
+00:44:38,040 --> 00:44:47,320
+Now that your holiday shopping list is figured out, enjoy this bird singing Jingle Bells.
+节日购物清单搞定了，来听这只鸟唱《铃儿响叮当》吧。
+
+743
+00:44:47,320 --> 00:44:49,600
+Give the gift of scratchers from the California Lottery.
+节日送礼，就送加州彩票的刮刮乐。
+
+744
+00:44:49,600 --> 00:44:51,840
+A little play can make your day.
+小玩一下，开心一天。
+
+745
+00:44:51,840 --> 00:44:52,840
+Please play responsibly.
+请理性购彩。
+
+746
+00:44:52,840 --> 00:44:55,120
+Must be 18 years or older to purchase, play or claim.
+购买、游玩或兑奖须年满 18 岁。

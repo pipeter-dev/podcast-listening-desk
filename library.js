@@ -6,9 +6,11 @@ function changeEpisodeURL(id){
   if(id)url.searchParams.set('episode',id);else url.searchParams.delete('episode');
   history.replaceState(null,'',url);
 }
-let alignmentRequest, subtitleURL;
+let alignmentRequest, subtitleURL, bilingualURL;
 function stopMatching(){
   alignmentRequest?.abort();
+  if(bilingualURL){URL.revokeObjectURL(bilingualURL);bilingualURL=''}
+  $('biLink').hidden=true;
   if(subtitleURL){URL.revokeObjectURL(subtitleURL);subtitleURL=''}
 }
 function clearLibrarySelection(){
@@ -38,15 +40,20 @@ async function openEpisode(id){
   $('txtLink').href=e.text;$('srtLink').hidden=true;$('downloads').hidden=false;
   let started=false;
   try{
-    const [raw,anchors,first]=await Promise.all([
+    const [raw,anchors,first,dual]=await Promise.all([
       readURL(e.subtitle),fetch('civics/'+encodeURIComponent(id)+'.anchors.json',opts).then(r=>r.json()),
-      fetch(e.audio,{...opts,headers:{Range:'bytes=0-1048575'}})
+      fetch(e.audio,{...opts,headers:{Range:'bytes=0-1048575'}}),
+      readURL('civics/'+encodeURIComponent(id)+'.en-zh.srt').catch(()=>'')
     ]);
     if(job!==revision)return;
     if(!first.ok)throw Error('audio');
     // The final CDN URL pins the ad rendition returned by this request.
     const pinned=first.url;audio.src=pinned;started=true;
     const source=parse(raw);prepareStudy(source,e);
+    const blocks=dual.trim().split(/\r?\n\s*\r?\n/).map(b=>b.split(/\r?\n/));
+    if(blocks.length===source.length&&blocks.every((b,i)=>b.length===4&&b[2]===source[i].text)){
+      source.forEach((c,i)=>{c.zh=blocks[i][3]});
+    }
     let capacity=new Uint8Array(2097152),used=0,response=first,ask=1048576;
     while(true){
       const block=new Uint8Array(await response.arrayBuffer());
@@ -72,6 +79,10 @@ async function openEpisode(id){
     if(job!==revision)return;
     if(!cues.length)throw Error('no match');
     subtitleURL=URL.createObjectURL(subtitleFile(cues));
+    if(cues.every(c=>c.zh)){
+      bilingualURL=URL.createObjectURL(subtitleFile(cues.map(c=>({...c,text:c.text+'\n'+c.zh}))));
+      $('biLink').href=bilingualURL;$('biLink').download=e.title+'.en-zh.srt';$('biLink').hidden=false;
+    }
     $('srtLink').href=subtitleURL;$('srtLink').download=e.title+'.srt';$('srtLink').hidden=false;
     $('origin').textContent=e.date+' · 官方音频 · 已对齐 '+cues.length+' 条字幕，未匹配片段留白';
   }catch{

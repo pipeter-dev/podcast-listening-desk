@@ -1,0 +1,3589 @@
+1
+00:00:00,000 --> 00:00:15,080
+This is Civics 101. I'm Hannah McCarthy. On November 3rd, voters will head to the polls
+这里是《Civics 101》，我是汉娜·麦卡锡。11 月 3 日，选民将前往投票站，
+
+2
+00:00:15,080 --> 00:00:20,600
+to cast ballots in the midterm elections. And while every election is important, midterms
+在中期选举中投票。虽然每一场选举都重要，但人们往往低估中期选举，
+
+3
+00:00:20,600 --> 00:00:25,600
+tend to be underappreciated in terms of their potential consequences, and what the results
+既低估它可能带来的后果，也低估选举结果透露的信息——
+
+4
+00:00:25,600 --> 00:00:29,480
+say about the president, Congress, and national sentiment.
+它能反映选民如何看待总统、国会，以及全国的民意走向。
+
+5
+00:00:29,480 --> 00:00:32,660
+Earlier this month, WAMU's 1A, a show
+本月早些时候，WAMU 电台的《1A》，一档
+
+6
+00:00:32,660 --> 00:00:35,160
+that airs on public radio stations across the country,
+在全美公共电台播出的节目，
+
+7
+00:00:35,160 --> 00:00:39,200
+broadcast live from our own radio station, NHPR.
+来到我们自己的 NHPR 电台进行现场直播。
+
+8
+00:00:39,200 --> 00:00:40,960
+They invited us to come on and talk
+他们邀请我们上台，和大家聊聊我们与主持人詹·怀特一起的交流内容。
+
+9
+00:00:40,960 --> 00:00:44,000
+about what we have learned from our work and our Civics 101
+关于我们从我们的工作和公民101课程中学到的内容。
+
+10
+00:00:44,000 --> 00:00:48,160
+experts about the midterms and why they matter so much.
+专家们关于中期选举以及它们为何如此重要的话题。
+
+11
+00:00:48,160 --> 00:00:51,120
+Today, we're bringing you our conversation with host Jen
+今天，我们向您带来与主持人詹·怀特的对话。
+
+12
+00:00:51,120 --> 00:00:53,480
+White, thanks to our friends at 1A.
+感谢我们1A的朋友。
+
+13
+00:00:53,480 --> 00:00:54,880
+Let's take a listen.
+让我们来听听。
+
+14
+00:00:54,880 --> 00:01:08,040
+In five weeks, more than a hundred million people will vote in the 2026 midterm elections.
+五周后，将有超过一亿人参加2026年的中期选举。
+
+15
+00:01:08,040 --> 00:01:13,560
+That means elections for House, Senate, Governor, state legislatures, city counselors, school
+这意味着将有众议员、参议员、州长、州立法机构、城市顾问、学校
+
+16
+00:01:13,560 --> 00:01:15,760
+board members, and more.
+董事会成员，以及更多职位的选举。
+
+17
+00:01:15,760 --> 00:01:20,480
+Two years into President Trump's term, a war rages, and people tell pollsters they're worried
+在特朗普总统任期的第二年，战事不断，人们向民调员表示他们感到担忧。
+
+18
+00:01:20,480 --> 00:01:21,880
+about prices.
+关于物价。
+
+19
+00:01:21,880 --> 00:01:23,800
+Both parties remain unpopular.
+两党都缺乏支持。
+
+20
+00:01:23,800 --> 00:01:25,880
+So that's the politics.
+所以这就是政治。
+
+21
+00:01:25,880 --> 00:01:30,680
+But what do we know about the basic nuts and bolts of our elections and of our government?
+但我们对我们的选举制度和政府运作的最基本细节了解多少？
+
+22
+00:01:30,680 --> 00:01:34,520
+Do we know who's on the ballot or the positions we're being asked to vote for?
+我们是否知道选票上有哪些候选人，或者我们被要求投票的具体职位？
+
+23
+00:01:34,520 --> 00:01:38,360
+Do we understand how our election system works, especially since it's been the targeted
+我们是否真正理解我们的选举制度是如何运作的，尤其是它一直被针对？
+
+24
+00:01:38,360 --> 00:01:41,640
+baseless allegations of fraud from the president?
+来自总统的无根据的欺诈指控？
+
+25
+00:01:41,640 --> 00:01:47,240
+What's the connection between a good civics education and a functioning political system?
+好的公民教育与一个正常运行的政治体系之间有什么联系？
+
+26
+00:01:47,240 --> 00:01:48,360
+I'm Jen White.
+我是詹·怀特。
+
+27
+00:01:48,360 --> 00:01:50,440
+You're listening to the What A Podcast.
+你正在听的是《什么》播客。
+
+28
+00:01:50,440 --> 00:01:54,860
+Today we're talking with two professionals who tackle these civics questions for a living.
+今天，我们采访了两位靠解决这些公民问题为生的专业人士。
+
+29
+00:01:54,860 --> 00:01:57,440
+We hear from them right after this short break.
+在短暂休息之后，我们将立刻听到他们的声音。
+
+30
+00:02:20,440 --> 00:02:25,440
+Give the gift of scratchers from the California Lottery.
+节日送礼，就送加州彩票的刮刮乐。
+
+31
+00:02:25,440 --> 00:02:27,440
+A little play can make your day.
+小玩一下，开心一天。
+
+32
+00:02:27,440 --> 00:02:28,440
+Please play responsibly.
+请理性购彩。
+
+33
+00:02:28,440 --> 00:02:31,440
+Must be 18 years or older to purchase, play or claim.
+购买、游玩或兑奖须年满 18 岁。
+
+34
+00:02:36,440 --> 00:02:37,440
+This is Civics 101.
+这是公民101。
+
+35
+00:02:37,440 --> 00:02:38,440
+I'm Hannah McCarthy.
+我是汉娜·麦卡锡。
+
+36
+00:02:38,440 --> 00:02:42,440
+Today we are bringing you our conversation about the midterms on 1A.
+今天，我们为您带来关于中期选举的对话。
+
+37
+00:02:44,440 --> 00:02:49,440
+Joining me in studio at New Hampshire Public Radio for our discussion on Civics
+今天，我们与尼·卡波迪在新罕布什尔公共广播电台的演播室共同探讨公民议题。
+
+38
+00:02:49,440 --> 00:02:54,320
+Hannah McCarthy and Nick Capodice. They're the co-hosts and senior editors of the Hit Civics
+汉娜·麦卡锡和尼克·卡波迪，他们是热门公民教育播客《公民101》的联合主持人和高级编辑。
+
+39
+00:02:54,320 --> 00:03:00,720
+Education podcast, Civics 101. It's produced by NHPR. Hannah, Nick, it's great to have you.
+《公民101》播客由新罕布什尔公共广播电台制作。汉娜、尼克，很高兴见到你们。
+
+40
+00:03:00,720 --> 00:03:02,080
+It is great to be here, Jen.
+在这里，真高兴，珍。
+
+41
+00:03:02,080 --> 00:03:03,040
+Absolute pleasure.
+非常愉快。
+
+42
+00:03:03,040 --> 00:03:07,200
+So as we said, Election Day is less than five weeks away, but people are already
+正如我们所说，选举日距离不到五周，但人们已经在一些州开始提前投票了。
+
+43
+00:03:07,200 --> 00:03:14,560
+voting early in some states. But beyond the horse race of polls or the day-to-day politics,
+但除了民调的激烈竞争或日常政治的纷扰，
+
+44
+00:03:14,560 --> 00:03:19,440
+there's this whole election system in motion right now, in each state and county.
+如今，每个州、每个县都正处在一场完整的选举系统运行之中。
+
+45
+00:03:19,440 --> 00:03:22,440
+And we'll hear a bit from your podcast, Civics 101 later.
+我们稍后会从你的播客《公民101》中听到一点内容。
+
+46
+00:03:22,440 --> 00:03:28,560
+But what do you think most people don't know about how midterm elections work that you
+但你认为，大多数人不知道的是关于中期选举运作的什么？
+
+47
+00:03:28,560 --> 00:03:32,400
+think is maybe the most important thing for them to know, Hannah?
+你认为，这可能是对他们来说最重要的事情，汉娜？
+
+48
+00:03:32,400 --> 00:03:38,440
+I think that, I think a lot of people lose sight of the time, place, and manner as guarded
+我认为，很多人会忽视宪法所规定的选举时间、地点和方式这一事实。
+
+49
+00:03:38,440 --> 00:03:40,920
+by our Constitution, what that actually means.
+宪法实际上意味着什么。
+
+50
+00:03:40,920 --> 00:03:43,560
+I think often we hear journalists say that.
+我认为，我们经常听到记者说这一点。
+
+51
+00:03:43,560 --> 00:03:49,680
+The C journalists say that in TV, on radio, in print, states are in charge of the time,
+记者们说，在电视、广播、印刷媒体上，各州负责选举的时间、
+
+52
+00:03:49,680 --> 00:03:51,560
+place, and manner of elections.
+地点和方式。
+
+53
+00:03:51,560 --> 00:03:57,640
+And then we hear a lot of information about how the presidential administration is trying
+然后我们听到大量关于总统行政机构试图干预的信息
+
+54
+00:03:57,640 --> 00:04:02,560
+to affect, for example, the manner of elections.
+试图影响，例如选举的方式。
+
+55
+00:04:02,560 --> 00:04:07,460
+And those two things are in conflict because it is something that is guarded by the Constitution.
+而这两种情况是相互冲突的，因为这是宪法所保护的内容。
+
+56
+00:04:07,460 --> 00:04:11,960
+But when you are hearing over and over again that there is someone or something saying,
+但当你反复听到有人或某种力量说
+
+57
+00:04:11,960 --> 00:04:17,760
+I'm going to change this, and then you have a constitution that is guarding that.
+我要改变这一点，然后你就会有一个宪法在保护它。
+
+58
+00:04:17,760 --> 00:04:23,920
+That confusion alone, I think, can lead voters to feel disempowered to be not quite sure about
+这种混乱本身，我认为，会使选民感到无力，对
+
+59
+00:04:23,920 --> 00:04:27,140
+what is going on when it comes to actually voting.
+实际投票时的情况感到不确定。
+
+60
+00:04:27,140 --> 00:04:32,280
+In the case of this midterm, and we're thinking about, you know, mail-in ballot, absentee
+在本次中期选举的情况下，我们考虑的是，比如邮寄投票这种形式，
+
+61
+00:04:32,280 --> 00:04:38,000
+ballot changes that were ordered by the Trump administration, then you have to see what the
+邮寄投票形式的变更是否由特朗普政府下令，然后你得看看法院说了什么，
+
+62
+00:04:38,000 --> 00:04:41,720
+courts have actually said, and then you have to ask whether or not your state, the one
+法院实际上说了什么，然后你得问一下，你们州是否在时间、地点和方式上会实施这些规定。
+
+63
+00:04:41,720 --> 00:04:46,320
+in charge of the time, place, and manner is going to be implementing that.
+是否会在时间、地点和方式上执行这些规定。
+
+64
+00:04:46,320 --> 00:04:52,020
+And so when it comes to what I wish more voters knew about approaching voting, approaching
+因此，当谈到人们应该更了解的关于投票的那些事情时，
+
+65
+00:04:52,020 --> 00:04:56,560
+the midterm election, your local election officials are still in charge.
+在中期选举中，你们当地的选举官员仍然负责。
+
+66
+00:04:56,560 --> 00:05:01,020
+They are still the ones who are determining the way that things are going to go.
+他们仍然是决定事情走向的人。
+
+67
+00:05:01,020 --> 00:05:05,400
+And those are the people you can look to for information about the election in your state
+而这些人正是你可以在本州获取选举信息的依靠。
+
+68
+00:05:05,400 --> 00:05:07,640
+because it does vary from state to state.
+因为各州之间存在差异。
+
+69
+00:05:07,640 --> 00:05:11,760
+the way things look and behave vary from state to state,
+事情的表象和表现各州之间各不相同。
+
+70
+00:05:11,760 --> 00:05:13,680
+that doesn't mean they're not functioning.
+这并不意味着它们没有发挥作用。
+
+71
+00:05:13,680 --> 00:05:16,000
+That actually means they are functioning exactly
+这实际上意味着它们正完全地
+
+72
+00:05:16,000 --> 00:05:18,680
+as the Constitution allows them to.
+按照宪法赋予它们的权限在运作。
+
+73
+00:05:18,680 --> 00:05:20,520
+We hear from so many of our listeners
+我们听到来自众多听众的反馈。
+
+74
+00:05:20,520 --> 00:05:24,120
+who volunteer as poll workers.
+那些自愿担任投票站工作人员的人。
+
+75
+00:05:24,120 --> 00:05:26,700
+And I won't say that the Venn diagram is a circle,
+我不会说韦恩图是一个圆圈，
+
+76
+00:05:26,700 --> 00:05:29,520
+but the overlap is pretty close.
+但它们的重叠部分非常接近。
+
+77
+00:05:29,520 --> 00:05:30,880
+And one of the things they say is,
+他们提到的其中一个要点是，
+
+78
+00:05:30,880 --> 00:05:34,240
+if you want to understand how elections work where you live,
+如果你想了解你所在地区选举是如何运作的，
+
+79
+00:05:34,240 --> 00:05:36,480
+that is a great way to learn
+那就是一个很好的学习方式。
+
+80
+00:05:36,480 --> 00:05:38,640
+and to also then trust the system
+而且还能因此更加信任这个系统。
+
+81
+00:05:38,640 --> 00:05:40,140
+because you see how it works.
+因为你亲眼看到了它的运作方式。
+
+82
+00:05:40,140 --> 00:05:42,400
+Now, you both have covered midterms in depth
+现在，你们俩在播客中都深入探讨过中期选举，
+
+83
+00:05:42,400 --> 00:05:44,920
+on your podcast as part of this five part series.
+在你们的播客中作为这个五部分系列的一部分。
+
+84
+00:05:44,920 --> 00:05:47,600
+And this was for the last midterm election in 2022.
+这正是针对2022年那场最近的中期选举。
+
+85
+00:05:47,600 --> 00:05:49,360
+You opened with a list of five reasons
+你开头列出了五个理由，
+
+86
+00:05:49,360 --> 00:05:51,520
+why midterm elections matter.
+说明中期选举为何重要。
+
+87
+00:05:51,520 --> 00:05:53,760
+So number one is the president
+所以第一点是总统
+
+88
+00:05:53,760 --> 00:05:55,640
+is gonna take it on the chin,
+他要亲自承担后果
+
+89
+00:05:55,640 --> 00:05:57,480
+well, at least most of the time.
+好吧，至少大多数时候
+
+90
+00:05:57,480 --> 00:05:59,520
+Midterm elections, many times are called
+中期选举中，经常被称为
+
+91
+00:05:59,520 --> 00:06:01,400
+a referendum on the president.
+对总统的一次公投
+
+92
+00:06:01,400 --> 00:06:03,840
+And what that means is people are going to the polls,
+而这意味着人们将前往投票站
+
+93
+00:06:03,840 --> 00:06:08,800
+not so much just voting on local issues, which they do a lot, but they're really kind of
+不仅仅是在投票决定地方议题，他们确实会这么做，但其实他们更是在
+
+94
+00:06:08,800 --> 00:06:13,720
+judging and evaluating the president and deciding if they want to give them full reign to do
+评估和评判总统，并决定是否要给予他充分的权力去执行
+
+95
+00:06:13,720 --> 00:06:18,400
+what they're doing or if they think that checks and balances might be in order to reign
+他们正在做的事，或者他们认为制衡机制可能需要调整，以更好地约束
+
+96
+00:06:18,400 --> 00:06:20,120
+that president in a little bit.
+总统在不久的将来。
+
+97
+00:06:20,120 --> 00:06:24,920
+So if you love the president, love, love, love what he's doing, this is a thumbs up.
+所以如果你热爱总统，热爱他正在做的事，这就是一个赞。
+
+98
+00:06:24,920 --> 00:06:29,240
+Or if you're super frustrated with the president, even though he's not on the ballot, you can
+或者如果你对总统感到极度不满，即使他不在选举名单上，你也可以
+
+99
+00:06:29,240 --> 00:06:31,520
+take your frustrations out on his party.
+把你的不满发泄到他的政党身上。
+
+100
+00:06:31,520 --> 00:06:35,560
+So the midterm elections wind up being important because of what we get in the moderate is
+所以中期选举之所以重要，是因为我们看到的是中间派的
+
+101
+00:06:35,560 --> 00:06:37,940
+as it's called surge and decline.
+所谓的上升与衰退。
+
+102
+00:06:37,940 --> 00:06:38,940
+This is Dan Casino.
+这就是2022年。
+
+103
+00:06:38,940 --> 00:06:43,680
+I'm Dan Casino, an associate professor of political science at Fairleigh Dickinson University.
+我是丹·卡西诺，费尔利迪金大学政治学副教授。
+
+104
+00:06:43,680 --> 00:06:48,080
+Now political science spent a lot of time worrying about surge and decline, but the basic principle
+现在政治科学花了大量时间担忧起伏与衰退，但基本原理是
+
+105
+00:06:48,080 --> 00:06:53,940
+is this, whichever party did better in the presidential election does worse in the midterm
+就是这个，无论哪一方在总统大选中表现更好，到了中期选举都会表现更差
+
+106
+00:06:53,940 --> 00:06:54,940
+election.
+的选举结果
+
+107
+00:06:54,940 --> 00:06:55,940
+Okay, Nick.
+好吧，尼克。
+
+108
+00:06:55,940 --> 00:07:00,940
+So to what extent are we seeing this midterm follow,
+那么，我们到底在多大程度上看到了这种中期选举的跟进现象？
+
+109
+00:07:00,940 --> 00:07:03,660
+this nearly cardinal rule?
+这种近乎基本的规律？
+
+110
+00:07:03,660 --> 00:07:06,180
+Yeah, so, you know, what Dan Casino, by the way,
+是的，你知道吗，顺便说一下，丹·卡西诺
+
+111
+00:07:06,180 --> 00:07:08,500
+is one of our favorite guests to have on Civic Sonoma.
+是我们最喜欢的嘉宾之一，出现在公民索诺玛节目里。
+
+112
+00:07:08,500 --> 00:07:11,100
+He breaks down these complicated issues so easily
+他能把这些复杂的问题讲得如此简单明了
+
+113
+00:07:11,100 --> 00:07:13,700
+for folks like me to understand, which I adore.
+让像我这样的人能够理解，这正是我所喜爱的。
+
+114
+00:07:13,700 --> 00:07:15,580
+This midterm election, my goodness,
+这次中期选举，天哪，看起来有点不一样了。
+
+115
+00:07:15,580 --> 00:07:17,220
+it's looking to be a little bit different
+它看起来要有点不同。
+
+116
+00:07:17,220 --> 00:07:18,120
+than once in the past.
+比起过去的一次。
+
+117
+00:07:18,120 --> 00:07:20,660
+We always say that midterm elections are a great time
+我们总是说中期选举是个好时机。
+
+118
+00:07:20,660 --> 00:07:22,420
+for you to flex your civic muscles,
+让你展示自己的公民责任感。
+
+119
+00:07:22,420 --> 00:07:24,260
+because your vote matters a lot more,
+因为你的投票分量更重。
+
+120
+00:07:24,260 --> 00:07:26,100
+because more people stay at home.
+因为更多人选择待在家里。
+
+121
+00:07:26,100 --> 00:07:27,740
+I don't know if that's gonna be the case
+我不知道这种情况是否会出现。
+
+122
+00:07:27,740 --> 00:07:28,820
+in the upcoming midterms.
+在即将到来的中期选举中。
+
+123
+00:07:28,820 --> 00:07:31,500
+So it's like, if you look at just campaign spending,
+所以，如果你只看竞选支出的话，
+
+124
+00:07:31,500 --> 00:07:34,380
+right now the 2026 midterms are out spending
+目前2026年的中期选举正在花费大量资金。
+
+125
+00:07:34,380 --> 00:07:36,620
+the 2016 presidential election.
+和2016年的总统大选相比。
+
+126
+00:07:36,620 --> 00:07:39,180
+Like people really care about this one.
+就像人们真的在乎这件事一样。
+
+127
+00:07:39,180 --> 00:07:42,020
+And I think people are gonna come out and vote a lot.
+而且我认为人们会纷纷出来投票。
+
+128
+00:07:42,020 --> 00:07:44,620
+But yes, it will be a referendum on the president.
+但没错，这将是一次对总统的公投。
+
+129
+00:07:44,620 --> 00:07:47,340
+But when we look at that increase in spending
+但当我们审视中期选举中支出的激增时，
+
+130
+00:07:47,340 --> 00:07:49,580
+in the midterms, is that coming from,
+这笔支出究竟来自哪里？
+
+131
+00:07:49,580 --> 00:07:54,320
+you know, the 10, 20, $30 donor,
+你知道，是那些10、20、30美元的捐赠者，
+
+132
+00:07:54,320 --> 00:07:56,200
+or is it coming from the billionaires
+还是来自亿万富翁们？
+
+133
+00:07:56,200 --> 00:07:58,720
+who are pouring a ton of money into some of these races?
+那些正在向一些选举项目倾注大量资金的亿万富翁们？
+
+134
+00:07:58,720 --> 00:08:01,220
+Yeah, we did an episode on billionaires in general.
+是的，我们之前专门做过关于亿万富翁的专题。
+
+135
+00:08:01,220 --> 00:08:03,560
+And yeah, it's coming from the billionaires.
+而且没错，这笔钱确实来自亿万富翁们。
+
+136
+00:08:03,560 --> 00:08:05,860
+I just read a report that 25 people,
+我刚读到一份报告，说有25人，
+
+137
+00:08:05,860 --> 00:08:09,540
+just 25 people account for just under a billion dollars
+仅仅25人占了不到10亿美元
+
+138
+00:08:09,540 --> 00:08:12,440
+and campaign spending for these upcoming midterms.
+以及这些中期选举的竞选支出。
+
+139
+00:08:12,440 --> 00:08:15,240
+We're looking at 2.6 billion total so far
+我们目前看到的总金额是26亿美元
+
+140
+00:08:15,240 --> 00:08:16,200
+and it could go up and up.
+而且它可能还会继续上涨。
+
+141
+00:08:16,200 --> 00:08:18,320
+It could be a record breaking spend.
+这可能创下纪录。
+
+142
+00:08:18,320 --> 00:08:20,440
+But yeah, it's small people who have a lot of money.
+但确实，是少数人拥有大量资金。
+
+143
+00:08:20,440 --> 00:08:24,540
+And this is important because if you're running for office
+而且这一点很重要，因为如果你要竞选公职
+
+144
+00:08:24,540 --> 00:08:27,400
+and you're giving a speech, you used to be able to be,
+并且你要发表演讲，过去你本可以做到，
+
+145
+00:08:27,400 --> 00:08:29,240
+you were giving that speech for a ton of people
+你曾是为成千上万的人发表演讲
+
+146
+00:08:29,240 --> 00:08:32,040
+to try to get their vote or try to get their support.
+以争取他们的选票或支持。
+
+147
+00:08:32,040 --> 00:08:34,800
+Now you can be giving a speech for an audience of one,
+现在你完全可以对着一个听众发表演讲，
+
+148
+00:08:34,800 --> 00:08:37,240
+one billionaire who's going to single-handedly
+一个亿万富翁独自一人
+
+149
+00:08:37,240 --> 00:08:39,000
+fund your campaign.
+资助你的竞选活动。
+
+150
+00:08:39,000 --> 00:08:41,800
+Well, if you look at the 2022 midterms,
+好吧，如果你看看2022年的中期选举，
+
+151
+00:08:41,800 --> 00:08:43,560
+President Biden and the Democratic Party
+拜登总统和民主党
+
+152
+00:08:43,560 --> 00:08:45,880
+didn't do that poorly.
+并没有表现得多么糟糕。
+
+153
+00:08:45,880 --> 00:08:48,400
+Now they lost control of the House of Representatives.
+现在他们失去了对众议院的控制权。
+
+154
+00:08:48,400 --> 00:08:52,520
+They lost a net of nine seats in that election,
+在那场选举中，他们净丢了九个席位，
+
+155
+00:08:52,520 --> 00:08:54,560
+but they did keep control of the Senate, Hannah.
+但还是保住了参议院的控制权，Hannah。
+
+156
+00:08:54,560 --> 00:08:58,400
+So what do you make of that last election
+那么，你对那场最近的选举有什么看法？
+
+157
+00:08:58,400 --> 00:09:01,920
+when there wasn't a Republican red wave?
+当并没有出现共和党的红色浪潮时呢？
+
+158
+00:09:01,920 --> 00:09:06,040
+That is something that was a little bit unusual.
+那确实是一件有点不寻常的事。
+
+159
+00:09:06,040 --> 00:09:08,560
+I mean, I think it also speaks to who is actually
+我意思是，我认为这也能说明到底是谁在实际参与
+
+160
+00:09:08,560 --> 00:09:12,200
+turning out for various elections, right?
+在各种选举中现身，对吧？
+
+161
+00:09:12,200 --> 00:09:14,720
+And as Nick said, fewer people turn out for midterms.
+而且正如尼克所说，参加中期选举的人数减少了。
+
+162
+00:09:14,720 --> 00:09:16,760
+I think that was still true in 2022.
+我认为这在2022年仍然成立。
+
+163
+00:09:16,760 --> 00:09:18,760
+The numbers will go up.
+数字会增加。
+
+164
+00:09:18,760 --> 00:09:20,560
+They vacillate quite a bit.
+它们波动相当大。
+
+165
+00:09:20,560 --> 00:09:23,920
+However, oftentimes, the people who
+然而，很多时候，那些
+
+166
+00:09:23,920 --> 00:09:26,360
+are not showing up for the general election
+没有参加普选的人
+
+167
+00:09:26,360 --> 00:09:28,600
+are certainly not showing up for the midterm election.
+肯定没有参加中期选举。
+
+168
+00:09:28,600 --> 00:09:31,800
+And that can explain why you might not
+而且这可以解释为什么你可能看不到
+
+169
+00:09:31,800 --> 00:09:34,200
+see these waves that were predicted.
+那些被预测到的波动。
+
+170
+00:09:34,200 --> 00:09:37,160
+I think also you had the Democrats predicting this blue wave,
+我认为你们也看到民主党曾预测过这次蓝色浪潮，
+
+171
+00:09:37,160 --> 00:09:38,520
+which they did not see.
+他们并没有看到。
+
+172
+00:09:38,520 --> 00:09:41,920
+You can also then look to the fact, well, Biden was elected.
+你也可以看看这个事实：好吧，拜登确实当选了。
+
+173
+00:09:41,920 --> 00:09:45,040
+And then in the midterm, often you'll see parties saying,
+然后在中期选举中，你常常会看到各党派说，
+
+174
+00:09:45,040 --> 00:09:47,160
+well, let's get that wave going again.
+好吧，让我们再掀起那股浪潮。
+
+175
+00:09:47,160 --> 00:09:48,440
+We had it before.
+我们之前也经历过。
+
+176
+00:09:48,440 --> 00:09:50,600
+But people will turn out for the general election, who,
+但那些在大选中会投票的人，
+
+177
+00:09:50,600 --> 00:09:52,640
+again, will not turn out for the midterms.
+再次，不会去参加中期选举。
+
+178
+00:09:52,640 --> 00:09:55,800
+You really cannot rely on voters to necessarily show up
+你真的不能指望选民一定会到场
+
+179
+00:09:55,800 --> 00:09:57,920
+and give you what you want for either wave
+并为你带来任何一波浪潮的成果。
+
+180
+00:09:57,920 --> 00:09:59,080
+during the midterms.
+在中期选举中。
+
+181
+00:09:59,080 --> 00:10:00,920
+I think it requires a very different approach.
+我认为这需要一种截然不同的方法。
+
+182
+00:10:00,920 --> 00:10:03,960
+But as Nick was saying in the 2026 midterm,
+但正如尼克在2026年中期所提到的，
+
+183
+00:10:03,960 --> 00:10:06,400
+this immense amount of spending and press coverage on it
+对这一点投入了巨额资金和媒体关注
+
+184
+00:10:06,400 --> 00:10:09,920
+might result in yet another not quite predictable outcome
+可能会导致另一个并不完全可预测的结果
+
+185
+00:10:09,920 --> 00:10:11,360
+when it comes to counting those votes.
+当涉及到计票时。
+
+186
+00:10:11,360 --> 00:10:15,080
+Let's talk about that press coverage because we can talk about the news media, but people
+让我们来谈谈这种媒体关注，因为我们可以讨论新闻媒体，但人们
+
+187
+00:10:15,080 --> 00:10:20,320
+get their information from a lot of sources that are not considered traditional news media
+从许多并非传统新闻媒体的渠道获取信息
+
+188
+00:10:20,320 --> 00:10:21,320
+outlets.
+媒体平台。
+
+189
+00:10:21,320 --> 00:10:26,800
+But there are also, I mean, 50 million Americans who don't have the source for local news
+但也有另外一些人，我指的是，5000万美国人已经失去了获取本地新闻的渠道
+
+190
+00:10:26,800 --> 00:10:27,800
+anymore.
+再没有了。
+
+191
+00:10:27,800 --> 00:10:33,360
+So when we're talking about not the presidential race, but those down ballot races, Nick, what
+所以当我们谈论的不是总统大选，而是那些下位选票的选举时，尼克，你
+
+192
+00:10:33,360 --> 00:10:35,720
+does the information landscape look like right now?
+现在本地媒体的资讯图景是怎样的？
+
+193
+00:10:35,720 --> 00:10:38,600
+Jen, it's a little bit of a disaster.
+詹，这简直是一场灾难。
+
+194
+00:10:38,600 --> 00:10:43,640
+because of the decline and I could say the death of local media, local newspapers.
+因为媒体的衰落，我可以说本地媒体、本地报纸已经走向终结。
+
+195
+00:10:43,640 --> 00:10:48,440
+So most people, including me, you get into that ballot box or you get into that voting
+所以大多数人，包括我，当你走进投票箱或者走进投票站时
+
+196
+00:10:48,440 --> 00:10:51,680
+booth, and you got your phone out and you're sweating and you're like, I don't know who
+你掏出手机，手心冒汗，还心想，我根本不知道
+
+197
+00:10:51,680 --> 00:10:54,360
+this person is who's running for registrar of deeds.
+这个人是谁，他竟在竞选土地登记官。
+
+198
+00:10:54,360 --> 00:10:55,360
+Right.
+对。或者，这份工作到底是什么。
+
+199
+00:10:55,360 --> 00:10:56,360
+Or what that job even is.
+或者，这份工作到底是什么。
+
+200
+00:10:56,360 --> 00:11:00,280
+And that's what Hannah and I try to do in our show, is break down all these jobs that
+而这也是汉娜和我在这档节目中想要做到的，就是把所有这些工作拆解开来
+
+201
+00:11:00,280 --> 00:11:03,520
+are super, super important to your life that you might not know.
+都是非常关键、非常重要的，你可能并不知道。
+
+202
+00:11:03,520 --> 00:11:06,940
+We always say, the person you elect locally
+我们总是说，你所选举的本地人选
+
+203
+00:11:06,940 --> 00:11:09,060
+is far more important to your day-to-day life
+对你的日常生活来说，远比
+
+204
+00:11:09,060 --> 00:11:12,100
+than the big, sexy federal election.
+那场轰轰烈烈的联邦大选更重要。
+
+205
+00:11:12,100 --> 00:11:14,580
+Whether or not you have a stop sign at the end of your street
+无论你家门口有没有一个红绿灯，
+
+206
+00:11:14,580 --> 00:11:17,900
+is more impactful to your life than who is your senator.
+对你的生活影响比你选的参议员更大。
+
+207
+00:11:17,900 --> 00:11:20,820
+So it's really important in a midterm election
+因此，在中期选举中，
+
+208
+00:11:20,820 --> 00:11:24,300
+to spend the time beforehand to research these people
+花时间提前去了解这些候选人
+
+209
+00:11:24,300 --> 00:11:25,940
+and research what these jobs are
+并研究这些职位到底是什么
+
+210
+00:11:25,940 --> 00:11:27,060
+that you're gonna be voting for.
+你即将投票决定的那些职位。
+
+211
+00:11:27,060 --> 00:11:28,660
+But for people who are living in a place
+但对那些居住在地方上缺乏足够本地选举信息的人而言，
+
+212
+00:11:28,660 --> 00:11:31,580
+where there isn't enough local news coverage,
+在地方新闻报道不足的地方，
+
+213
+00:11:31,580 --> 00:11:34,460
+where can they turn for this information, Hannah?
+他们要如何获取这些信息，汉娜？
+
+214
+00:11:34,460 --> 00:11:38,180
+I find ballotpedia to be unbelievably helpful
+我发现Ballotpedia极其有用，
+
+215
+00:11:38,180 --> 00:11:40,380
+when it comes to my own research.
+在进行我的个人研究时。
+
+216
+00:11:40,380 --> 00:11:44,180
+The fact that this organization breaks down
+事实上，这个组织将
+
+217
+00:11:44,180 --> 00:11:46,740
+these state and local elections so precisely.
+这些州和地方选举分解得如此精确。
+
+218
+00:11:46,740 --> 00:11:48,420
+You can go and you can see
+你可以去，你就能看到
+
+219
+00:11:48,420 --> 00:11:50,780
+what local elections are happening in your state.
+你所在州的本地选举情况。
+
+220
+00:11:50,780 --> 00:11:52,820
+Ballotpedia is also covering
+Ballotpedia还涵盖了
+
+221
+00:11:52,820 --> 00:11:55,020
+the top 100 most populous cities
+人口最多的前100个城市
+
+222
+00:11:55,020 --> 00:11:57,380
+who are having various elections,
+正在举行各种选举的地区，
+
+223
+00:11:57,380 --> 00:11:59,740
+including 30 mayoral elections.
+包括30场市长选举。
+
+224
+00:11:59,740 --> 00:12:03,420
+And it is there that you can find that, for example,
+在那里，你可以找到这一点，比如，
+
+225
+00:12:03,420 --> 00:12:07,700
+of those 30 mayoral elections, 29 of them are nonpartisan.
+在那些30场市长选举中，有29场是非党派的。
+
+226
+00:12:07,700 --> 00:12:08,980
+What does that mean?
+那是什么意思？
+
+227
+00:12:08,980 --> 00:12:12,540
+It means that you may have to do a little bit more research
+这意味着你可能需要做一点额外的研究
+
+228
+00:12:12,540 --> 00:12:14,180
+to actually understand who someone is,
+以真正理解某人是谁，
+
+229
+00:12:14,180 --> 00:12:16,180
+because you're not gonna see a little D or a little R
+因为你不会看到那个候选人名字旁边有个小D或小R
+
+230
+00:12:16,180 --> 00:12:18,660
+or a little I next to that candidate's name.
+或者名字旁边有个小I。
+
+231
+00:12:18,660 --> 00:12:20,940
+So the resources are out there.
+所以这些资源是存在的。
+
+232
+00:12:20,940 --> 00:12:24,100
+And even if you do not have that local coverage,
+即使你没有这种地方性报道，
+
+233
+00:12:24,100 --> 00:12:26,460
+to Pernick's point, you can find out
+根据佩尼克的观点，你可以了解到
+
+234
+00:12:26,460 --> 00:12:28,780
+what form of government you live in, they vary.
+你们所生活的政府体制是什么，它们各不相同。
+
+235
+00:12:28,780 --> 00:12:32,940
+And you can find out whether your mayor has a great deal of power, maybe not so much.
+你可以看看你的市长究竟有多大权力，也许并没有那么大。
+
+236
+00:12:32,940 --> 00:12:37,820
+And you can find out, you know, if you are voting for a coroner or a register of deeds,
+你可以了解一下，你是否在投票选举一名验尸官或土地登记官。
+
+237
+00:12:37,820 --> 00:12:43,660
+what those roles are. And then ideally, you know, look to Facebook, look to Instagram.
+这些职位具体是做什么的。然后理想情况下，你可以看看脸书，看看Instagram。
+
+238
+00:12:43,660 --> 00:12:48,220
+Candidates are sometimes putting out their policy positions right there,
+候选人有时会直接在这些平台上公布他们的政策立场，
+
+239
+00:12:48,220 --> 00:12:50,060
+even if they're not being covered by the media.
+即使媒体没有报道。
+
+240
+00:12:50,060 --> 00:12:55,020
+Nick, there are so many races on, especially on those down valid races where there's one candidate.
+尼克，现在有这么多选举，尤其是在那些仅有一名候选人的选举中。
+
+241
+00:12:55,020 --> 00:12:56,020
+Yeah.
+嗯。
+
+242
+00:12:56,020 --> 00:12:57,020
+Right?
+对吧？
+
+243
+00:12:57,020 --> 00:12:58,020
+There's not a choice.
+没有选择。
+
+244
+00:12:58,020 --> 00:12:59,020
+There's just one person.
+就只有一人。
+
+245
+00:12:59,020 --> 00:13:02,380
+What do you suggest people do in those cases?
+你建议人们在那些情况下该怎么做？
+
+246
+00:13:02,380 --> 00:13:06,460
+Well, you know, you should look at who that person is and decide if you wish to vote for
+嗯，你知道，你应该看看那个人是谁，然后决定是否想投他一票
+
+247
+00:13:06,460 --> 00:13:07,460
+them or not.
+或者不投他。
+
+248
+00:13:07,460 --> 00:13:09,900
+You always have an option to leave, you know, something blank.
+你总是有选择不投，你知道，可以留空。
+
+249
+00:13:09,900 --> 00:13:14,420
+I was thinking about this actually because, you know, when we compare democracies around
+我其实正在想这个问题，因为你知道，当我们比较世界各地的民主制度时
+
+250
+00:13:14,420 --> 00:13:18,580
+the world, we see how they do voting and how they do like midterm elections.
+我们会看到他们是如何进行投票的，以及他们如何处理中期选举的。
+
+251
+00:13:18,580 --> 00:13:22,940
+Some countries, I'm thinking of Australia in particular, you don't actually pick names.
+有些国家，比如我特别想到的澳大利亚，你实际上并不需要选名字。
+
+252
+00:13:22,940 --> 00:13:24,540
+You just write numbers and names.
+你只需要填写数字和姓名。
+
+253
+00:13:24,540 --> 00:13:27,020
+is all ranked choice voting and it's mandatory.
+这都是排序选择投票制，而且是强制性的。
+
+254
+00:13:27,020 --> 00:13:28,740
+Everybody has to vote.
+每个人都要投票。
+
+255
+00:13:28,740 --> 00:13:30,580
+It's so different in the US.
+在美国这完全不同。
+
+256
+00:13:30,580 --> 00:13:32,540
+So when we have just one person,
+所以当只有一个人时，
+
+257
+00:13:32,540 --> 00:13:34,780
+you should research that one person
+你应该研究这个人
+
+258
+00:13:34,780 --> 00:13:37,320
+and decide whether or not you wanna leave it blank.
+并决定是否留空。
+
+259
+00:13:37,320 --> 00:13:38,860
+We also heard from Jan in Florida
+我们还听到了佛罗里达州一位叫简的人说
+
+260
+00:13:38,860 --> 00:13:41,220
+who says I'm a retired teacher in principal.
+她说‘我是一名退休的校长。’,
+
+261
+00:13:41,220 --> 00:13:43,340
+If kids don't experience decision making
+如果孩子们没有经历过决策过程
+
+262
+00:13:43,340 --> 00:13:46,180
+and some sense of how democracy works in schools,
+以及在学校里对民主运作方式的一些理解
+
+263
+00:13:46,180 --> 00:13:48,140
+how can we expect them to understand civics
+我们又怎么能指望他们在成年之后理解公民教育呢？
+
+264
+00:13:48,140 --> 00:13:49,500
+when they get to voting age?
+当他们到了投票年龄时呢？
+
+265
+00:13:49,500 --> 00:13:52,100
+Many schools have stopped class and school elections
+许多学校已经停止了班级和学校选举
+
+266
+00:13:52,100 --> 00:13:53,660
+and mock elections.
+以及模拟选举。
+
+267
+00:13:53,660 --> 00:13:55,820
+Teachers are the dictators of their classrooms
+老师是他们课堂的独裁者
+
+268
+00:13:55,820 --> 00:13:58,280
+and principals are the dictator of their schools.
+而校长是他们学校的独裁者。
+
+269
+00:13:58,280 --> 00:14:02,380
+Is it any wonder why we have passive adults?
+我们为何会有被动的成年人，难道不是吗？
+
+270
+00:14:02,380 --> 00:14:04,820
+That's a really interesting perspective there,
+那确实是一个非常有趣的视角，
+
+271
+00:14:04,820 --> 00:14:07,260
+but I remember growing up, we had elections
+但我记得小时候，我们有过选举
+
+272
+00:14:07,260 --> 00:14:12,260
+and you would campaign for your schoolmates' vote.
+你们会为同学的选票进行宣传。
+
+273
+00:14:12,680 --> 00:14:16,660
+Do you think just like removing that process from schools
+你认为，就像从学校中移除这个过程一样，
+
+274
+00:14:16,660 --> 00:14:19,780
+also removes young children very early on
+也剥夺了孩子们非常早期的投票体验？
+
+275
+00:14:19,780 --> 00:14:21,820
+from the democratic process, Hannah?
+从民主过程中的参与，汉娜？
+
+276
+00:14:21,820 --> 00:14:25,460
+I think that it is not just the removal of school elections.
+我认为这不仅仅是学校选举的取消。
+
+277
+00:14:25,460 --> 00:14:28,580
+I think that it is an immense amount of wariness
+我认为这体现了一种极大的戒备心理。
+
+278
+00:14:28,580 --> 00:14:31,460
+when it comes to disagreeing with other people.
+当涉及到与他人意见相左时。
+
+279
+00:14:31,460 --> 00:14:35,100
+If we are not giving students an opportunity
+如果我们没有给学生一个机会
+
+280
+00:14:35,100 --> 00:14:36,900
+to disagree, to have a conversation,
+去表达不同意见、进行对话，
+
+281
+00:14:36,900 --> 00:14:38,480
+and to work through those differences
+并共同解决这些分歧
+
+282
+00:14:38,480 --> 00:14:39,920
+and try to come to a solution,
+并尝试达成共识，
+
+283
+00:14:39,920 --> 00:14:43,380
+I think that can be great when it comes to a school committee,
+我认为这在学校的委员会中会非常有价值，
+
+284
+00:14:43,380 --> 00:14:46,140
+to a student election.
+到学生选举中。
+
+285
+00:14:46,140 --> 00:14:47,260
+But I think it's not just that.
+但我觉得这不仅仅是这样。
+
+286
+00:14:47,260 --> 00:14:48,780
+I think in classrooms,
+我认为在课堂上，
+
+287
+00:14:48,780 --> 00:14:51,460
+if we can facilitate that civil discourse,
+如果我们能促进这种文明的对话，
+
+288
+00:14:51,460 --> 00:14:54,620
+which at this point seems like a unicorn, right?
+而这一点在目前看来似乎就像独角兽一样，对吧？
+
+289
+00:14:54,620 --> 00:14:56,660
+We talk about this all the time at Civics 101,
+我们一直在公民课101上讨论这个问题，
+
+290
+00:14:56,660 --> 00:14:58,260
+but the idea of actually achieving that
+但实现这一点的想法
+
+291
+00:14:58,260 --> 00:15:00,020
+seems so impossible.
+似乎是不可能的。
+
+292
+00:15:00,020 --> 00:15:02,220
+But I really encourage people,
+但我真的鼓励人们，
+
+293
+00:15:02,220 --> 00:15:04,260
+if you are looking to the framers,
+如果你在关注制宪者们，
+
+294
+00:15:04,260 --> 00:15:06,060
+if you are looking to the history of the United States,
+如果你在关注美国的历史，
+
+295
+00:15:06,060 --> 00:15:09,620
+you are not going to see consensus across the board.
+你将不会看到全盘的共识。
+
+296
+00:15:09,620 --> 00:15:12,740
+You will see consensus reached through disagreement,
+你会看到共识是通过分歧达成的，
+
+297
+00:15:12,740 --> 00:15:14,980
+through debate, not by fighting.
+通过辩论，而不是通过对抗。
+
+298
+00:15:14,980 --> 00:15:16,780
+It's a very important distinction.
+这是一个非常重要的区别。
+
+299
+00:15:16,780 --> 00:15:18,580
+It is not personal attacks,
+这不是人身攻击，
+
+300
+00:15:18,580 --> 00:15:21,300
+although those also occurred throughout our history.
+尽管那些也贯穿了我们的历史。
+
+301
+00:15:21,300 --> 00:15:25,180
+It is about finding a way to see what are the shared facts?
+这关乎找到一种方法，去发现我们共同认可的事实是什么？
+
+302
+00:15:25,180 --> 00:15:26,860
+What can we say we do agree on?
+我们能说清楚我们到底在哪些方面达成共识吗？
+
+303
+00:15:26,860 --> 00:15:28,340
+Are there truths here?
+这里有没有事实真相？
+
+304
+00:15:28,340 --> 00:15:29,820
+Are there things that we do agree on
+我们是否在某些事情上达成了共识？
+
+305
+00:15:29,820 --> 00:15:31,340
+in terms of what we want?
+就我们想要的东西而言？
+
+306
+00:15:31,340 --> 00:15:34,460
+Do we all want to be safe and healthy and fed?
+我们所有人是否都希望安全、健康并且得到食物？
+
+307
+00:15:34,460 --> 00:15:38,660
+And do we want to be able to read a certain book, et cetera?
+我们是否都希望可以阅读某本书，等等？
+
+308
+00:15:38,660 --> 00:15:39,540
+Can we agree on that?
+我们能否就这一点达成一致？
+
+309
+00:15:39,540 --> 00:15:42,420
+Okay, now let's see where our disagreements are.
+好吧，现在让我们看看我们的分歧在哪里。
+
+310
+00:15:42,420 --> 00:15:45,460
+And then that's where the consensus actually happens.
+然后，共识就在这里形成。
+
+311
+00:15:45,460 --> 00:15:47,980
+Well, in school elections, that term is pretty short.
+要知道，在学校选举中，这个过程其实非常短暂。
+
+312
+00:15:47,980 --> 00:15:49,700
+Maybe it's a year.
+也许是一年。
+
+313
+00:15:49,700 --> 00:15:50,980
+You're the senior class president,
+你是高年级班长，
+
+314
+00:15:50,980 --> 00:15:53,980
+and maybe you hold that position for a year.
+也许你担任这个职位一年。
+
+315
+00:15:53,980 --> 00:15:56,700
+But in your midterm series,
+但在这次中期考试中，
+
+316
+00:15:56,700 --> 00:15:58,340
+you pointed out that the length of time
+你指出，政治家任职的时间
+
+317
+00:15:58,340 --> 00:16:00,740
+politicians stay in office now,
+现在政治家任职的时间
+
+318
+00:16:00,740 --> 00:16:03,140
+running for reelection time and time again,
+不断寻求连任，
+
+319
+00:16:03,140 --> 00:16:06,100
+that that would come as a surprise to the founding fathers.
+这会令开国元勋们感到惊讶。
+
+320
+00:16:06,100 --> 00:16:07,820
+And here is the first thing
+这里就是第一件事
+
+321
+00:16:07,820 --> 00:16:11,740
+that nobody in the 1780s would have expected.
+没有人会在1780年代预料到。
+
+322
+00:16:11,740 --> 00:16:15,420
+The notion of career politicians.
+职业政治家的概念。
+
+323
+00:16:15,420 --> 00:16:18,580
+Here again is Madison scholar, Jack Raycone.
+这里再次是马德ison学者杰克·雷康。
+
+324
+00:16:18,580 --> 00:16:20,800
+Okay, now here's Madison's position though.
+好吧，现在我们来谈谈麦迪逊的观点。
+
+325
+00:16:20,800 --> 00:16:23,320
+If you're a political scientist today,
+如果你今天是一个政治科学家，
+
+326
+00:16:23,320 --> 00:16:26,740
+you would say the independent variable
+你就会说，独立变量
+
+327
+00:16:26,740 --> 00:16:29,640
+that drives political behavior today
+正是驱动当今政治行为的因素
+
+328
+00:16:29,640 --> 00:16:33,940
+is the desire to be reelected, right?
+就是希望连任，对吧？
+
+329
+00:16:33,940 --> 00:16:35,540
+That, you know, we assume that politics
+这一点，你知道，我们假设政治
+
+330
+00:16:35,540 --> 00:16:37,380
+has been professionalized.
+已经职业化了。
+
+331
+00:16:37,380 --> 00:16:39,700
+And once you're elected to Congress,
+一旦你被选入国会，
+
+332
+00:16:39,700 --> 00:16:44,180
+getting reelected is your dominant personal ambition.
+连任就成了你最主要的个人追求。
+
+333
+00:16:44,180 --> 00:16:48,340
+You know, they just want to stay on forever.
+你知道，他们只想一直待下去。
+
+334
+00:16:48,340 --> 00:16:52,140
+Massalum era when holding office was thought really
+在马萨卢姆时代，担任公职被认为真的
+
+335
+00:16:52,140 --> 00:16:54,260
+to be avocational in nature.
+是一种职业性的行为。
+
+336
+00:16:54,260 --> 00:16:57,640
+It wasn't your profession, it wasn't your career.
+这不是你的职业，也不是你的事业。
+
+337
+00:16:57,640 --> 00:16:59,340
+You could be a planter, you could be a merchant,
+你可能是个种植者，你可能是个商人，
+
+338
+00:16:59,340 --> 00:17:01,200
+you could be a lawyer, and so on.
+你可能是个律师，如此类推。
+
+339
+00:17:02,220 --> 00:17:04,660
+What are the practical implications, Nick,
+尼克，这些实际影响是什么？
+
+340
+00:17:04,660 --> 00:17:07,460
+of having career politicians?
+拥有职业政客有什么实际影响？
+
+341
+00:17:07,460 --> 00:17:08,540
+That was not something, as you said,
+正如你所说，那并不是什么，
+
+342
+00:17:08,540 --> 00:17:09,620
+that the framers imagined.
+建国者们所设想的那样。
+
+343
+00:17:09,620 --> 00:17:10,700
+No, no.
+不，不。
+
+344
+00:17:10,700 --> 00:17:13,740
+In fact, one scholar we talked to did an analysis
+事实上，我们曾和一位学者交谈过，他做了一项分析
+
+345
+00:17:13,740 --> 00:17:16,260
+of everybody's, you know, how long they stayed in office
+关于每个人，你明白的，他们任职的时长
+
+346
+00:17:16,260 --> 00:17:18,780
+from 1789 to 1900.
+从1789年到1900年。
+
+347
+00:17:18,780 --> 00:17:20,740
+And the average was three years.
+平均是三年。
+
+348
+00:17:20,740 --> 00:17:21,580
+Right, three years.
+对，三年。
+
+349
+00:17:21,580 --> 00:17:22,820
+So you do the math, that's like, you know,
+所以你们算一下，那差不多就是两年。
+
+350
+00:17:22,820 --> 00:17:25,260
+basically one to two terms that you serve.
+基本上就是一到两个任期。
+
+351
+00:17:25,260 --> 00:17:26,340
+And senators wasn't that more,
+而参议员们并不常见这种现象，
+
+352
+00:17:26,340 --> 00:17:29,940
+it was very rare for a senator to serve even two terms.
+参议员甚至服满两个任期都极为罕见。
+
+353
+00:17:29,940 --> 00:17:31,000
+So that's 12 years.
+所以那就是12年。
+
+354
+00:17:32,140 --> 00:17:35,700
+What we have now is such a ramp up of career politicians
+我们现在的情况是，职业政客的崛起如此之快，
+
+355
+00:17:35,700 --> 00:17:37,960
+and people staying in office for years and years.
+而且人们在任上持续多年。
+
+356
+00:17:37,960 --> 00:17:39,620
+And that is something James Madison and others
+这正是詹姆斯·麦迪逊等人
+
+357
+00:17:39,620 --> 00:17:40,900
+never would have foreseen.
+从未预料到的。
+
+358
+00:17:40,900 --> 00:17:43,900
+And what you have is people focusing on getting elected
+而如今你看到的是，人们更关注如何当选，
+
+359
+00:17:43,900 --> 00:17:46,340
+as opposed to what their real-life job is,
+而不是他们真实生活中的职业，
+
+360
+00:17:46,340 --> 00:17:48,540
+be they a farmer or a priest or a bartender
+无论是农民、牧师、酒吧老板
+
+361
+00:17:48,540 --> 00:17:50,540
+or something like that, usually a lawyer.
+还是其他类似职业，通常是个律师。
+
+362
+00:17:50,540 --> 00:17:52,780
+So things are different today
+所以今天情况不同了
+
+363
+00:17:52,780 --> 00:17:56,300
+and that career politicians are just the way things happen.
+而且那些职业政客就是事情发展的常态。
+
+364
+00:17:56,300 --> 00:17:58,620
+And it's a little less listening to the people
+而且现在听人们的声音要少一些
+
+365
+00:17:58,620 --> 00:18:00,740
+because you're focusing on just getting reelected
+因为你们只关注如何再次当选
+
+366
+00:18:00,740 --> 00:18:01,820
+over and over again.
+一遍又一遍。
+
+367
+00:18:07,020 --> 00:18:08,920
+We'll be right back with more of our conversation
+我们马上回来，继续我们的讨论
+
+368
+00:18:08,920 --> 00:18:11,740
+about the midterms on 1A after a break.
+在中场休息后，继续聊聊1A的中期选举。
+
+369
+00:18:13,900 --> 00:18:25,280
+Alright, fess up everyone.
+好啦，大家老实交代。
+
+370
+00:18:25,280 --> 00:18:29,380
+How many of you out there just realized the holidays are basically here and you've got
+有多少人刚刚意识到假期基本上已经到了，你们已经拥有
+
+371
+00:18:29,380 --> 00:18:34,620
+say two quirky sons to shop for and no idea what to get them.
+两个奇怪的家伙要买礼物，却不知道该送什么。
+
+372
+00:18:34,620 --> 00:18:40,300
+Thankfully there is a silver bullet for getting gifts for people who like unique strange handcrafted
+幸运的是，为那些喜欢独特、手工制作的礼物的人，终于找到了一个万能方案。
+
+373
+00:18:40,300 --> 00:18:43,740
+things and it is uncommon goods.
+这些产品来自不寻常的物品（Uncommon Goods）。
+
+374
+00:18:43,740 --> 00:18:45,820
+Pishing pole campfire roaster?
+柏木篝火烤炉？
+
+375
+00:18:45,820 --> 00:18:46,620
+Done.
+搞定。
+
+376
+00:18:46,620 --> 00:18:50,380
+16th century metal device to track the moon in tides?
+16世纪的金属设备来追踪月相潮汐？
+
+377
+00:18:50,380 --> 00:18:52,900
+Sign me up a dozen times.
+我太想要了，给我来上一打！
+
+378
+00:18:52,900 --> 00:18:54,600
+Uncommon goods looks for products
+不寻常的物品（Uncommon Goods）寻找高品质、独特、通常手工制作或在美国制造的产品。
+
+379
+00:18:54,600 --> 00:18:56,340
+that are high quality, unique,
+高品质、独特、
+
+380
+00:18:56,340 --> 00:18:59,580
+and often handmade or made in the United States.
+通常手工制作或在美国制造。
+
+381
+00:18:59,580 --> 00:19:01,180
+And they got something for everyone,
+每个人都能在那里找到合意的东西，
+
+382
+00:19:01,180 --> 00:19:03,940
+from moms and dads to kids and teens,
+从父母到孩子和青少年，
+
+383
+00:19:03,940 --> 00:19:07,580
+to arcana obsessed weather driven tarot reading eccentric,
+特别适合那些痴迷于阿卡纳、受天气驱动的塔罗占卜的古怪爱好者，
+
+384
+00:19:07,580 --> 00:19:08,500
+such as yourself.
+比如你自己。
+
+385
+00:19:08,500 --> 00:19:11,380
+Seriously, just type tarot in the search box
+真的，在搜索框里输入 tarot（塔罗），
+
+386
+00:19:11,380 --> 00:19:12,820
+and see what comes up.
+看看会搜出些什么。
+
+387
+00:19:12,820 --> 00:19:15,940
+And finally, with every purchase you make at Uncommon Goods,
+最后，你每在 Uncommon Goods 消费一次，
+
+388
+00:19:15,940 --> 00:19:19,500
+they give back $1 to a nonprofit of your choice.
+他们就向你选的一家非营利机构捐赠一美元。
+
+389
+00:19:19,500 --> 00:19:22,340
+So don't wait, cross those names off your list
+别等了，赶紧把礼物买齐，把清单上的名字一个个划掉，
+
+390
+00:19:22,340 --> 00:19:25,540
+before the rush to get 15% off your next gift,
+赶在购物高峰前下单，下一份礼物要享八五折，
+
+391
+00:19:25,540 --> 00:19:28,340
+go to uncommongoods.com slash civics.
+请访问 uncommongoods.com/civics。
+
+392
+00:19:28,340 --> 00:19:33,340
+That is uncommongoods.com slash civics for 15% off.
+网址是 uncommongoods.com/civics，可享八五折。
+
+393
+00:19:33,940 --> 00:19:37,380
+Uncommon Goods, we're all out of the ordinary.
+Uncommon Goods，我们个个都与众不同。
+
+394
+00:19:37,380 --> 00:19:46,340
+There is nothing quite like having stuff in your closet that you love and you know you
+没有什么比拥有你真正喜欢、并且知道它能派上用场的物品更令人满足的了
+
+395
+00:19:46,340 --> 00:19:51,980
+can count on for any occasion except maybe giving someone else that feeling.
+能应对任何场合，除非是想把那种感觉也传递给别人。
+
+396
+00:19:51,980 --> 00:19:55,900
+And this holiday season, Quince is where I'm finding those pieces.
+这个节日季，我就在 Quince 找到了这样的衣服。
+
+397
+00:19:55,900 --> 00:20:01,740
+Quince makes elevated, everyday essentials using premium materials like Mongolian cashmere,
+Quince用高端材料如蒙古山羊绒制作出兼具品质与日常性的基础单品。
+
+398
+00:20:01,740 --> 00:20:07,060
+Organic cotton and it is priced 50 to 80 percent less than similar brands
+有机棉，价格比同类品牌低50%到80%。
+
+399
+00:20:07,100 --> 00:20:10,820
+They work directly with ethical factories that cut out the middleman
+他们直接与道德合规的工厂合作，省去了中间商环节。
+
+400
+00:20:11,020 --> 00:20:18,380
+So you get luxury quality pieces without the luxury price tag as this lovely fall is winding to a close
+因此你能够获得高端品质的单品，而无需承担奢侈价格，就像这个美好的秋季正逐渐走向尾声一样。
+
+401
+00:20:18,380 --> 00:20:25,620
+And we slouch into winter. I wish more than anything. Someone had gifted me a yak wool hoodie
+然后我们便懒洋洋地迈入冬天。我最希望拥有的，是有人送给我一件羊绒毛衣。
+
+402
+00:20:25,940 --> 00:20:28,540
+I'm dead serious. It's good enough for the yak
+我认真地说，它完全够得上羊绒的水准。
+
+403
+00:20:28,540 --> 00:20:32,400
+I mean, it works really well for the yak, right?
+牦牛自己穿着这身毛就很管用，对吧？
+
+404
+00:20:32,400 --> 00:20:33,400
+It would work for me.
+那穿在我身上也该管用。
+
+405
+00:20:33,400 --> 00:20:35,040
+And it looks hot.
+而且穿起来很好看。
+
+406
+00:20:35,040 --> 00:20:39,080
+So give the gift of quality this holiday season.
+这个节日季，不妨送一份讲究品质的礼物。
+
+407
+00:20:39,080 --> 00:20:43,560
+Download the Quince app for app exclusive offers or go to quince.com.
+下载Quince应用以获取专属优惠，或访问quince.com。
+
+408
+00:20:43,560 --> 00:20:47,620
+Get free shipping on your order and 365 day returns.
+订单免运费，还可在 365 天内退货。
+
+409
+00:20:47,620 --> 00:20:50,960
+That available in Canada and the UK as well.
+这在加拿大和英国也都有提供。
+
+410
+00:20:50,960 --> 00:20:55,760
+And last thing, when Quince asks where you heard about him, let them know as Civics 101.
+最后一点，当Quince问你从哪里听说他时，告诉他们，是公民101（Civics 101）推荐的。
+
+411
+00:20:55,760 --> 00:20:57,760
+It's the best way to support the show.
+这是支持本节目的最好方式。
+
+412
+00:20:57,760 --> 00:20:58,600
+All right.
+好吧。
+
+413
+00:21:27,760 --> 00:21:30,760
+responsibility must be 18 years older to purchase play or claim.
+购买游戏或申请时，责任年龄必须年满18岁。
+
+414
+00:21:40,960 --> 00:21:44,560
+I'm curious to hear from both of you, you know, not where you
+我很好奇想听听你们两方面的意见，你知道的，不是你们在哪儿。
+
+415
+00:21:44,560 --> 00:21:48,260
+see the distinction between civics education and actual
+看到公民教育和实际参与之间的区别。
+
+416
+00:21:48,260 --> 00:21:50,560
+civic engagement. Nick.
+公民参与。尼克。
+
+417
+00:21:50,660 --> 00:21:55,260
+Yeah, so it is one of the most, if not the only bipartisan
+是的，这可能是最，甚至唯一一个两党都支持的
+
+418
+00:21:55,260 --> 00:21:57,060
+issues that remain in the United States.
+的问题，仍然存在于美国。
+
+419
+00:21:57,060 --> 00:21:58,860
+Everybody on the left and the right is like,
+左翼和右翼的每个人都是这样想的，
+
+420
+00:21:58,860 --> 00:22:01,860
+yes, we should have more civics education.
+是的，我们应该加强公民教育。
+
+421
+00:22:01,860 --> 00:22:03,860
+And the reason it's important is this,
+而且它之所以重要，是因为这一点，
+
+422
+00:22:03,860 --> 00:22:06,820
+is like, I was hearing Richard Haas speak
+就像我听到理查德·哈斯讲话那样
+
+423
+00:22:06,820 --> 00:22:08,380
+and he's the guy who's the president
+，而他是理事会里担任主席的人。
+
+424
+00:22:08,380 --> 00:22:09,620
+of the council in formulations.
+在政策制定中担任主席。
+
+425
+00:22:09,620 --> 00:22:13,540
+And he's like, we're not born learning geometry or algebra
+他说道，我们并不是出生就会学习几何或代数的。
+
+426
+00:22:13,540 --> 00:22:16,500
+or that the mitochondria is the powerhouse of the cell.
+或者认为线粒体是细胞的能量工厂。
+
+427
+00:22:16,500 --> 00:22:18,620
+Why is it expected that we are born knowing
+为什么人们认为我们出生时就该懂得
+
+428
+00:22:18,620 --> 00:22:21,260
+how to be citizens and how to engage civically
+如何成为公民并积极参与公民事务？
+
+429
+00:22:21,260 --> 00:22:24,980
+and how to be a member of a thriving democratic republic?
+以及如何成为民主共和国中的一员？
+
+430
+00:22:24,980 --> 00:22:27,220
+Why is that the one thing that's assumed?
+为什么这是一点被默认的事？
+
+431
+00:22:27,220 --> 00:22:30,260
+And as a result, our numbers are pretty dismal.
+因此，我们的参与人数相当糟糕。
+
+432
+00:22:30,260 --> 00:22:33,140
+Civics is the second worst scoring subject right now
+公民教育目前是评分最差的科目之一。
+
+433
+00:22:33,140 --> 00:22:35,660
+in the United States according to the nation's report card.
+根据美国国家报告卡的数据。
+
+434
+00:22:35,660 --> 00:22:37,780
+The only thing worse is US history.
+唯一更糟糕的是美国历史。
+
+435
+00:22:37,780 --> 00:22:38,620
+Well, that's fine.
+好吧，这也没关系。
+
+436
+00:22:38,620 --> 00:22:40,060
+We've got 22% proficiency,
+我们只有22%的掌握程度，
+
+437
+00:22:40,060 --> 00:22:44,540
+but perhaps that is tied to the fact that in 2022,
+但也许这和2022年的情况有关，
+
+438
+00:22:44,540 --> 00:22:47,340
+I believe the number was for every American student
+我认为每名美国学生
+
+439
+00:22:47,340 --> 00:22:49,700
+in the United States was given $50 federally
+在美国每名学生获得50美元的联邦拨款
+
+440
+00:22:49,700 --> 00:22:51,460
+towards STEM education.
+用于STEM教育。
+
+441
+00:22:51,460 --> 00:22:54,540
+And towards civics education, it was five cents.
+而关于公民教育，只有五分钱。
+
+442
+00:22:54,540 --> 00:22:56,020
+The number has increased.
+这个数字已经增加了。
+
+443
+00:22:56,020 --> 00:22:58,060
+It's now 50 cents per student per year
+现在是每名学生每年50美分
+
+444
+00:22:58,060 --> 00:23:00,460
+as opposed to $50 per student per year.
+相比每年每名学生50美元。
+
+445
+00:23:00,460 --> 00:23:02,540
+But like Grant was saying,
+但就像Grant说的，
+
+446
+00:23:02,540 --> 00:23:05,620
+this is how you can become a citizen when you grow up.
+这就是你长大后成为公民的方式。
+
+447
+00:23:05,620 --> 00:23:06,780
+And like Hannah was saying earlier,
+就像汉娜之前说的那样，
+
+448
+00:23:06,780 --> 00:23:08,540
+this is the most important thing,
+这一点是最重要的是，
+
+449
+00:23:08,540 --> 00:23:10,460
+how to talk with people, how to negotiate,
+如何与人交流，如何协商，
+
+450
+00:23:10,460 --> 00:23:11,980
+how to compromise.
+如何妥协。
+
+451
+00:23:11,980 --> 00:23:14,140
+We are seeing an effect perhaps that,
+我们正看到一种或许这样的现象，
+
+452
+00:23:15,140 --> 00:23:17,100
+in civility and modern politics today,
+在文明与现代政治之中，
+
+453
+00:23:17,100 --> 00:23:19,020
+we're seeing a decline in that at the same time
+我们正看到这种文明的衰退，同时
+
+454
+00:23:19,020 --> 00:23:22,380
+that students are not taking as much civics in the classroom.
+学生们在课堂上对公民教育的重视程度也在下降。
+
+455
+00:23:22,380 --> 00:23:25,040
+I remember we were on a trip to,
+我记得我们曾去了一趟，
+
+456
+00:23:25,040 --> 00:23:27,340
+I believe it we were wearing Birmingham.
+我相信我们去的是伯明翰。
+
+457
+00:23:27,340 --> 00:23:31,380
+We took the show down there and we did a public event.
+我们在那里参加了一场活动，并举办了一场公开活动。
+
+458
+00:23:31,380 --> 00:23:33,760
+If I got the city wrong, forgive me.
+如果我搞错了城市，就原谅我吧。
+
+459
+00:23:33,760 --> 00:23:35,660
+But there was a young woman in the audience
+但现场有一位年轻女性
+
+460
+00:23:35,660 --> 00:23:38,300
+who talked about when she's feeling overwhelmed politically,
+谈到她曾感到在政治上被淹没时,
+
+461
+00:23:38,300 --> 00:23:41,780
+she goes micro and she looks at what she can do
+她开始冷静下来，开始思考自己能做什么。
+
+462
+00:23:41,780 --> 00:23:44,720
+in her community to serve others.
+在她的社区中去服务他人。
+
+463
+00:23:44,720 --> 00:23:48,060
+And that helps her feel more connected
+而这让她感到更加联结。
+
+464
+00:23:48,060 --> 00:23:50,220
+but also just more grounded.
+但同时也让她感到踏实稳定。
+
+465
+00:23:50,220 --> 00:23:53,820
+and it would relieve the sensation of feeling overwhelmed,
+它会缓解那种被淹没的感觉,
+
+466
+00:23:53,820 --> 00:23:55,280
+but also powerless.
+但也会消除无力感。
+
+467
+00:23:55,280 --> 00:23:57,680
+And Hannah, I think when we think about civic engagement,
+而汉娜，我认为当我们谈论公民参与时,
+
+468
+00:23:57,680 --> 00:24:00,220
+it's not just about voting, it goes far beyond that.
+它不仅仅是投票，它远超于此。
+
+469
+00:24:00,220 --> 00:24:02,180
+It does go far, far beyond that.
+它远远超出那一点。
+
+470
+00:24:02,180 --> 00:24:04,860
+I've been thinking about this a lot as a journalist
+我作为一名记者，一直反复思考这个问题。
+
+471
+00:24:04,860 --> 00:24:09,380
+working on a show that often covers the federal landscape,
+我正在制作一档经常报道联邦层面议题的节目。
+
+472
+00:24:09,380 --> 00:24:12,440
+the national landscape, but when it comes to actually
+全国层面的议题，但当谈到实际
+
+473
+00:24:12,440 --> 00:24:17,400
+ensuring that the public feels that they can use the tools
+确保公众觉得他们能够使用这些工具
+
+474
+00:24:17,400 --> 00:24:20,100
+that we are attempting to provide them with,
+我们试图为他们提供的工具
+
+475
+00:24:20,100 --> 00:24:23,860
+That, I think, comes by way of feeling empowerment
+我认为，这源于一种被赋权的感觉
+
+476
+00:24:23,860 --> 00:24:28,340
+in your neighborhood, on your street, in your town, perhaps.
+在你所在的社区、街道、城镇，或许如此。
+
+477
+00:24:28,340 --> 00:24:30,660
+And in order to feel that sense of empowerment,
+为了产生这种被赋权的感觉，
+
+478
+00:24:30,660 --> 00:24:32,300
+you do have to go micro.
+你确实需要深入到微观层面去。
+
+479
+00:24:32,300 --> 00:24:35,140
+I love that idea because so often,
+我特别喜欢这个想法，因为很多时候，我们根本无法对那些大而嘈杂的事务做出什么影响。
+
+480
+00:24:35,140 --> 00:24:36,980
+there's not an immense amount that you can do
+你实际上很难做到什么。
+
+481
+00:24:36,980 --> 00:24:39,740
+about the big, loud stuff up here,
+关于那些高调、庞大的事情，
+
+482
+00:24:39,740 --> 00:24:41,460
+but you are a lot closer to being able
+但你更接近能够
+
+483
+00:24:41,460 --> 00:24:43,740
+to do something about that if it concerns you,
+去为那些影响到你的事情做些什么。
+
+484
+00:24:43,740 --> 00:24:47,220
+if you first feel a sense of empowerment at the local level.
+如果你首先在本地层面感受到一种掌控感。
+
+485
+00:24:47,220 --> 00:24:49,340
+And I think that that starts with,
+我认为，这从以下开始：
+
+486
+00:24:49,340 --> 00:24:51,700
+You know when there's a town council meeting.
+你知道，当有镇议会会议的时候。
+
+487
+00:24:51,700 --> 00:24:55,100
+You know, again, exactly how much power your mayor has.
+你知道，再次，你的市长到底拥有多少权力。
+
+488
+00:24:55,100 --> 00:24:58,040
+You know that when you're voting for a school board member,
+你知道，当你投票选出一名校董事会成员时，
+
+489
+00:24:58,040 --> 00:25:01,100
+that school board member is able to do X, Y, and Z.
+那位校董事会成员就能做到X、Y和Z。
+
+490
+00:25:01,100 --> 00:25:03,940
+And beyond the ballot box,
+而在投票箱之外，
+
+491
+00:25:03,940 --> 00:25:06,220
+then how do you interact with that person?
+那么你又是如何与这个人互动的呢？
+
+492
+00:25:06,220 --> 00:25:08,800
+If you can go into a room and have a conversation
+如果你能走进房间，进行一次对话
+
+493
+00:25:08,800 --> 00:25:11,460
+with a city council member and they look you in the eye
+与一位市议会成员对视
+
+494
+00:25:11,460 --> 00:25:14,060
+and they at least appear to be listening to you,
+并且至少看起来是在倾听你，
+
+495
+00:25:14,060 --> 00:25:15,300
+then you can follow up.
+那么你就可以继续跟进。
+
+496
+00:25:15,300 --> 00:25:17,460
+You as a citizen have engaged
+作为公民，你已经参与了
+
+497
+00:25:17,460 --> 00:25:19,940
+And then you can continue to ask those questions,
+然后你可以继续追问这些问题，
+
+498
+00:25:19,940 --> 00:25:23,220
+continue to follow up and sort of hold power to account
+持续跟进，并对权力进行监督
+
+499
+00:25:23,220 --> 00:25:24,940
+on that smaller level.
+在更小的层面。
+
+500
+00:25:24,940 --> 00:25:26,980
+That is, I think, where we both feel
+也就是说，我认为，我们双方都感到
+
+501
+00:25:26,980 --> 00:25:28,180
+that sense of empowerment.
+那种被赋权的感觉。
+
+502
+00:25:28,180 --> 00:25:31,940
+And it's also, I think, a shield against the fear
+而且，我认为，这也能成为一种抵御恐惧的屏障
+
+503
+00:25:31,940 --> 00:25:34,500
+and anxiety that comes from feeling like you can't do
+以及来自感觉自己无法做到的焦虑
+
+504
+00:25:34,500 --> 00:25:36,340
+anything at that bigger level.
+对国家未来发展的无力感
+
+505
+00:25:36,340 --> 00:25:37,860
+We got this email from Bill who says,
+我们收到一封来自比尔的邮件，他说，
+
+506
+00:25:37,860 --> 00:25:39,860
+given the importance of understanding civics
+在理解公民教育如此重要的情况下
+
+507
+00:25:39,860 --> 00:25:41,700
+and shaping the future of our country,
+以及塑造我们国家的未来，
+
+508
+00:25:41,700 --> 00:25:44,540
+why do your guests think this isn't taught more widely
+为什么你们觉得这没有被更广泛地教授
+
+509
+00:25:44,540 --> 00:25:46,660
+in American primary and secondary schools?
+在美国的中小学里？
+
+510
+00:25:46,660 --> 00:25:49,120
+And what can be done to get more widespread adoption
+那么，我们能做些什么来推动它更广泛地被采纳？
+
+511
+00:25:49,120 --> 00:25:50,940
+of civics education in school?
+在学校中普及公民教育？
+
+512
+00:25:50,940 --> 00:25:52,040
+So Nick, why?
+所以尼克，为什么？
+
+513
+00:25:52,040 --> 00:25:55,040
+Yeah, well, I do want to say one thing though first,
+嗯，不过我想先说一件事，
+
+514
+00:25:55,040 --> 00:25:57,960
+which is it seems a bit dismal if we look at the federal level
+如果我们看看联邦层面，情况似乎相当糟糕
+
+515
+00:25:57,960 --> 00:25:59,720
+to answer the question.
+来回答这个问题。
+
+516
+00:25:59,720 --> 00:26:01,840
+But things are happening right now
+但眼下事情正在发生
+
+517
+00:26:01,840 --> 00:26:03,480
+on the state and local level.
+在州和地方层面。
+
+518
+00:26:03,480 --> 00:26:05,440
+It seems like that's kind of all we're championing today,
+看起来，我们今天所倡导的，
+
+519
+00:26:05,440 --> 00:26:06,760
+is state and local, but it is true.
+是州和地方层面的，但这是事实。
+
+520
+00:26:06,760 --> 00:26:08,960
+Like civics education on the state level
+比如，州级的公民教育
+
+521
+00:26:08,960 --> 00:26:11,640
+is starting to boom in the last five years.
+在过去五年里正蓬勃发展。
+
+522
+00:26:11,640 --> 00:26:14,720
+There's over 240 bills right now in the house
+目前，国会里已经有超过240项法案
+
+523
+00:26:14,720 --> 00:26:16,240
+and various houses across the country
+以及全国各地的各个州议会
+
+524
+00:26:16,240 --> 00:26:19,560
+in 40 different states changing how we do civics education.
+在40个不同州，正在改变公民教育的方式。
+
+525
+00:26:19,560 --> 00:26:23,080
+We're really trying to bring up that rather low proficiency.
+我们真的在努力提升那如此低的水平。
+
+526
+00:26:23,080 --> 00:26:25,800
+As to why it's been so low for so long,
+至于为什么它长期以来都这么低，
+
+527
+00:26:25,800 --> 00:26:28,480
+there's so many reasons you can blame Sputnik.
+有很多原因可以归咎于斯普特尼克。
+
+528
+00:26:28,480 --> 00:26:30,400
+You can blame the space race.
+你也可以归咎于太空竞赛。
+
+529
+00:26:30,400 --> 00:26:32,680
+You can blame, what was the thing we were talking about?
+你也可以归咎于我们之前提到的那个问题？
+
+530
+00:26:32,680 --> 00:26:35,960
+Like the change, the lack of social studies movement.
+比如，变革，社会研究课程的缺失。
+
+531
+00:26:35,960 --> 00:26:38,280
+There are so many reasons that it has dwindled
+原因太多了，它已经大幅衰退了
+
+532
+00:26:38,280 --> 00:26:39,780
+in the last 40 to 50 years,
+在过去的40到50年里，
+
+533
+00:26:39,780 --> 00:26:42,520
+but I will say on the local level, it is on the rise.
+但我要说，在地方层面，它正在回升。
+
+534
+00:26:42,520 --> 00:26:45,000
+There are a ton of organizations doing a ton of work
+现在有大量组织在投入大量工作
+
+535
+00:26:45,000 --> 00:26:47,720
+to improve civic education in the US.
+致力于改善美国的公民教育。
+
+536
+00:26:47,720 --> 00:26:49,480
+That's why our show was kind of created.
+正是这个原因，我们的节目才被构思出来。
+
+537
+00:26:49,480 --> 00:26:51,280
+It was conceived as civics, sorry,
+它最初是作为公民教育被构想的，
+
+538
+00:26:51,280 --> 00:26:53,080
+schoolhouse rock for adults,
+学校之外，面向成年人的教育，
+
+539
+00:26:53,080 --> 00:26:55,880
+because a lot of adults didn't get a tremendous
+因为很多成年人并没有获得充分的
+
+540
+00:26:55,880 --> 00:26:59,640
+civics education in the 1980s or the 1990s, including me.
+公民教育，包括我自己在1980年代或1990年代的经历。
+
+541
+00:26:59,640 --> 00:27:02,080
+So this is important.
+所以这一点很重要。
+
+542
+00:27:02,080 --> 00:27:04,560
+It's important to have these outside organizations
+拥有这些外部组织
+
+543
+00:27:04,560 --> 00:27:06,240
+trying to improve civic education.
+致力于改善公民教育，
+
+544
+00:27:06,240 --> 00:27:09,520
+Well, you also spoke to civics teachers in an episode
+嗯，你也在某期节目中采访过公民教育教师，
+
+545
+00:27:09,520 --> 00:27:12,800
+and you asked them, like, give us some context here.
+还问了他们，比如，给我们一些背景信息。
+
+546
+00:27:12,800 --> 00:27:15,900
+Why do you think there's this disconnect
+你认为这种在公民教育上的脱节，
+
+547
+00:27:15,900 --> 00:27:19,260
+in American society around why and how to teach civics?
+在美国社会中，关于为什么要教公民课，以及如何教，究竟存在什么断层？
+
+548
+00:27:19,260 --> 00:27:21,940
+But also why are we doing so poorly at it, Hannah?
+但为什么我们在这件事上做得如此糟糕，汉娜？
+
+549
+00:27:21,940 --> 00:27:23,420
+What did they tell you?
+他们告诉了你什么？
+
+550
+00:27:23,420 --> 00:27:26,380
+Teachers are experiencing an immense amount of,
+教师们正承受着巨大的压力，
+
+551
+00:27:26,380 --> 00:27:27,900
+and this is what they have told us,
+而这正是他们告诉我们的，
+
+552
+00:27:27,900 --> 00:27:31,300
+restriction or the implication of restriction.
+限制或限制的暗示。
+
+553
+00:27:31,300 --> 00:27:34,980
+I think that when it comes to divisive concepts laws,
+我认为，当涉及到有争议的概念法律时，
+
+554
+00:27:34,980 --> 00:27:37,420
+there might be a sense of,
+可能有一种感觉是，
+
+555
+00:27:37,420 --> 00:27:39,660
+we are helping teachers better understand
+我们是在帮助教师更好地理解
+
+556
+00:27:39,660 --> 00:27:40,740
+what they are allowed to teach.
+他们被允许教授的内容。
+
+557
+00:27:40,740 --> 00:27:44,180
+but a lot of teachers were not so much struggling with that.
+但很多教师并没有因此感到太困扰。
+
+558
+00:27:44,180 --> 00:27:46,260
+I know a lot of teachers.
+我知道很多教师。
+
+559
+00:27:46,260 --> 00:27:48,500
+They really want you to know that they are not
+他们真的希望你知道，他们并不是
+
+560
+00:27:48,500 --> 00:27:50,820
+in an indoctrination project.
+在灌输项目中。
+
+561
+00:27:50,820 --> 00:27:53,820
+They are really in a democracy project, little d.
+他们真的在搞一个民主项目，小d。
+
+562
+00:27:53,820 --> 00:27:55,860
+And they want your children, they
+他们想要你们的孩子，他们
+
+563
+00:27:55,860 --> 00:27:58,380
+want their students to take lessons,
+希望他们的学生去上课，
+
+564
+00:27:58,380 --> 00:28:01,900
+but then do with it what they will, empowered to do it
+但随后又得根据他们自己能做什么去处理它
+
+565
+00:28:01,900 --> 00:28:05,940
+in a just way, whatever just looks like for them.
+以一种公平的方式，只要看起来对他们来说合适就行。
+
+566
+00:28:05,940 --> 00:28:10,020
+And so for these teachers who are being told what not to teach,
+所以对于那些被明确告知哪些内容不能教的教师们，
+
+567
+00:28:10,020 --> 00:28:12,740
+that actually makes their job much more complicated
+这实际上让他们的工作变得更加复杂
+
+568
+00:28:12,740 --> 00:28:15,320
+because they're building curricula
+因为他们正在制定课程内容
+
+569
+00:28:15,320 --> 00:28:19,500
+with their state and local education officials
+与州和地方教育官员一起制定
+
+570
+00:28:19,500 --> 00:28:21,420
+and having to restrict that curricula
+还要对这些课程内容进行限制
+
+571
+00:28:21,420 --> 00:28:23,780
+or just worry about whether or not something
+或者只是担心某些内容
+
+572
+00:28:23,780 --> 00:28:25,820
+that they have been teaching for 30 years
+他们过去30年一直教过的内容
+
+573
+00:28:25,820 --> 00:28:27,580
+is going to be perceived
+是否会被认为
+
+574
+00:28:27,580 --> 00:28:29,580
+as something that should not be taught anymore.
+是应该被取消教学的内容。
+
+575
+00:28:29,580 --> 00:28:31,380
+It's really that perception
+那是一种看法
+
+576
+00:28:31,380 --> 00:28:33,500
+that makes a lot of teachers afraid.
+这让很多老师感到害怕。
+
+577
+00:28:33,500 --> 00:28:37,300
+And I think that there's some fatigue there as well.
+而且我认为其中也有些疲惫。
+
+578
+00:28:37,300 --> 00:28:39,660
+Every teacher we talked to is so devoted
+我们每一位交谈的老师都如此投入
+
+579
+00:28:39,660 --> 00:28:43,900
+But you can see it in their eyes and hear it in their voice, that they went into this
+但你能在他们的眼神和语气中看到，他们投身于这一领域
+
+580
+00:28:43,900 --> 00:28:51,340
+field in part to actively help children and by way of that actively help community, other
+部分是为了积极帮助儿童，由此也积极帮助社区和其他人
+
+581
+00:28:51,340 --> 00:28:57,980
+citizens and to be told that, you know, the implication here is that you're indoctrinating
+并被告诉，你知道，这里的含义是你们在灌输
+
+582
+00:28:57,980 --> 00:29:00,580
+or you're teaching the wrong things.
+或者你们在教错误的东西。
+
+583
+00:29:00,580 --> 00:29:04,940
+That I think on an emotional level hurts, on a perception level really hurts.
+我认为在情感层面是伤害性的，在认知层面更是造成了极大的伤害。
+
+584
+00:29:04,940 --> 00:29:09,900
+And so it, I think Steinmeister teachers who just, they just want you to know that they
+而我想到，那些中学教师，他们只是希望你们知道，
+
+585
+00:29:09,900 --> 00:29:12,860
+are genuinely acting in good faith.
+他们确实是出于善意而行动的。
+
+586
+00:29:12,860 --> 00:29:16,260
+Well, Cynthia in Salem, Virginia has this tip.
+不过，萨姆特州的辛西娅就有这样一个建议。
+
+587
+00:29:16,260 --> 00:29:18,540
+I was a middle school teacher who taught civics.
+我曾是一名中学教师，教过公民课。
+
+588
+00:29:18,540 --> 00:29:22,660
+Looking back now, I think it might be useful for teachers to give a project to their students
+回过头来看，我认为老师给学生布置一个项目可能很有用。
+
+589
+00:29:22,660 --> 00:29:27,700
+where they champion a certain cause and have them promote that cause by designing a campaign
+让他们为某个议题发声，并通过策划一场宣传活动来推广这个议题。
+
+590
+00:29:27,700 --> 00:29:31,820
+through local, state, or federal government, then present their project to the class.
+通过向地方、州或联邦政府提出建议，然后将他们的项目在课堂上展示出来。
+
+591
+00:29:31,820 --> 00:29:33,640
+that way kids can see the different approaches
+这样孩子们就能看到基层运动中的不同做法
+
+592
+00:29:33,640 --> 00:29:35,040
+for a grassroots campaign
+针对一场基层运动
+
+593
+00:29:35,040 --> 00:29:36,940
+and how they approach the various leaders
+以及他们如何接触各种领导人
+
+594
+00:29:36,940 --> 00:29:39,680
+and work with fellow citizens who join their cause.
+并和共同参与他们事业的公民们合作。
+
+595
+00:29:39,680 --> 00:29:41,560
+Give kids the tools and the vision
+给孩子们工具和愿景
+
+596
+00:29:41,560 --> 00:29:45,120
+to be involved as voters and active citizens.
+让他们成为有参与感的选民和积极参与的公民。
+
+597
+00:29:45,120 --> 00:29:46,560
+We also got this question from Doug
+我们还收到了Doug提出的一个问题
+
+598
+00:29:46,560 --> 00:29:49,200
+who says, very happy to hear civics being discussed today.
+他说，非常高兴看到公民教育正在被讨论。
+
+599
+00:29:49,200 --> 00:29:51,560
+I'd like to hear how well most civics curricula
+我想知道目前大多数公民教育课程
+
+600
+00:29:51,560 --> 00:29:54,480
+address the temptations of autocratic, authoritarian
+在应对专制、权威主义倾向方面做得如何
+
+601
+00:29:54,480 --> 00:29:56,240
+and populist forms of government.
+以及民粹主义形式的政府。
+
+602
+00:29:56,240 --> 00:29:57,080
+Nick?
+尼克？
+
+603
+00:29:57,080 --> 00:29:58,360
+Yeah, that's a very interesting question.
+嗯，这个问题非常有意思。
+
+604
+00:29:58,360 --> 00:29:59,480
+First off, thanks to Cynthia
+首先，要感谢辛蒂亚
+
+605
+00:29:59,480 --> 00:30:01,600
+and thank you for your service.
+和你一直以来的付出。
+
+606
+00:30:01,600 --> 00:30:04,720
+Cheers to all civics teachers in the US.
+向美国所有公民教师致以敬意。
+
+607
+00:30:04,720 --> 00:30:07,440
+One of the things is to the question of like,
+其中一个问题就是关于这样的问题：
+
+608
+00:30:07,440 --> 00:30:09,360
+how are we teaching notions of autocracy,
+我们是如何在教学中传授专制的概念的？
+
+609
+00:30:09,360 --> 00:30:11,280
+or perhaps even oligarchy.
+或者甚至可能是寡头政治。
+
+610
+00:30:11,280 --> 00:30:15,440
+It's very tough right now because even at the state level,
+现在这可真是个难题，因为即使在州一级，
+
+611
+00:30:15,440 --> 00:30:17,960
+teachers as Hannah was saying, are unsure of what they can
+正如汉娜所说，老师们对自身能做什么感到不确定，
+
+612
+00:30:17,960 --> 00:30:20,840
+and can't say about what is going on in current politics.
+也无法说明当前政治局势到底如何。
+
+613
+00:30:20,840 --> 00:30:23,280
+We can analyze things that have happened in the past
+我们可以分析过去发生过的事情，
+
+614
+00:30:23,280 --> 00:30:24,160
+and make connections.
+并建立联系。
+
+615
+00:30:24,160 --> 00:30:26,960
+But in terms of saying what's happening right now,
+但就目前究竟发生了什么而言，
+
+616
+00:30:26,960 --> 00:30:27,880
+it's difficult.
+这很难说。
+
+617
+00:30:27,880 --> 00:30:32,720
+And as a result, over half of teachers who were interviewed in the United States have
+而且，在美国接受访谈的教师中，超过一半的教师都
+
+618
+00:30:32,720 --> 00:30:38,280
+said that they have difficulty teaching even basic civics concepts because of the polarization
+表示，由于政治极化，他们难以教授最基本的公民教育内容。
+
+619
+00:30:38,280 --> 00:30:42,240
+in the classrooms, let alone talking about authoritarianism and autocracy.
+在课堂上都如此，更别提谈论专制主义和独裁了。
+
+620
+00:30:42,240 --> 00:30:48,280
+And the most staggering stat to me was that this was a poll conducted by iCivics, that
+而让我感到最震惊的统计数据是，这是由iCivics进行的一项调查，显示
+
+621
+00:30:48,280 --> 00:30:53,080
+21% of civics teachers have said in the last couple years they've considered leaving the
+在过去几年里，有21%的公民教育教师表示，他们曾考虑离开
+
+622
+00:30:53,080 --> 00:30:59,720
+the profession if considered leaving teaching because of the polarized climate and a great
+教育行业，因为教学环境的极化以及巨大的
+
+623
+00:30:59,720 --> 00:31:03,900
+many 60% or so fear backlash from what they teach their students.
+60%左右的教师担心，他们所教授的内容会引发学生或外界的反弹。
+
+624
+00:31:03,900 --> 00:31:09,040
+So I would advocate, you know, if you want to teach these complicated civics concepts,
+所以，我主张，如果你想要教这些复杂的公民教育内容，
+
+625
+00:31:09,040 --> 00:31:11,400
+the teachers have to be allowed to teach them.
+教师们也必须被允许去教这些内容。
+
+626
+00:31:11,400 --> 00:31:16,400
+Angela Wichita says Supreme Court Justice Sandra Day O'Connor founded a website to teach civics
+安吉拉·威奇塔说，最高法院大法官桑德拉·戴·奥康纳创办了一个网站来教授公民教育
+
+627
+00:31:16,400 --> 00:31:17,720
+to elementary school children.
+给小学生。
+
+628
+00:31:17,720 --> 00:31:19,720
+It's called iCivics.org.
+它叫iCivics.org。
+
+629
+00:31:19,720 --> 00:31:20,720
+They're wonderful.
+它们非常出色。
+
+630
+00:31:20,720 --> 00:31:26,880
+reference there, Nick. We also heard from Lorette who says 17 year olds in Virginia and many
+那里有参考资料，尼克。我们还听到了洛雷特的说法，她说，弗吉尼亚州17岁的人，以及许多
+
+631
+00:31:26,880 --> 00:31:33,680
+other places who will be 18 year olds by election day can vote this year if they pre-register.
+其他地方在选举日时年满18岁的人，如果提前注册，今年就可以投票。
+
+632
+00:31:33,680 --> 00:31:39,600
+A voter registration form is a great gift. Get young people registered before they go away
+一张选民登记表是个绝佳的礼物。在他们离开之前，帮年轻人完成登记。
+
+633
+00:31:39,600 --> 00:31:47,200
+to college. We can talk about civics education in the classroom, but when politicians politicize
+去上大学之前，我们可以在课堂上谈公民教育，但当政客们把选民投票政治化时，
+
+634
+00:31:47,200 --> 00:31:53,520
+the function, the basic function of our government. For example, President Trump casting unfounded
+政府的基本功能就受到了威胁。例如，特朗普在2020年对邮寄投票提出了毫无根据的质疑，并在今年想要掌控邮寄投票的联邦权力。
+
+635
+00:31:53,520 --> 00:31:59,680
+doubts on mail-in voting in 2020 and wanting to claim federal control over mail voting
+在2020年对邮寄投票提出无根据的质疑，并在今年想要掌控邮寄投票的联邦权力？
+
+636
+00:31:59,680 --> 00:32:05,420
+this year. How do you think that complicates the civic suite teach, young people, or even
+今年。你觉得这如何让公民教育变得复杂，让年轻人，甚至是我们自己感到困惑？
+
+637
+00:32:05,420 --> 00:32:07,920
+how we talk about it as adults, Hannah?
+作为成年人，我们是怎么谈论这个问题的，汉娜？
+
+638
+00:32:07,920 --> 00:32:13,040
+I think, again, it does come back to that perception. When you hear an elected official
+我认为，再次，这最终还是取决于那种认知。当你听到一位当选官员
+
+639
+00:32:13,040 --> 00:32:17,680
+who essentially becomes that elected official because someone or some people have invested
+谁本质上成为了一位当选官员，因为有些人或一些人已经投入了
+
+640
+00:32:17,680 --> 00:32:23,440
+trust, rather there is vested trust in that individual. That is what is implied or truly
+信任，而不是对这个个人存在真正的信任。这正是在那种情况下所隐含或真正
+
+641
+00:32:23,440 --> 00:32:27,600
+believed in that case. And so when that person in power, who as far as we know has access to an
+相信的。因此，当掌权者——我们所知他拥有大量信息——说
+
+642
+00:32:27,600 --> 00:32:34,320
+immense amount of information, says or implies that elections are not safe, are not secure,
+选举并不安全、并不可靠时，
+
+643
+00:32:34,320 --> 00:32:41,120
+we have to make sure that we restrict them in various ways. Then you have a voting populace who
+我们必须确保以各种方式加以限制。然后你面对的是一群选民，
+
+644
+00:32:41,120 --> 00:32:44,160
+who may perceive it to be that way.
+他们可能认为情况确实如此。
+
+645
+00:32:44,160 --> 00:32:46,640
+Either it is not safe and secure,
+要么不安全，要么不稳妥，
+
+646
+00:32:46,640 --> 00:32:51,560
+or when it comes to the absentee ballot process,
+或者谈到缺席投票的流程时，
+
+647
+00:32:51,560 --> 00:32:53,520
+if information is going to the federal government,
+如果信息要传给联邦政府，
+
+648
+00:32:53,520 --> 00:32:54,840
+I am nervous about information
+我担心这些信息，
+
+649
+00:32:54,840 --> 00:32:56,240
+going to the federal government.
+要传给联邦政府。
+
+650
+00:32:56,240 --> 00:33:00,680
+That might then stop a potential voter
+那可能会让潜在选民望而却步，
+
+651
+00:33:00,680 --> 00:33:04,080
+from even looking further into whether or not
+从甚至开始考虑是否，
+
+652
+00:33:04,080 --> 00:33:05,920
+their state has to implement
+他们州是否必须实施，
+
+653
+00:33:05,920 --> 00:33:09,240
+the ordered mail-in ballot rules for this year,
+今年规定的邮寄选票规则，
+
+654
+00:33:09,240 --> 00:33:12,280
+which for the 2026 midterms are really not going to happen.
+这些规则对于2026年的中期选举根本不会实现。
+
+655
+00:33:12,280 --> 00:33:13,920
+States don't have the time,
+各州根本没有时间，
+
+656
+00:33:13,920 --> 00:33:18,720
+but it creates really an atmosphere more so than a reality.
+但这种氛围却比现实更真实。
+
+657
+00:33:18,720 --> 00:33:20,820
+It does change the reality for many people,
+它确实改变了很多人生活的现实，
+
+658
+00:33:20,820 --> 00:33:24,680
+especially when it comes to security officials,
+尤其是在涉及安全官员的时候，
+
+659
+00:33:24,680 --> 00:33:25,880
+if you want to call them that,
+如果你想要称之为，
+
+660
+00:33:25,880 --> 00:33:30,480
+near or at polling locations that intimidate voters as well.
+在投票站附近或投票地点对选民进行恐吓的行为也存在。
+
+661
+00:33:30,480 --> 00:33:33,140
+But all of that muddies the water of
+但所有这些都模糊了
+
+662
+00:33:33,140 --> 00:33:35,000
+your constitutional rights,
+你们的宪法权利，
+
+663
+00:33:35,000 --> 00:33:36,920
+what it actually means to be a citizen,
+它实际上意味着什么是一个公民，
+
+664
+00:33:36,920 --> 00:33:38,560
+what power you have.
+你拥有的权力是什么。
+
+665
+00:33:38,560 --> 00:33:43,060
+And I think also putting all of this emphasis on that one day, election day, where you will
+我认为，过分强调选举日这一天，
+
+666
+00:33:43,060 --> 00:33:46,480
+or will not show up, that's your little democratic party.
+或者你不会出现，那才是你的小民主党的问题。
+
+667
+00:33:46,480 --> 00:33:47,480
+And then, I mean, little D.
+然后，我说的是，小D啊。
+
+668
+00:33:47,480 --> 00:33:48,480
+Little D.
+小D。
+
+669
+00:33:48,480 --> 00:33:49,480
+It's a celebration.
+这是一场庆祝。
+
+670
+00:33:49,480 --> 00:33:51,720
+A little democratic celebration.
+一场小小的民主庆祝。
+
+671
+00:33:51,720 --> 00:33:54,120
+And let's hyper fixate on this one thing.
+让我们集中关注这一点。
+
+672
+00:33:54,120 --> 00:33:58,520
+And then let's just sort of all relax because all that tension and stress is over.
+然后，让我们简单地放松一下，因为所有紧张和压力都过去了。
+
+673
+00:33:58,520 --> 00:34:02,920
+Well, to that end, and we've only got about a minute and a half left here, I want you
+好吧，为了这个目的，我们只剩下大约一分钟半了，我想让你们
+
+674
+00:34:02,920 --> 00:34:08,520
+both to really quickly give us a piece of civics, I won't call it homework, fun work.
+两个人都快速地给我们讲一段关于公民责任的内容，我不会称之为作业，而是有趣的任务。
+
+675
+00:34:08,520 --> 00:34:14,360
+Right? Something that helps us either think about or practice our civic responsibility
+对吧？一些能让我们思考或实践我们公民责任的事。
+
+676
+00:34:14,360 --> 00:34:17,200
+beyond election day.
+在选举日之后。
+
+677
+00:34:17,200 --> 00:34:22,160
+I would encourage every single person out there listening right now to research some
+我鼓励正在聆听的每一个人去研究一些当地社区正在举行的活动。
+
+678
+00:34:22,160 --> 00:34:25,880
+local meeting going on in your community. It could be like a zoning board meeting. It
+社区里可能正在举行一场本地会议，比如一个社区议事会。
+
+679
+00:34:25,880 --> 00:34:29,740
+could be something about, you know, where are we going to the dog park, you know, anything.
+可能涉及一些事情，比如我们该去狗公园了，或者任何其他小事。
+
+680
+00:34:29,740 --> 00:34:34,880
+And to go to that meeting and to see just how quickly the lovers of power move in those
+去参加这样的会议，看看那些权力的拥趸在这些小事上会有多快地行动。
+
+681
+00:34:34,880 --> 00:34:39,600
+small local things. Everybody out there, if everybody does that, that is being a good citizen.
+在这些小小的本地事务中。每个人如果都这么做，那就是一名合格的公民。
+
+682
+00:34:39,600 --> 00:34:46,000
+That is participating in our democracy. So go find something small that you care about
+这正是参与我们民主的表现。所以，去寻找你关心的某件小事
+
+683
+00:34:46,000 --> 00:34:49,440
+and show up and you will see how things change. Hannah, what about you?
+并现身，你就会看到事情是如何改变的。汉娜，你呢？
+
+684
+00:34:49,440 --> 00:34:54,720
+I think even smaller than that, go to your city or town hall, walk up to the counter
+我觉得甚至再简单不过了，去你们的城市或镇政府，走到柜台前
+
+685
+00:34:54,720 --> 00:34:59,360
+and talk to the person sitting on the other side of that counter. Whatever question you might have
+和坐在柜台另一边的人聊一聊，你可能有的任何问题
+
+686
+00:34:59,360 --> 00:35:05,760
+about your municipality. Even if it seems like the silliest, most obvious question in the world,
+关于你们的市政事务，哪怕它听起来像是世界上最愚蠢、最显而易见的问题
+
+687
+00:35:05,760 --> 00:35:10,880
+what you have done is you have walked into a municipal building and you are staring someone
+你所做的一切，就是走进了一座市政大楼，直视着一个人
+
+688
+00:35:10,880 --> 00:35:16,000
+in the face and that someone is there to help you. I have heard from many municipal employees who
+直视着那个人，而那个人正是来帮你解决问题的。我曾听到许多市政工作人员说
+
+689
+00:35:16,000 --> 00:35:20,960
+say, I just wish someone would come in and ask me a question. I am here to help you. I think
+说，‘我只希望有人能来问我一个问题’。我在这里是想帮助你们。我认为
+
+690
+00:35:20,960 --> 00:35:28,320
+that's a great start for really quieting the sense that you have no agency in your local or state
+这才是真正缓解那种你对本地或州事务毫无话语权的感觉的开始
+
+691
+00:35:28,320 --> 00:35:31,920
+Well, that's Hannah McCarthy and Nick Capodice.
+好了，这就是汉娜·麦卡锡和尼克·卡波迪奇。
+
+692
+00:35:31,920 --> 00:35:37,000
+They're the co-hosts and senior editors of the Civics Education Podcast, Civics 101.
+他们是《公民教育播客》的联合主持人和高级编辑，负责《公民101》。
+
+693
+00:35:37,000 --> 00:35:39,320
+It's a production of New Hampshire Public Radio.
+这是新罕布什尔公共广播电台的制作。
+
+694
+00:35:39,320 --> 00:35:43,120
+Now we're going to ask them to share some resources with us that we'll put on our website
+现在我们将邀请他们与我们分享一些资源，我们会把这些资源放到我们的网站上。
+
+695
+00:35:43,120 --> 00:35:48,260
+in addition to listening to their great podcast if you want to become more civically educated
+此外，如果你希望更深入地了解公民事务，也可以收听他们的精彩播客。
+
+696
+00:35:48,260 --> 00:35:49,260
+and engaged.
+并积极参与其中。
+
+697
+00:35:49,260 --> 00:35:51,360
+Hannah, Nick, thanks so much.
+汉娜、尼克，非常感谢你们。
+
+698
+00:35:51,360 --> 00:35:52,360
+Thank you, John.
+谢谢约翰。
+
+699
+00:35:52,360 --> 00:35:53,360
+Thank you, John.
+谢谢约翰。
+
+700
+00:35:53,360 --> 00:35:54,360
+It was a pleasure.
+非常愉快。
+
+701
+00:35:54,360 --> 00:36:05,880
+Thanks to the team at 1A who gave us permission to drop their program and our feed, you can
+感谢1A台团队给予我们播放他们节目和节目源的许可，你们可以
+
+702
+00:36:05,880 --> 00:36:09,280
+listen to more of the show at WAMU.org.
+在WAMU.org上收听更多节目。
+
+703
+00:36:09,280 --> 00:36:13,440
+Civics 101 is hosted and produced by me, Hannah McCarthy, and Nick Capodice.
+公民101由我，汉娜·麦卡锡，以及尼克·卡波迪奇主持并制作。
+
+704
+00:36:13,440 --> 00:36:15,720
+Our executive producer is Taylor Quimby.
+我们的执行制作人是泰勒·奎姆比。
+
+705
+00:36:15,720 --> 00:36:19,760
+Civics 101 is a production of NHPR, New Hampshire Public Radio.
+《Civics 101》由新罕布什尔公共广播电台 NHPR 制作。
+
+706
+00:36:24,360 --> 00:36:36,680
+This is Bill Bredesen, former Democratic governor of the state of Tennessee.
+这位是比尔·布雷德森，前田纳西州民主党州长。
+
+707
+00:36:36,680 --> 00:36:41,600
+If you love digging into how history shapes U.S. policy, check out the new season of You
+如果你喜欢探究历史如何塑造美国政策，欢迎观看新季的《你可能对了》。
+
+708
+00:36:41,600 --> 00:36:42,600
+Might Be Right.
+《You Might Be Right》。
+
+709
+00:36:42,600 --> 00:36:45,160
+And this is Bill Haslam, former Republican governor.
+我是比尔·哈斯拉姆，曾以共和党人身份担任州长。
+
+710
+00:36:45,160 --> 00:36:49,160
+This season we're asking the questions that is to find every pivotal moment in American
+本季我们正在探寻那些决定美国政治历史的关键时刻。
+
+711
+00:36:49,160 --> 00:36:50,160
+political history.
+政治史。
+
+712
+00:36:50,160 --> 00:36:54,960
+Is democracy really under threat or is that just a story as old as the Republic itself?
+民主真的面临威胁，还是仅仅是一个和共和国一样古老的故事？
+
+713
+00:36:54,960 --> 00:36:59,440
+We're tackling the biggest question shaping the 2026 midterms, so join us.
+我们正在探讨影响2026年中期选举的最大问题，欢迎加入我们。
+
+714
+00:36:59,440 --> 00:37:02,080
+Follow you might be right wherever you get your podcasts.
+欢迎在你常用的播客平台关注《You Might Be Right》。
+
+715
+00:37:20,160 --> 00:37:26,860
+Give the gift of scratchers from the California Lottery.
+节日送礼，就送加州彩票的刮刮乐。
+
+716
+00:37:26,860 --> 00:37:28,980
+A little play can make your day.
+小玩一下，开心一天。
+
+717
+00:37:28,980 --> 00:37:29,980
+Please play responsibly.
+请理性购彩。
+
+718
+00:37:29,980 --> 00:37:32,340
+Must be 18 years or older to purchase, play or claim.
+购买、游玩或兑奖须年满 18 岁。
