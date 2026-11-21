@@ -37,6 +37,10 @@ async function openEpisode(id){
   if(!e.subtitle){audio.src=e.audio;$('origin').textContent=e.date+' · 官方音频 · 字幕待补';return}
   const ctl=new AbortController();alignmentRequest=ctl;
   const opts={signal:ctl.signal};
+  const officialText=$('officialText');
+  officialText.hidden=!e.officialTranscript;
+  if(e.officialTranscript)officialText.href=e.officialTranscript;
+  else officialText.removeAttribute('href');
   $('txtLink').href=e.text;$('srtLink').hidden=true;$('downloads').hidden=false;
   let started=false;
   try{

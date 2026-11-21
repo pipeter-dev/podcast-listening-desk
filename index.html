@@ -6,7 +6,7 @@
 <div class="library"><label for="episodes">Civics 101 · 官方播客</label>
 <select id="episodes" disabled><option value="">选择节目</option></select>
 <small id="feedStatus" role="status"></small>
-<div id="downloads" hidden><a id="srtLink" download>英文字幕 SRT</a> · <a id="biLink" hidden download>中英双语 SRT</a> · <a id="txtLink" download>完整文稿 TXT</a></div></div>
+<div id="downloads" hidden><a id="officialText" target="_blank" rel="noopener" hidden>官网英文文稿</a> <a id="srtLink" download>英文字幕 SRT</a> · <a id="biLink" hidden download>中英双语 SRT</a> · <a id="txtLink" download>音频自动转录 TXT</a></div></div>
 </section><section class="transport" aria-label="播放控制"><span id="dockTitle" class="dock-title">聊聊相机测试</span>
 <audio id="audio" controls playsinline preload="metadata" src="sample.wav"></audio><div class="transport-tools"><button type="button" id="back15" aria-label="后退15秒">↶ 15秒</button><button type="button" id="playToggle" aria-label="播放">▶ 播放</button><button type="button" id="ahead30" aria-label="前进30秒">+30 秒</button><label class="rate">倍速 <select id="speed" aria-label="播放速度"></select></label></div></section>
 <div class="grid"><section id="reading"><div class="reading-head"><h2>同步文稿</h2><button id="toggleCaptions" type="button" aria-expanded="true" aria-controls="captionPanel">收起字幕</button></div><div id="captionPanel"><div class="toolbar"><label id="bilingualControl" hidden><input type="checkbox" id="showChinese" checked> 显示中文</label><label><input type="checkbox" id="follow" checked> 跟随播放</label></div><div id="alignment" hidden><span id="offset"></span> <button id="resetOffset">重置对齐</button></div><div id="rows" role="region" aria-label="可滚动的同步字幕" tabindex="0"></div></div></section>
